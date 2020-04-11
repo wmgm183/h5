@@ -1,0 +1,4336 @@
+{
+	"groups": [
+		{
+			"keys": "sheet_ui,string,metas,sheet_ui_c,guide,sound_start_game,activity_bg_png,arena_bg_jpg,battle_bg_1_jpg,battle_bg_2_jpg,battle_bg_3_jpg,battle_bg_4_jpg,battle_bg_5_jpg,burn_incense_bg_jpg,create_player_bg_jpg,create_player_boy_png,create_player_girl_png,duplicate_bg_jpg,first_charge_bg_png,flower_bg_png,garden_house_bg_jpg,loading_bg_jpg,lobby_harem_bg_jpg,lobby_main_bg_jpg,lobby_world_bg_jpg,login_bg_jpg,100001_png,100002_png,100003_png,100004_png,110001_png,110002_png,110003_png,110004_png,110005_png,110006_png,110007_png,110008_png,110009_png,120001_png,120002_png,notice_bg_png,preferential_bg_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,200001_png,200002_png,200003_png,200004_png,200005_png,200006_png,200007_png,200008_png,200009_png,200010_png,200011_png,200012_png,200013_png,200014_png,200015_png,200016_png,200017_png,200018_png,u200002_png,u200003_png,u200005_png,u200007_png,u200008_png,u200009_png,u200010_png,u200011_png,u200012_png,u200013_png,u200014_png,u200015_png,u200016_png,u200017_png,u200018_png,12_png,22_png,32_png,42_png,52_png,62_png,princess_bg_jpg,princess_party_bg_jpg,princess_rite_bg_jpg,13_png,1_beat_png,23_png,2_beat_png,prison_bg_jpg,rank_bg_png,shop_bg_png,sign_bg_png,2001_jpg,2002_jpg,2003_jpg,2004_jpg,2005_jpg,2006_jpg,throne_bg_jpg,treasure_bg_jpg,turncard_bg_png,union_bg_jpg,visit_map_jpg,world_map_jpg,world_map_names_png,arena_injured_mp3,arena_select_all_mp3,arena_select_command_mp3,arena_select_knowledge_mp3,arena_select_politics_mp3,arena_start_mp3,back_mp3,close_mp3,enter_scene_mp3,enter_throne_mp3,gain_items_mp3,impose_mineral_mp3,impose_silver_mp3,impose_troops_mp3,leave_throne_mp3,memorial_1_mp3,memorial_2_mp3,110001_1_mp3,110001_2_mp3,110002_1_mp3,110002_2_mp3,110003_1_mp3,110003_2_mp3,110004_1_mp3,110004_2_mp3,110005_1_mp3,110005_2_mp3,110006_1_mp3,110006_2_mp3,110007_1_mp3,110007_2_mp3,110008_1_mp3,110008_2_mp3,110009_1_mp3,110009_2_mp3,120001_1_mp3,120001_2_mp3,120002_1_mp3,120002_2_mp3,120003_1_mp3,120003_2_mp3,120004_1_mp3,120004_2_mp3,120005_1_mp3,120005_2_mp3,120006_1_mp3,120006_2_mp3,120007_1_mp3,120007_2_mp3,120008_1_mp3,120008_2_mp3,120009_1_mp3,120009_2_mp3,120010_1_mp3,120010_2_mp3,120011_1_mp3,120011_2_mp3,120012_1_mp3,120012_2_mp3,130001_1_mp3,130001_2_mp3,130002_1_mp3,130002_2_mp3,130003_1_mp3,130003_2_mp3,130004_1_mp3,130004_2_mp3,130005_1_mp3,130005_2_mp3,130006_1_mp3,130006_2_mp3,130007_1_mp3,130007_2_mp3,130008_1_mp3,130008_2_mp3,130009_1_mp3,130009_2_mp3,130010_1_mp3,130010_2_mp3,130011_1_mp3,130011_2_mp3,130012_1_mp3,130012_2_mp3,140001_1_mp3,140001_2_mp3,140002_1_mp3,140002_2_mp3,140003_1_mp3,140003_2_mp3,140004_1_mp3,140004_2_mp3,minister_confirm_1_mp3,minister_confirm_2_mp3,minister_hire_1_mp3,minister_hire_2_mp3,minister_thanks_1_mp3,minister_thanks_2_mp3,minister_upgrade_mp3,music_battle_mp3,music_lobby_capital_mp3,music_lobby_harem_mp3,music_lobby_main_mp3,200001_1_mp3,200001_2_mp3,200002_1_mp3,200002_2_mp3,200003_1_mp3,200003_2_mp3,200004_1_mp3,200004_2_mp3,200005_1_mp3,200005_2_mp3,200006_1_mp3,200006_2_mp3,200007_1_mp3,200007_2_mp3,200008_1_mp3,200008_2_mp3,200009_1_mp3,200009_2_mp3,200010_1_mp3,200010_2_mp3,200011_1_mp3,200011_2_mp3,200012_1_mp3,200012_2_mp3,200013_1_mp3,200013_2_mp3,200014_1_mp3,200014_2_mp3,200015_1_mp3,200015_2_mp3,200016_1_mp3,200016_2_mp3,200017_1_mp3,200017_2_mp3,200018_1_mp3,200018_2_mp3,princess_confirm_mp3,princess_greet_mp3,princess_thanks_mp3,prince_greet_1_mp3,prince_greet_2_mp3,shangchao_mp3,start_game_mp3,tab_select_mp3,take_seal_mp3,tap_button_mp3,0_png,10_png,11_png,132_png,34_png,72_png,82_png,9_png,101_png,102_png,103_png,104_png,105_png,106_png,107_png,108_png,109_png,300_png,14_png,15_png,24_png,33_png,16_png,25_png,35_png,1_jpg,2_jpg,3_jpg,4_jpg,5_jpg,6_jpg,120003_png,120004_png,120005_png,120006_png,120007_png,120008_png,120009_png,120010_png,120011_png,120012_png,120013_png,130001_png,130002_png,130003_png,130004_png,130005_png,130006_png,130007_png,130008_png,130009_png,130010_png,130011_png,130012_png,140001_png,140002_png,140003_png,140004_png,blue_star2_png,green_star2_png,orange_star2_png,red_star2_png,activity_grade_fnt,activity_grade_png,activity_name_fnt,activity_name_png,activity_type_fnt,activity_type_png,arena_cd_fnt,arena_cd_png,arena_season_rank_fnt,arena_season_rank_png,battle_beat_fnt,battle_beat_png,boss_hp_fnt,boss_hp_png,boss_name_fnt,boss_name_png,building_name_fnt,building_name_png,city_name_fnt,city_name_png,hanyixuejunti_yellow_deepred_fnt,hanyixuejunti_yellow_deepred_png,heiti_jianhuang_heibian_fnt,heiti_jianhuang_heibian_png,heiti_quse_heibian_fnt,heiti_quse_heibian_png,info_box_title_fnt,info_box_title_png,kaiti_yellow_deepred_fnt,kaiti_yellow_deepred_png,lishu_title_fnt,lishu_title_png,minister_name_fnt,minister_name_png,national_power_value_fnt,national_power_value_png,panel_title_fnt,panel_title_png,panel_title_2_fnt,panel_title_2_png,party_theme_fnt,party_theme_png,princess_name_fnt,princess_name_png,princess_name_2_fnt,princess_name_2_png,scene_title_fnt,scene_title_png,shop_price_fnt,shop_price_png,sign_month_fnt,sign_month_png,tab_label_fnt,tab_label_png,union_info_fnt,union_info_png,union_level_fnt,union_level_png,xingkai_blue_deepblue_fnt,xingkai_blue_deepblue_png,xingkai_yellow_orange_fnt,xingkai_yellow_orange_png,02_png,7001_png,7002_png,tex_png,bottom_bar_activity_tex_png,tex2_png,bottom_bar_battle_tex_png,tex3_png,tex4_png,tex5_png,tex6_png,tex7_png,tex8_png,tex9_png,tex10_png,tex11_png,tex12_png,tex13_png,tex14_png,tex15_png,tex16_png,tex17_png,tex18_png,tex19_png,tex20_png",
+			"name": "preload"
+		},
+		{
+			"keys": "sheet_minister,sheet_minister_avatar_grey",
+			"name": "minister"
+		},
+		{
+			"keys": "sheet_skill,minister_name,minister_emc,sheet_minister_info",
+			"name": "minister_info"
+		},
+		{
+			"keys": "sheet_warehouse",
+			"name": "warehouse"
+		},
+		{
+			"keys": "sheet_battle,world_map_names,world_map,sheet_map,flag_emc",
+			"name": "battle"
+		},
+		{
+			"keys": "sheet_interior",
+			"name": "interior"
+		},
+		{
+			"keys": "throne_bg,sheet_throne",
+			"name": "throne"
+		},
+		{
+			"keys": "sheet_lobby,kaiti_yellow_deepred,lobby_main_bg,lobby_harem_bg,lobby_world_bg,common_emc,lobby_emc,harem_emc,sheet_item,sheet_icon,sheet_text,tab_label,scene_title,info_box_title,panel_title,hanyixuejunti_yellow_deepred,heiti_jianhuang_heibian,xingkai_yellow_orange,xingkai_blue_deepblue,sheet_common,sheet_common_c,lishu_title,text_effect_emc,capital_emc,heiti_quse_heibian,sheet_guide,sheet_face,panel_title_2,bottom_bar_activity,bottom_bar_battle,sheet_minister_avatar,sheet_main_stage",
+			"name": "lobby"
+		},
+		{
+			"keys": "sheet_memorial",
+			"name": "memorial"
+		},
+		{
+			"keys": "sheet_office",
+			"name": "office"
+		},
+		{
+			"keys": "princess_bg,sheet_princess_house",
+			"name": "princess_house"
+		},
+		{
+			"keys": "sheet_princess,princess_name,princess_name_2",
+			"name": "princess"
+		},
+		{
+			"keys": "sheet_princess_choose,turncard_bg",
+			"name": "princess_choose"
+		},
+		{
+			"keys": "sheet_princess_position",
+			"name": "princess_position"
+		},
+		{
+			"keys": "sheet_princess_work",
+			"name": "princess_work"
+		},
+		{
+			"keys": "sheet_princess_rite,princess_rite_bg",
+			"name": "princess_rite"
+		},
+		{
+			"keys": "arena_bg,sheet_arena,color_star_json,orange_star_png,red_star_png,blue_star_png,green_star_png,arena_season_rank,sheet_buffer_icon,arena_emc",
+			"name": "arena"
+		},
+		{
+			"keys": "garden_house_bg,sheet_garden_house",
+			"name": "garden_house"
+		},
+		{
+			"keys": "flower_bg,sheet_garden_flower",
+			"name": "garden_flower"
+		},
+		{
+			"keys": "sheet_technology",
+			"name": "technology"
+		},
+		{
+			"keys": "sheet_prince,minister_emc",
+			"name": "prince"
+		},
+		{
+			"keys": "arena_cd,battle_beat,arena_battle_emc,arena_emc",
+			"name": "arena_battle"
+		},
+		{
+			"keys": "login_bg,sheet_login",
+			"name": "login"
+		},
+		{
+			"keys": "shop_bg,sheet_shop,shop_price,sheet_shop_c",
+			"name": "shop"
+		},
+		{
+			"keys": "sheet_email",
+			"name": "email"
+		},
+		{
+			"keys": "sheet_visit,visit_map,visit_emc,activity_type,city_name,create_player_girl,create_player_boy,sheet_visit_c",
+			"name": "visit"
+		},
+		{
+			"keys": "loading_bg,sheet_loading,lang,tips",
+			"name": "loading"
+		},
+		{
+			"keys": "sheet_task,sheet_task_c",
+			"name": "task"
+		},
+		{
+			"keys": "sheet_create_player,create_player_bg,create_player_boy,create_player_girl,sheet_face",
+			"name": "create_player"
+		},
+		{
+			"keys": "sign_month,sign_bg",
+			"name": "sign"
+		},
+		{
+			"keys": "princess_party_bg,sheet_princess_party,party_theme,princess_emc",
+			"name": "princess_party"
+		},
+		{
+			"keys": "treasure_bg,sheet_treasure,treasure_emc",
+			"name": "treasure"
+		},
+		{
+			"keys": "rank_bg,sheet_rank,create_player_girl,create_player_boy",
+			"name": "rank"
+		},
+		{
+			"keys": "activity_bg,activity_grade,activity_name,activity_type,sheet_activity,sheet_activity_c,sheet_email",
+			"name": "activity"
+		},
+		{
+			"keys": "sheet_preferential",
+			"name": "preferential"
+		},
+		{
+			"keys": "prison_bg,sheet_prison,prison_emc,sheet_prison_c",
+			"name": "prison"
+		},
+		{
+			"keys": "sheet_union,shop_price,union_info,union_level,union_bg,sheet_union_c",
+			"name": "union"
+		},
+		{
+			"keys": "notice_bg",
+			"name": "notice"
+		},
+		{
+			"keys": "sheet_chat_c",
+			"name": "chat"
+		},
+		{
+			"keys": "duplicate_bg,sheet_duplicate_c,sheet_duplicate,boss_hp,boss_name,sheet_buffer_icon",
+			"name": "duplicate"
+		},
+		{
+			"keys": "sheet_item_upgrade",
+			"name": "item_upgrade"
+		},
+		{
+			"keys": "sheet_open",
+			"name": "open"
+		},
+		{
+			"keys": "sheet_world_boss,world_boss_emc",
+			"name": "world_boss"
+		},
+		{
+			"keys": "first_charge_bg,first_charge_emc",
+			"name": "first_charge"
+		},
+		{
+			"keys": "burn_incense_bg",
+			"name": "burn_incense"
+		}
+	],
+	"resources": [
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_loading.json",
+			"type": "sheet",
+			"name": "sheet_loading",
+			"subkeys": "loading_icon_point,loading_icon_point_2,loading_logo,loading_thumb_bar,loading_thumb_part,loading_track"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_battle.json",
+			"type": "sheet",
+			"name": "sheet_battle",
+			"subkeys": "battle_avatar_blue_bg,battle_avatar_red_bg,battle_avatar_silver_border,battle_button_world_map,battle_country_name_bg,battle_icon_master,battle_icon_slave,battle_info_bg,battle_info_blue_bg,battle_info_red_bg,battle_panel_bg_0,battle_panel_bg_1,battle_panel_reward_bg,battle_panel_reward_title,battle_panel_title,battle_point_attack,battle_progress_blue_thumb,battle_progress_red_thumb,battle_progress_track,battle_start_battle,battle_start_battle_bg,battle_text_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_item.json",
+			"type": "sheet",
+			"name": "sheet_item",
+			"subkeys": "item_1,item_1_small,item_2,item_2_small,item_3,item_3_small,item_4,item_4_small,item_5_small,item_6,item_600001,item_600002,item_600003,item_600004,item_600005,item_600006,item_600007,item_600008,item_600009,item_600010,item_600011,item_600012,item_600013,item_600014,item_600015,item_600016,item_600017,item_600018,item_600019,item_600020,item_600021,item_600022,item_600023,item_600024,item_600025,item_600026,item_600027,item_600028,item_600029,item_600030,item_600031,item_600032,item_600033,item_600034,item_600035,item_600036,item_600037,item_600038,item_600039,item_600040,item_600041,item_600042,item_600043,item_600044,item_600045,item_600046,item_600047,item_600048,item_600049,item_600050,item_600051,item_600052,item_600053,item_600054,item_600055,item_600056,item_600057,item_600058,item_600059,item_600060,item_600061,item_600062,item_600063,item_600064,item_600065,item_600066,item_600067,item_600068,item_600069,item_600070,item_600071,item_600072,item_600073,item_600074,item_600075,item_600077,item_600078,item_600079,item_600080,item_600081,item_600082,item_600083,item_600084,item_600085,item_600086,item_600087,item_600088,item_600089,item_600090,item_600091,item_600092,item_600093,item_600100,item_600101,item_600102,item_600103,item_600104,item_600105,item_600106,item_600107,item_600108,item_600109,item_600110,item_600111,item_600112,item_600113,item_600114,item_600115,item_600116,item_600117,item_600118,item_611001,item_611002,item_611003,item_611004,item_611005,item_611006,item_611007,item_611008,item_611009,item_611010,item_612001,item_612002,item_612003,item_612004,item_612005,item_612006,item_612007,item_612008,item_612009,item_612010,item_613001,item_613002,item_613003,item_613004,item_613005,item_613006,item_613007,item_613008,item_613009,item_613010,item_620001,item_620002,item_620003,item_620004,item_620005,item_620006,item_620007,item_620011,item_620012,item_620013,item_620014,item_620015,item_620017,item_6_small,item_7,item_7_small,item_command,item_knowledge,item_politics"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_common.json",
+			"type": "sheet",
+			"name": "sheet_common",
+			"subkeys": "common_avatar_bg,common_avatar_bg_grey,common_avatar_top,common_avatar_top_grey,common_bar_bg,common_button_help,common_button_skip_story,common_cd_bg,common_decree_panel_bg,common_decree_panel_bg_left,common_decree_panel_bg_right,common_dialog_bg,common_icon_button_bg,common_image_2,common_image_dragon,common_img_2,common_img_4,common_img_5,common_img_industry,common_img_military,common_img_small_dragon,common_img_trade,common_item_bg,common_item_cell_bg,common_item_cell_bg_gap,common_item_quality_0,common_item_quality_1,common_item_quality_2,common_item_quality_3,common_item_quality_4,common_item_quality_5,common_item_selector,common_light,common_luck,common_minister_appoint,common_minister_body_mask,common_minister_name_bg,common_minister_quality_black_layer_small,common_minister_question,common_panel_bg_2,common_panel_info_blue_bg,common_panel_info_blue_field_bg,common_panel_info_blue_name_bg,common_panel_info_red_bg,common_panel_info_red_field_bg,common_panel_info_red_name_bg,common_panel_result_blue_part_0,common_panel_result_blue_title,common_panel_result_red_part_0,common_panel_result_red_title,common_panel_title_bg,common_panel_title_bg_2,common_ranking_num_1,common_ranking_num_2,common_ranking_num_3,common_scene_top,common_scene_top_bg,common_seal,common_select_bg,common_sign_get,common_skill_bg,common_skill_level_bg,common_skill_outline,common_title_bg_1,common_title_bg_3,common_title_bg_4,common_title_complete,common_title_get_items,common_treasure_box_close,common_treasure_box_open,common_unselect_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_icon.json",
+			"type": "sheet",
+			"name": "sheet_icon",
+			"subkeys": "icon_area,icon_attack,icon_cash_gift,icon_chat,icon_critical,icon_emerald,icon_gold,icon_gold_single,icon_hp,icon_impose,icon_industry,icon_mail,icon_military,icon_mineral,icon_name_icon_1,icon_name_icon_2,icon_name_icon_3,icon_name_icon_4,icon_silver,icon_tip_point,icon_trade,icon_troops,icon_visit_energy,icon_visit_seal"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_text.json",
+			"type": "sheet",
+			"name": "sheet_text",
+			"subkeys": "text_country_propties,text_development_queue,text_industry,text_military,text_trade,text_treasure_advance,text_treasure_command,text_treasure_knowledge,text_treasure_politics"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_ui.json",
+			"type": "sheet",
+			"name": "sheet_ui",
+			"subkeys": "ui_button_add_h,ui_button_add_n,ui_button_attend_h,ui_button_attend_n,ui_button_back_h,ui_button_back_n,ui_button_blue_h,ui_button_blue_n,ui_button_change_h,ui_button_change_n,ui_button_close_h,ui_button_close_n,ui_button_color_d,ui_button_cyan_h,ui_button_cyan_n,ui_button_decrease,ui_button_green_h,ui_button_green_n,ui_button_icon_close_h,ui_button_icon_close_n,ui_button_increase,ui_button_orange_h,ui_button_orange_n,ui_button_red_h,ui_button_red_n,ui_button_refresh_h,ui_button_refresh_n,ui_change,ui_checkbox_flag,ui_panel_button_close_h,ui_panel_button_close_n,ui_progress_3_track,ui_radio_bg,ui_radio_bg_2,ui_radio_flag,ui_radio_flag_2,ui_slider_thumb,ui_switch_off,ui_switch_on,ui_tab_button2_h,ui_tab_button2_n,ui_tab_button4_h,ui_tab_button4_n,ui_tab_button_h,ui_tab_button_n"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/tab_label.fnt",
+			"type": "font",
+			"name": "tab_label"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/scene_title.fnt",
+			"type": "font",
+			"name": "scene_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_interior.json",
+			"type": "sheet",
+			"name": "sheet_interior",
+			"subkeys": "interior_choose_minister,interior_develop_bg,interior_img_0,interior_impose_img_0,interior_impose_item_cover_industry,interior_impose_item_cover_military,interior_impose_item_cover_trade,interior_lock,interior_minister_default,interior_national_props,interior_program_bg,interior_scroll,interior_scroll_business,interior_scroll_industry,interior_scroll_military,interior_send,interior_state_developing,interior_state_finish"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_minister_avatar.json",
+			"type": "sheet",
+			"name": "sheet_minister_avatar",
+			"subkeys": "minister_avatar_110001,minister_avatar_110002,minister_avatar_110003,minister_avatar_110004,minister_avatar_110005,minister_avatar_110006,minister_avatar_110007,minister_avatar_110008,minister_avatar_110009,minister_avatar_120001,minister_avatar_120002,minister_avatar_120003,minister_avatar_120004,minister_avatar_120005,minister_avatar_120006,minister_avatar_120007,minister_avatar_120008,minister_avatar_120009,minister_avatar_120010,minister_avatar_120011,minister_avatar_120012,minister_avatar_130001,minister_avatar_130002,minister_avatar_130003,minister_avatar_130004,minister_avatar_130005,minister_avatar_130006,minister_avatar_130007,minister_avatar_130008,minister_avatar_130009,minister_avatar_130010,minister_avatar_130011,minister_avatar_130012,minister_avatar_140001,minister_avatar_140002,minister_avatar_140003,minister_avatar_140004,minister_avatar_7001,minister_avatar_7002,minister_avatar_block_1001,minister_avatar_block_1002,minister_avatar_block_1003,minister_avatar_block_1004,minister_avatar_block_1005,minister_avatar_block_110001,minister_avatar_block_110002,minister_avatar_block_110003,minister_avatar_block_110004,minister_avatar_block_110005,minister_avatar_block_110006,minister_avatar_block_110007,minister_avatar_block_110008,minister_avatar_block_110009,minister_avatar_block_120001,minister_avatar_block_120002,minister_avatar_block_120003,minister_avatar_block_120004,minister_avatar_block_120005,minister_avatar_block_120006,minister_avatar_block_120007,minister_avatar_block_120008,minister_avatar_block_120009,minister_avatar_block_120010,minister_avatar_block_120011,minister_avatar_block_120012,minister_avatar_block_130001,minister_avatar_block_130002,minister_avatar_block_130003,minister_avatar_block_130004,minister_avatar_block_130005,minister_avatar_block_130006,minister_avatar_block_130007,minister_avatar_block_130008,minister_avatar_block_130009,minister_avatar_block_130010,minister_avatar_block_130011,minister_avatar_block_130012,minister_avatar_block_140001,minister_avatar_block_140002,minister_avatar_block_140003,minister_avatar_block_140004,minister_avatar_block_200001,minister_avatar_block_200002,minister_avatar_block_200003,minister_avatar_block_200004,minister_avatar_block_200005,minister_avatar_block_200006,minister_avatar_block_200007,minister_avatar_block_200008,minister_avatar_block_200009,minister_avatar_block_200010,minister_avatar_block_200011,minister_avatar_block_200012,minister_avatar_block_200013,minister_avatar_block_200014,minister_avatar_block_200015,minister_avatar_block_200016,minister_avatar_block_200017,minister_avatar_block_200018,minister_avatar_block_2001,minister_avatar_block_2002,minister_avatar_block_2003,minister_avatar_block_2004,minister_avatar_block_2005,minister_avatar_block_5,minister_avatar_block_6,minister_avatar_block_7,minister_avatar_block_8"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/info_box_title.fnt",
+			"type": "font",
+			"name": "info_box_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_minister.json",
+			"type": "sheet",
+			"name": "sheet_minister",
+			"subkeys": "minister_border_1,minister_border_2,minister_border_3,minister_hire_button_hire,minister_hire_button_hire_d,minister_hire_hired,minister_hire_inner_shadow,minister_hire_item_bg,minister_hire_panel_bg,minister_hire_panel_field_bg,minister_hire_panel_name_bg,minister_level_bg,minister_luck_bg,minister_luck_title_bg,minister_peerage_1,minister_peerage_2,minister_peerage_3,minister_peerage_4,minister_peerage_5,minister_peerage_6,minister_picture_info_bg,minister_picture_item_bg,minister_picture_quality_0,minister_picture_quality_1,minister_picture_quality_2,minister_picture_quality_3,minister_quality_black_layer,minister_quality_flag_1,minister_quality_flag_2,minister_quality_flag_3,minister_quality_flag_4"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/minister_name.fnt",
+			"type": "font",
+			"name": "minister_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title.fnt",
+			"type": "font",
+			"name": "panel_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_skill.json",
+			"type": "sheet",
+			"name": "sheet_skill",
+			"subkeys": "skill_50001,skill_50002,skill_50003,skill_50004,skill_50005,skill_50006,skill_50007,skill_50008,skill_50009,skill_bg,skill_name_50001,skill_name_50002,skill_name_50003,skill_name_50004,skill_name_50005,skill_name_50006,skill_name_50007,skill_name_50008,skill_name_50009"
+		},
+		{
+			"url": "configs/lang.json",
+			"type": "json",
+			"name": "lang"
+		},
+		{
+			"url": "configs/string.json",
+			"type": "json",
+			"name": "string"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_warehouse.json",
+			"type": "sheet",
+			"name": "sheet_warehouse",
+			"subkeys": "warehouse_item_cell_combine_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/throne_bg.jpg",
+			"type": "image",
+			"name": "throne_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_throne.json",
+			"type": "sheet",
+			"name": "sheet_throne",
+			"subkeys": "throne_bottom_button_bg,throne_button_back_h,throne_button_back_n,throne_icon_interior,throne_icon_memorial,throne_icon_office,throne_label_interior,throne_label_memorial,throne_label_office"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7001.json",
+			"type": "json",
+			"name": "animation_7001_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7001.png",
+			"type": "image",
+			"name": "animation_7001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/0.json",
+			"type": "json",
+			"name": "animation_0_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/0.png",
+			"type": "image",
+			"name": "animation_0_png"
+		},
+		{
+			"url": "configs/metas.json",
+			"type": "json",
+			"name": "metas"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_lobby.json",
+			"type": "sheet",
+			"name": "sheet_lobby",
+			"subkeys": "lobby_arrow_left,lobby_arrow_right,lobby_bottom_bar_bg,lobby_building_name_bg,lobby_building_name_bg_pink,lobby_capital_sail_big,lobby_capital_sail_small,lobby_capital_ship,lobby_cloud_0,lobby_cloud_1,lobby_cloud_2,lobby_flower_0,lobby_flower_1,lobby_flower_2,lobby_flower_3,lobby_flower_4,lobby_glow_bug_body,lobby_glow_bug_glow,lobby_head_1001,lobby_head_1002,lobby_head_1003,lobby_head_1004,lobby_head_1005,lobby_head_2001,lobby_head_2002,lobby_head_2003,lobby_head_2004,lobby_head_2005,lobby_head_bg,lobby_icon_activity,lobby_icon_battle,lobby_icon_boss,lobby_icon_chat,lobby_icon_firstCharge,lobby_icon_glow_down,lobby_icon_glow_up,lobby_icon_limit,lobby_icon_mission,lobby_icon_preferential,lobby_icon_prison,lobby_icon_rank,lobby_icon_shop,lobby_icon_warehouse,lobby_main_mask,lobby_national_power_bg,lobby_national_power_label,lobby_resource_bg,lobby_small_icon_bg,lobby_task_finish,lobby_task_go,lobby_top_bar_bg,lobby_vip_0,lobby_vip_1,lobby_vip_10,lobby_vip_11,lobby_vip_12,lobby_vip_2,lobby_vip_3,lobby_vip_4,lobby_vip_5,lobby_vip_6,lobby_vip_7,lobby_vip_8,lobby_vip_9,lobby_vip_bg_0,lobby_vip_bg_1,lobby_vip_bg_2,lobby_vip_bg_3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/kaiti_yellow_deepred.fnt",
+			"type": "font",
+			"name": "kaiti_yellow_deepred"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_main_bg.jpg",
+			"type": "image",
+			"name": "lobby_main_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7002.json",
+			"type": "json",
+			"name": "animation_7002_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7002.png",
+			"type": "image",
+			"name": "animation_7002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/world_map.jpg",
+			"type": "image",
+			"name": "world_map"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_memorial.json",
+			"type": "sheet",
+			"name": "sheet_memorial",
+			"subkeys": "memorial_bg,memorial_option_1,memorial_option_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_1.jpg",
+			"type": "image",
+			"name": "battle_bg_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_2.jpg",
+			"type": "image",
+			"name": "battle_bg_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_3.jpg",
+			"type": "image",
+			"name": "battle_bg_3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_4.jpg",
+			"type": "image",
+			"name": "battle_bg_4"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_5.jpg",
+			"type": "image",
+			"name": "battle_bg_5"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_office.json",
+			"type": "sheet",
+			"name": "sheet_office",
+			"subkeys": "office_avatar_bg,office_class_1,office_class_2,office_class_3,office_class_4,office_class_5,office_class_6,office_class_7,office_class_8,office_class_9,office_class_degree_detail,office_class_degree_title,office_group_0,office_group_1,office_group_2,office_group_3,office_group_4,office_group_5"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/hanyixuejunti_yellow_deepred.fnt",
+			"type": "font",
+			"name": "hanyixuejunti_yellow_deepred"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_jianhuang_heibian.fnt",
+			"type": "font",
+			"name": "heiti_jianhuang_heibian"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_map.json",
+			"type": "sheet",
+			"name": "sheet_map",
+			"subkeys": "map_7001,map_7002,map_7003,map_7004,map_7005,map_7006,map_7007,map_7008,map_7009,map_7010,map_7011,map_7012,map_7013,map_7014,map_7015,map_7016,map_7017,map_7018,map_7019,map_7020,map_7021,map_7022,map_7023,map_7024,map_7025,map_7026,map_7027,map_7028,map_7029,map_7030,map_7031,map_7032,map_7033,map_7034,map_7035,map_7036,map_8024"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/world_map_names.png",
+			"type": "image",
+			"name": "world_map_names"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_harem_bg.jpg",
+			"type": "image",
+			"name": "lobby_harem_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess.json",
+			"type": "sheet",
+			"name": "sheet_princess",
+			"subkeys": "princess_avatar_bg,princess_avatar_mask,princess_button_select,princess_charm,princess_name_bg,princess_position_1,princess_position_2,princess_position_3,princess_position_4,princess_position_5,princess_position_6,princess_position_7,princess_position_8"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_bg.jpg",
+			"type": "image",
+			"name": "princess_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_house.json",
+			"type": "sheet",
+			"name": "sheet_princess_house",
+			"subkeys": "princess_house_icon_position,princess_house_icon_princess,princess_house_icon_turn,princess_house_label_position,princess_house_label_princess,princess_house_label_turn"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name.fnt",
+			"type": "font",
+			"name": "princess_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_position.json",
+			"type": "sheet",
+			"name": "sheet_princess_position",
+			"subkeys": "princess_position_btn_fall,princess_position_btn_rise,princess_position_decree_content,princess_position_decree_title,princess_position_group_0,princess_position_group_1,princess_position_group_2,princess_position_group_3,princess_position_group_4,princess_position_group_5,princess_position_group_6,princess_position_group_7,princess_position_group_8,princess_position_group_bg,princess_position_txt_tips"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_choose.json",
+			"type": "sheet",
+			"name": "sheet_princess_choose",
+			"subkeys": "princess_choose_decree_bg,princess_choose_decree_left,princess_choose_decree_right,princess_choose_power_bg,princess_choose_prince,princess_choose_quality_1,princess_choose_quality_2,princess_choose_quality_3,princess_choose_quality_4,princess_choose_quality_bg,princess_choose_tip,princess_choose_title,princess_choose_turn_after,princess_choose_turn_before,princess_choose_turn_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/turncard_bg.png",
+			"type": "image",
+			"name": "turncard_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_work.json",
+			"type": "sheet",
+			"name": "sheet_princess_work",
+			"subkeys": "princess_work_1_bg,princess_work_2_bg,princess_work_3_bg,princess_work_4_bg,princess_work_button_send,princess_work_name_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_rite.json",
+			"type": "sheet",
+			"name": "sheet_princess_rite",
+			"subkeys": "princess_rite_teacher_default,princess_rite_txt_open,princess_rite_txt_select_princess,princess_rite_txt_select_teacher"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_rite_bg.jpg",
+			"type": "image",
+			"name": "princess_rite_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/arena_bg.jpg",
+			"type": "image",
+			"name": "arena_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_arena.json",
+			"type": "sheet",
+			"name": "sheet_arena",
+			"subkeys": "arena_battle_blue_field_bg,arena_battle_blue_info_bg,arena_battle_blue_name_bg,arena_battle_blue_progress_track,arena_battle_button_abandon,arena_battle_button_buffer,arena_battle_controller_bg,arena_battle_controller_button_command_h,arena_battle_controller_button_command_n,arena_battle_controller_button_knowledge_h,arena_battle_controller_button_knowledge_n,arena_battle_controller_button_politics_h,arena_battle_controller_button_politics_n,arena_battle_controller_light,arena_battle_controller_part_1,arena_battle_controller_power_bg,arena_battle_controller_power_label,arena_battle_controller_power_light,arena_battle_controller_power_liquid,arena_battle_controller_power_mask,arena_battle_img_tips,arena_battle_num_1,arena_battle_num_2,arena_battle_num_3,arena_battle_panel_buffer_used,arena_battle_progress_bg,arena_battle_progress_thumb,arena_battle_red_field_bg,arena_battle_red_info_bg,arena_battle_red_name_bg,arena_battle_red_progress_track,arena_battle_skip,arena_battle_txt_vs,arena_battle_vs_bg,arena_button_help_h,arena_button_help_n,arena_button_show_more_h,arena_button_show_more_n,arena_button_start,arena_icon_history,arena_icon_ranking,arena_icon_season,arena_vs"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_yellow_orange.fnt",
+			"type": "font",
+			"name": "xingkai_yellow_orange"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_blue_deepblue.fnt",
+			"type": "font",
+			"name": "xingkai_blue_deepblue"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_world_bg.jpg",
+			"type": "image",
+			"name": "lobby_world_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/color_star.json",
+			"type": "json",
+			"name": "color_star_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/orange_star.png",
+			"type": "image",
+			"name": "orange_star_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/red_star.png",
+			"type": "image",
+			"name": "red_star_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/blue_star.png",
+			"type": "image",
+			"name": "blue_star_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/green_star.png",
+			"type": "image",
+			"name": "green_star_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/garden_house_bg.jpg",
+			"type": "image",
+			"name": "garden_house_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/flower_bg.png",
+			"type": "image",
+			"name": "flower_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_garden_house.json",
+			"type": "sheet",
+			"name": "sheet_garden_house",
+			"subkeys": "garden_house_icon_flower,garden_house_label_flower"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_garden_flower.json",
+			"type": "sheet",
+			"name": "sheet_garden_flower",
+			"subkeys": "garden_flower_button_buy_h,garden_flower_button_buy_n,garden_flower_content_bg,garden_flower_flowerpot,garden_flower_flowerpot_shadow,garden_flower_title,garden_flower_word_1,garden_flower_word_2,garden_flower_word_3,garden_flower_word_4"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_technology.json",
+			"type": "sheet",
+			"name": "sheet_technology",
+			"subkeys": "technology_choose_minister,technology_connect,technology_icon_401001,technology_icon_401002,technology_icon_401003,technology_icon_401004,technology_icon_401005,technology_icon_401006,technology_icon_401007,technology_icon_401008,technology_icon_401009,technology_icon_401010,technology_icon_401011,technology_icon_401012,technology_icon_401013,technology_icon_401014,technology_icon_401015,technology_icon_402001,technology_icon_402002,technology_icon_402003,technology_icon_402004,technology_icon_402005,technology_icon_402006,technology_icon_402007,technology_icon_402008,technology_icon_402009,technology_icon_402010,technology_icon_402011,technology_icon_402012,technology_icon_402013,technology_icon_402014,technology_icon_402015,technology_icon_403001,technology_icon_403002,technology_icon_403003,technology_icon_403004,technology_icon_403005,technology_icon_403006,technology_icon_403007,technology_icon_403008,technology_icon_403009,technology_icon_403010,technology_icon_403011,technology_icon_403012,technology_icon_403013,technology_icon_403014,technology_icon_403015,technology_icon_lock,technology_level_up_icon,technology_mask,technology_name_401001,technology_name_401002,technology_name_401003,technology_name_401004,technology_name_401005,technology_name_401006,technology_name_401007,technology_name_401008,technology_name_401009,technology_name_401010,technology_name_401011,technology_name_401012,technology_name_401013,technology_name_401014,technology_name_401015,technology_name_402001,technology_name_402002,technology_name_402003,technology_name_402004,technology_name_402005,technology_name_402006,technology_name_402007,technology_name_402008,technology_name_402009,technology_name_402010,technology_name_402011,technology_name_402012,technology_name_402013,technology_name_402014,technology_name_402015,technology_name_403001,technology_name_403002,technology_name_403003,technology_name_403004,technology_name_403005,technology_name_403006,technology_name_403007,technology_name_403008,technology_name_403009,technology_name_403010,technology_name_403011,technology_name_403012,technology_name_403013,technology_name_403014,technology_name_403015"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_prince.json",
+			"type": "sheet",
+			"name": "sheet_prince",
+			"subkeys": "prince_act_bg,prince_act_icon,prince_decree_nobles,prince_decree_open,prince_default,prince_dice,prince_icon_open,prince_info_bg,prince_peerage_1,prince_peerage_2,prince_peerage_3,prince_peerage_4,prince_peerage_5,prince_peerage_6,prince_peerage_7,prince_prince_bg,prince_shadow,prince_title_nobles,prince_title_open,prince_title_open_cost"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/flag.emc",
+			"type": "emc",
+			"name": "flag_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_cd.fnt",
+			"type": "font",
+			"name": "arena_cd"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/enter_throne.mp3",
+			"type": "sound",
+			"name": "effect_enter_throne",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/leave_throne.mp3",
+			"type": "sound",
+			"name": "effect_leave_throne",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/back.mp3",
+			"type": "sound",
+			"name": "effect_back",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/enter_scene.mp3",
+			"type": "sound",
+			"name": "effect_enter_scene",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_greet.mp3",
+			"type": "sound",
+			"name": "effect_princess_greet",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_thanks.mp3",
+			"type": "sound",
+			"name": "effect_princess_thanks",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_confirm.mp3",
+			"type": "sound",
+			"name": "effect_princess_confirm",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/memorial_1.mp3",
+			"type": "sound",
+			"name": "effect_memorial_1",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/memorial_2.mp3",
+			"type": "sound",
+			"name": "effect_memorial_2",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_hire_1.mp3",
+			"type": "sound",
+			"name": "effect_minister_hire_1",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_hire_2.mp3",
+			"type": "sound",
+			"name": "effect_minister_hire_2",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_thanks_1.mp3",
+			"type": "sound",
+			"name": "effect_minister_thanks_1",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_thanks_2.mp3",
+			"type": "sound",
+			"name": "effect_minister_thanks_2",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/prince_greet_1.mp3",
+			"type": "sound",
+			"name": "effect_prince_greet_1",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/prince_greet_2.mp3",
+			"type": "sound",
+			"name": "effect_prince_greet_2",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_confirm_1.mp3",
+			"type": "sound",
+			"name": "effect_minister_confirm_1",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_confirm_2.mp3",
+			"type": "sound",
+			"name": "effect_minister_confirm_2",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/login_bg.jpg",
+			"type": "image",
+			"name": "login_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_login.json",
+			"type": "sheet",
+			"name": "sheet_login",
+			"subkeys": "login_button_select_h,login_button_select_n,login_button_start_h,login_button_start_n,login_division_line,login_head_login,login_head_server,login_label_account,login_label_passwad,login_label_start,login_logo,login_select_server_bg,login_server_bg,login_server_frame_bg,login_server_small_bg,login_small_bg,login_swap_server,login_switch_account,login_title_login,login_title_register,login_title_server"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/battle_beat.fnt",
+			"type": "font",
+			"name": "battle_beat"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/lobby.emc",
+			"type": "emc",
+			"name": "lobby_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/harem.emc",
+			"type": "emc",
+			"name": "harem_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/building_name.fnt",
+			"type": "font",
+			"name": "building_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_shop.json",
+			"type": "sheet",
+			"name": "sheet_shop",
+			"subkeys": "shop_arrow,shop_first_double,shop_give,shop_item_bg,shop_item_name_bg,shop_label_charge,shop_label_forever,shop_label_special,shop_recharge_item_1,shop_recharge_item_2,shop_recharge_item_3,shop_recharge_item_4,shop_recharge_item_5,shop_recharge_item_6,shop_recharge_item_7,shop_recharge_item_8,shop_recharge_item_bg,shop_resource_bg,shop_sales_bg,shop_sales_type_1,shop_sales_type_2,shop_sales_type_3,shop_sales_type_4,shop_tab_h,shop_tab_label_gift_h,shop_tab_label_gift_n,shop_tab_label_gold_h,shop_tab_label_gold_n,shop_tab_label_item_h,shop_tab_label_item_n,shop_tab_label_vip_h,shop_tab_label_vip_n,shop_tab_n,shop_title_label,shop_toad,shop_vip_1,shop_vip_10,shop_vip_11,shop_vip_12,shop_vip_2,shop_vip_3,shop_vip_4,shop_vip_5,shop_vip_6,shop_vip_7,shop_vip_8,shop_vip_9,shop_vip_desc_point,shop_vip_desc_title,shop_yuan"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/shop_bg.png",
+			"type": "image",
+			"name": "shop_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/shop_price.fnt",
+			"type": "font",
+			"name": "shop_price"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/minister.emc",
+			"type": "emc",
+			"name": "minister_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/arena.emc",
+			"type": "emc",
+			"name": "arena_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_email.json",
+			"type": "sheet",
+			"name": "sheet_email",
+			"subkeys": "email_icon_looked,email_icon_receive,email_icon_un_look"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_minister_info.json",
+			"type": "sheet",
+			"name": "sheet_minister_info",
+			"subkeys": "minister_info_button_details,minister_info_cover,minister_info_icon_command,minister_info_icon_knowledge,minister_info_icon_politics,minister_info_info_box,minister_info_item_bg,minister_info_peerage_decree_content,minister_info_peerage_decree_title,minister_info_treasure_ball_command,minister_info_treasure_ball_knowledge,minister_info_treasure_ball_politics,minister_info_treasure_bg,minister_info_treasure_equip_bg_11,minister_info_treasure_equip_bg_12,minister_info_treasure_equip_bg_13,minister_info_treasure_equip_label"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_visit.json",
+			"type": "sheet",
+			"name": "sheet_visit",
+			"subkeys": "visit_btn_bg,visit_city_level_1,visit_city_level_2,visit_city_level_7,visit_city_level_8,visit_city_level_9,visit_city_name_bg,visit_dice_result_1,visit_dice_result_2,visit_dice_result_3,visit_dice_result_4,visit_dice_result_5,visit_dice_result_6,visit_finish,visit_icon_carriage,visit_icon_shovel,visit_item_bg,visit_king,visit_label_princess,visit_panel_name_bg,visit_princess_bg,visit_select_bg,visit_select_dice_bg,visit_talk_bg,visit_title_develop_cost,visit_treasure_line"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/visit_map.jpg",
+			"type": "image",
+			"name": "visit_map"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/visit.emc",
+			"type": "emc",
+			"name": "visit_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/loading_bg.jpg",
+			"type": "image",
+			"name": "loading_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_common_c.json",
+			"type": "sheet",
+			"name": "sheet_common_c",
+			"subkeys": "common_chat_bg,common_frame_bg_1,common_frame_bg_2,common_frame_bg_3,common_frame_bg_4,common_frame_bg_5,common_frame_bg_6,common_gift_title_bg,common_image_1,common_image_3,common_image_4,common_img_1,common_img_3,common_info_box,common_line,common_line_down,common_line_up,common_list_header_bg,common_name_bg_0,common_name_bg_1,common_name_bg_2,common_name_bg_3,common_name_bg_4,common_name_bg_5,common_national_power_bg,common_panel_bg,common_panel_bg_3,common_panel_bg_4,common_panel_bg_5,common_panel_dialog_bg,common_panel_result_blue_bg,common_panel_result_blue_content_bg,common_panel_result_red_bg,common_panel_result_red_content_bg,common_scene_bg_1,common_scene_bg_2,common_scene_bg_3,common_scene_bg_4,common_season_item_bg,common_season_my_bg,common_task_bg,common_toast_bg,common_top_value_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_ui_c.json",
+			"type": "sheet",
+			"name": "sheet_ui_c",
+			"subkeys": "ui_checkbox_bg,ui_progress_2_thumb,ui_progress_2_track,ui_progress_3_thumb,ui_progress_4_thumb,ui_progress_5_thumb,ui_progress_thumb,ui_progress_track,ui_slider_track,ui_slider_track_highlight,ui_switch_bg,ui_tab_button3_h,ui_tab_button3_n,ui_textarea_bg,ui_textinput_bg"
+		},
+		{
+			"url": "configs/tips.json",
+			"type": "json",
+			"name": "tips"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_task.json",
+			"type": "sheet",
+			"name": "sheet_task",
+			"subkeys": "task_finish,task_panel_bg_down,task_panel_bg_left,task_panel_bg_up"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/lishu_title.fnt",
+			"type": "font",
+			"name": "lishu_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_season_rank.fnt",
+			"type": "font",
+			"name": "arena_season_rank"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/text_effect.emc",
+			"type": "emc",
+			"name": "text_effect_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/arena_battle.emc",
+			"type": "emc",
+			"name": "arena_battle_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/national_power_value.fnt",
+			"type": "font",
+			"name": "national_power_value"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_create_player.json",
+			"type": "sheet",
+			"name": "sheet_create_player",
+			"subkeys": "create_player_face_title,create_player_king_1001,create_player_king_1002,create_player_king_1003,create_player_king_1004,create_player_king_1005,create_player_king_2001,create_player_king_2002,create_player_king_2003,create_player_king_2004,create_player_king_2005,create_player_select,create_player_tab_boy_h,create_player_tab_boy_n,create_player_tab_girl_h,create_player_tab_girl_n,create_player_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_bg.jpg",
+			"type": "image",
+			"name": "create_player_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/sign_month.fnt",
+			"type": "font",
+			"name": "sign_month"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/sign_bg.png",
+			"type": "image",
+			"name": "sign_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_party_bg.jpg",
+			"type": "image",
+			"name": "princess_party_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_princess_party.json",
+			"type": "sheet",
+			"name": "sheet_princess_party",
+			"subkeys": "princess_party_icon_gift,princess_party_info,princess_party_rank_bg,princess_party_seat_arrow,princess_party_theme_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/capital.emc",
+			"type": "emc",
+			"name": "capital_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/party_theme.fnt",
+			"type": "font",
+			"name": "party_theme"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/treasure.emc",
+			"type": "emc",
+			"name": "treasure_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/treasure_bg.jpg",
+			"type": "image",
+			"name": "treasure_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_treasure.json",
+			"type": "sheet",
+			"name": "sheet_treasure",
+			"subkeys": "treasure_banner,treasure_box_gold_close,treasure_box_gold_open,treasure_box_light,treasure_box_silver_close,treasure_box_silver_open,treasure_conquer,treasure_dragon"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/rank_bg.png",
+			"type": "image",
+			"name": "rank_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_rank.json",
+			"type": "sheet",
+			"name": "sheet_rank",
+			"subkeys": "rank_light"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_guide.json",
+			"type": "sheet",
+			"name": "sheet_guide",
+			"subkeys": "guide_black_layer,guide_blink,guide_btn_skip,guide_circle,guide_hand,guide_knockout,guide_txt_next"
+		},
+		{
+			"url": "configs/guide.json",
+			"type": "json",
+			"name": "guide"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activity_bg.png",
+			"type": "image",
+			"name": "activity_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess.emc",
+			"type": "emc",
+			"name": "princess_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/preferential_bg.png",
+			"type": "image",
+			"name": "preferential_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_preferential.json",
+			"type": "sheet",
+			"name": "sheet_preferential",
+			"subkeys": "preferential_dragon_1,preferential_dragon_2,preferential_dragon_3,preferential_independent_1,preferential_independent_2,preferential_independent_3,preferential_tab_dragon,preferential_tab_independent"
+		},
+		{
+			"url": "configs/privacy_clause.txt",
+			"type": "text",
+			"name": "privacy_clause_txt"
+		},
+		{
+			"url": "configs/tos.txt",
+			"type": "text",
+			"name": "tos_txt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prison_bg.jpg",
+			"type": "image",
+			"name": "prison_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_prison.json",
+			"type": "sheet",
+			"name": "sheet_prison",
+			"subkeys": "prison_icon_token,prison_icon_whip,prison_talk_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_minister_avatar_grey.json",
+			"type": "sheet",
+			"name": "sheet_minister_avatar_grey",
+			"subkeys": "minister_avatar_grey_block_110001,minister_avatar_grey_block_110002,minister_avatar_grey_block_110003,minister_avatar_grey_block_110004,minister_avatar_grey_block_110005,minister_avatar_grey_block_110006,minister_avatar_grey_block_110007,minister_avatar_grey_block_110008,minister_avatar_grey_block_110009,minister_avatar_grey_block_120001,minister_avatar_grey_block_120002,minister_avatar_grey_block_120003,minister_avatar_grey_block_120004,minister_avatar_grey_block_120005,minister_avatar_grey_block_120006,minister_avatar_grey_block_120007,minister_avatar_grey_block_120008,minister_avatar_grey_block_120009,minister_avatar_grey_block_120010,minister_avatar_grey_block_120011,minister_avatar_grey_block_120012,minister_avatar_grey_block_130001,minister_avatar_grey_block_130002,minister_avatar_grey_block_130003,minister_avatar_grey_block_130004,minister_avatar_grey_block_130005,minister_avatar_grey_block_130006,minister_avatar_grey_block_130007,minister_avatar_grey_block_130008,minister_avatar_grey_block_130009,minister_avatar_grey_block_130010,minister_avatar_grey_block_130011,minister_avatar_grey_block_130012,minister_avatar_grey_block_140001,minister_avatar_grey_block_140002,minister_avatar_grey_block_140003,minister_avatar_grey_block_140004"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_quse_heibian.fnt",
+			"type": "font",
+			"name": "heiti_quse_heibian"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/prison.emc",
+			"type": "emc",
+			"name": "prison_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110001_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110001_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110001_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110001_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110002_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110002_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110002_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110002_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110003_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110003_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110003_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110003_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110004_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110004_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110004_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110004_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110005_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110005_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110005_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110005_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110006_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110006_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110006_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110006_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110007_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110007_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110007_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110007_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110008_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110008_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110008_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110008_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110009_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_110009_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110009_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_110009_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120001_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120001_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120001_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120001_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120002_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120002_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120002_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120002_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120003_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120003_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120003_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120003_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120004_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120004_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120004_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120004_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120005_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120005_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120005_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120005_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120006_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120006_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120006_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120006_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120007_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120007_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120007_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120007_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120008_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120008_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120008_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120008_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120009_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120009_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120009_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120009_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120010_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120010_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120010_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120010_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120011_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120011_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120011_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120011_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120012_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_120012_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120012_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_120012_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130001_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130001_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130001_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130001_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130002_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130002_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130002_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130002_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130003_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130003_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130003_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130003_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130004_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130004_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130004_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130004_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130005_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130005_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130005_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130005_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130006_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130006_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130006_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130006_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130007_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130007_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130007_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130007_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130008_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130008_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130008_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130008_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130009_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130009_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130009_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130009_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130010_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130010_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130010_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130010_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130011_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130011_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130011_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130011_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130012_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_130012_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130012_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_130012_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140001_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_140001_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140001_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_140001_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140002_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_140002_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140002_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_140002_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140003_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_140003_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140003_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_140003_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140004_1.mp3",
+			"type": "sound",
+			"name": "sound_minister_140004_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140004_2.mp3",
+			"type": "sound",
+			"name": "sound_minister_140004_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200001_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200001_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200001_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200001_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200002_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200002_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200002_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200002_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200003_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200003_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200003_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200003_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200004_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200004_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200004_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200004_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200005_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200005_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200005_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200005_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200006_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200006_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200006_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200006_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200007_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200007_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200007_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200007_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200008_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200008_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200008_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200008_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200009_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200009_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200009_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200009_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200010_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200010_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200010_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200010_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200011_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200011_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200011_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200011_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200012_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200012_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200012_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200012_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200013_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200013_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200013_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200013_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200014_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200014_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200014_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200014_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200015_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200015_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200015_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200015_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200016_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200016_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200016_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200016_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200017_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200017_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200017_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200017_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200018_1.mp3",
+			"type": "sound",
+			"name": "sound_princess_200018_1"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200018_2.mp3",
+			"type": "sound",
+			"name": "sound_princess_200018_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_union.json",
+			"type": "sheet",
+			"name": "sheet_union",
+			"subkeys": "union_duplicate_icon_101,union_duplicate_icon_102,union_duplicate_icon_103,union_duplicate_icon_104,union_duplicate_icon_105,union_duplicate_icon_106,union_duplicate_icon_107,union_duplicate_icon_108,union_duplicate_icon_109,union_gift_bg,union_glass,union_icon_contribute,union_icon_duplicate,union_icon_info,union_icon_log,union_icon_notice,union_icon_rank,union_icon_shop,union_icon_tech,union_icon_treasure,union_info_bg,union_label_gift,union_label_level,union_label_log,union_label_notice,union_treasure_open"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_info.fnt",
+			"type": "font",
+			"name": "union_info"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_level.fnt",
+			"type": "font",
+			"name": "union_level"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/union_bg.jpg",
+			"type": "image",
+			"name": "union_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_grade.fnt",
+			"type": "font",
+			"name": "activity_grade"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_name.fnt",
+			"type": "font",
+			"name": "activity_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_type.fnt",
+			"type": "font",
+			"name": "activity_type"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_activity.json",
+			"type": "sheet",
+			"name": "sheet_activity",
+			"subkeys": "activity_class_bg,activity_desc,activity_limit_info_bg,activity_receive"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/notice_bg.png",
+			"type": "image",
+			"name": "notice_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_boy.png",
+			"type": "image",
+			"name": "create_player_boy"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_girl.png",
+			"type": "image",
+			"name": "create_player_girl"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_union_c.json",
+			"type": "sheet",
+			"name": "sheet_union_c",
+			"subkeys": "union_frame_bg,union_item_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_activity_c.json",
+			"type": "sheet",
+			"name": "sheet_activity_c",
+			"subkeys": "activity_info_bg,activity_reward_bg,activity_reward_bg_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_shop_c.json",
+			"type": "sheet",
+			"name": "sheet_shop_c",
+			"subkeys": "shop_gift_bg,shop_vip_bg_h,shop_vip_bg_n"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_task_c.json",
+			"type": "sheet",
+			"name": "sheet_task_c",
+			"subkeys": "task_item_bg,task_panel_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_prison_c.json",
+			"type": "sheet",
+			"name": "sheet_prison_c",
+			"subkeys": "prison_info_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_chat_c.json",
+			"type": "sheet",
+			"name": "sheet_chat_c",
+			"subkeys": "chat_message_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_face.json",
+			"type": "sheet",
+			"name": "sheet_face",
+			"subkeys": "face_1001,face_1002,face_1003,face_1004,face_1005,face_2001,face_2002,face_2003,face_2004,face_2005"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_item_upgrade.json",
+			"type": "sheet",
+			"name": "sheet_item_upgrade",
+			"subkeys": "item_upgrade_txt_resource"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/duplicate_bg.jpg",
+			"type": "image",
+			"name": "duplicate_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_duplicate_c.json",
+			"type": "sheet",
+			"name": "sheet_duplicate_c",
+			"subkeys": "duplicate_progress_10_thumb,duplicate_progress_1_thumb,duplicate_progress_2_thumb,duplicate_progress_3_thumb,duplicate_progress_4_thumb,duplicate_progress_5_thumb,duplicate_progress_6_thumb,duplicate_progress_7_thumb,duplicate_progress_8_thumb,duplicate_progress_9_thumb,duplicate_select_minister_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_duplicate.json",
+			"type": "sheet",
+			"name": "sheet_duplicate",
+			"subkeys": "duplicate_add,duplicate_btn_exit,duplicate_fight_bg,duplicate_help,duplicate_label_fight,duplicate_name_bg,duplicate_progress_track,duplicate_recover,duplicate_select_bg,duplicate_skill_1,duplicate_skill_2,duplicate_type_bg,duplicate_unload"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_hp.fnt",
+			"type": "font",
+			"name": "boss_hp"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_name.fnt",
+			"type": "font",
+			"name": "boss_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_buffer_icon.json",
+			"type": "sheet",
+			"name": "sheet_buffer_icon",
+			"subkeys": "buffer_icon_1,buffer_icon_2,buffer_icon_3,buffer_icon_4,buffer_icon_5"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title_2.fnt",
+			"type": "font",
+			"name": "panel_title_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name_2.fnt",
+			"type": "font",
+			"name": "princess_name_2"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_injured.mp3",
+			"type": "sound",
+			"name": "sound_arena_injured",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_all.mp3",
+			"type": "sound",
+			"name": "sound_arena_select_all",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_command.mp3",
+			"type": "sound",
+			"name": "sound_arena_select_command",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_knowledge.mp3",
+			"type": "sound",
+			"name": "sound_arena_select_knowledge",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_politics.mp3",
+			"type": "sound",
+			"name": "sound_arena_select_politics",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_start.mp3",
+			"type": "sound",
+			"name": "sound_arena_start",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/close.mp3",
+			"type": "sound",
+			"name": "sound_close",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/gain_items.mp3",
+			"type": "sound",
+			"name": "sound_gain_items",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_mineral.mp3",
+			"type": "sound",
+			"name": "sound_impose_mineral",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_silver.mp3",
+			"type": "sound",
+			"name": "sound_impose_silver",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_troops.mp3",
+			"type": "sound",
+			"name": "sound_impose_troops",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_upgrade.mp3",
+			"type": "sound",
+			"name": "sound_minister_upgrade",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/shangchao.mp3",
+			"type": "sound",
+			"name": "sound_shangchao",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/start_game.mp3",
+			"type": "sound",
+			"name": "sound_start_game",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/tab_select.mp3",
+			"type": "sound",
+			"name": "sound_tab_select",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/take_seal.mp3",
+			"type": "sound",
+			"name": "sound_take_seal",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/tap_button.mp3",
+			"type": "sound",
+			"name": "sound_tap_button",
+			"soundType": "effect"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/common.emc",
+			"type": "emc",
+			"name": "common_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/preferential.emc",
+			"type": "emc",
+			"name": "preferential_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/1001.emc",
+			"type": "emc",
+			"name": "item_effect_1001"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/1002.emc",
+			"type": "emc",
+			"name": "item_effect_1002"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/1003.emc",
+			"type": "emc",
+			"name": "item_effect_1003"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/1004.emc",
+			"type": "emc",
+			"name": "item_effect_1004"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/600100.emc",
+			"type": "emc",
+			"name": "item_effect_600100"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/611006.emc",
+			"type": "emc",
+			"name": "item_effect_611006"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/611007.emc",
+			"type": "emc",
+			"name": "item_effect_611007"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/611008.emc",
+			"type": "emc",
+			"name": "item_effect_611008"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/611009.emc",
+			"type": "emc",
+			"name": "item_effect_611009"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/611010.emc",
+			"type": "emc",
+			"name": "item_effect_611010"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/612006.emc",
+			"type": "emc",
+			"name": "item_effect_612006"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/612007.emc",
+			"type": "emc",
+			"name": "item_effect_612007"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/612008.emc",
+			"type": "emc",
+			"name": "item_effect_612008"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/612009.emc",
+			"type": "emc",
+			"name": "item_effect_612009"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/612010.emc",
+			"type": "emc",
+			"name": "item_effect_612010"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/613006.emc",
+			"type": "emc",
+			"name": "item_effect_613006"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/613007.emc",
+			"type": "emc",
+			"name": "item_effect_613007"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/613008.emc",
+			"type": "emc",
+			"name": "item_effect_613008"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/613009.emc",
+			"type": "emc",
+			"name": "item_effect_613009"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/item_effect/613010.emc",
+			"type": "emc",
+			"name": "item_effect_613010"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_open.json",
+			"type": "sheet",
+			"name": "sheet_open",
+			"subkeys": "open_bg,open_icon_10001,open_icon_10002,open_icon_10003,open_icon_10004,open_icon_10005,open_icon_10006,open_icon_10007,open_icon_10008,open_icon_10009,open_icon_10010,open_icon_10011,open_icon_10012,open_icon_10013,open_icon_10014,open_icon_10015,open_icon_10016,open_icon_10017,open_icon_10018,open_icon_bg,open_name_bg,open_title,open_up"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200001/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200001"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200002/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200002"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200003/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200003"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200004/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200004"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200005/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200005"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200006/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200006"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200007/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200007"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200008/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200008"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200009/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200009"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200010/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200010"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200011/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200011"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200012/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200012"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200013/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200013"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200014/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200014"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200015/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200015"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200016/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200016"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200017/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200017"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200018/ske.json",
+			"type": "dgb",
+			"name": "ani_princess_200018"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity/ske.json",
+			"type": "dgb",
+			"name": "bottom_bar_activity"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle/ske.json",
+			"type": "dgb",
+			"name": "bottom_bar_battle"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_battle.mp3",
+			"type": "sound",
+			"name": "music_battle"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_capital.mp3",
+			"type": "sound",
+			"name": "music_lobby_capital"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_harem.mp3",
+			"type": "sound",
+			"name": "music_lobby_harem"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_main.mp3",
+			"type": "sound",
+			"name": "music_lobby_main"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/city_name.fnt",
+			"type": "font",
+			"name": "city_name"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_main_stage.json",
+			"type": "sheet",
+			"name": "sheet_main_stage",
+			"subkeys": "main_stage_finish_tip_bg,main_stage_national_power_up_bg,main_stage_national_power_up_title"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_visit_c.json",
+			"type": "sheet",
+			"name": "sheet_visit_c",
+			"subkeys": "visit_line,visit_panel_bg,visit_tab_down,visit_tab_up"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sheets/sheet_world_boss.json",
+			"type": "sheet",
+			"name": "sheet_world_boss",
+			"subkeys": "world_boss_button_auto_fight_h,world_boss_button_auto_fight_n,world_boss_button_speed_h,world_boss_button_speed_n,world_boss_button_start_fight,world_boss_button_start_fight_bg,world_boss_button_start_fight_d,world_boss_button_switch,world_boss_fight,world_boss_hurt_1,world_boss_hurt_2,world_boss_hurt_3,world_boss_hurt_bg,world_boss_minister_grey,world_boss_prop_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2001.jpg",
+			"type": "image",
+			"name": "story_bg_2001"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2002.jpg",
+			"type": "image",
+			"name": "story_bg_2002"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2003.jpg",
+			"type": "image",
+			"name": "story_bg_2003"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2004.jpg",
+			"type": "image",
+			"name": "story_bg_2004"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2005.jpg",
+			"type": "image",
+			"name": "story_bg_2005"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2006.jpg",
+			"type": "image",
+			"name": "story_bg_2006"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/world_boss.emc",
+			"type": "emc",
+			"name": "world_boss_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/first_charge_bg.png",
+			"type": "image",
+			"name": "first_charge_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/first_charge.emc",
+			"type": "emc",
+			"name": "first_charge_emc"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/burn_incense_bg.jpg",
+			"type": "image",
+			"name": "burn_incense_bg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activity_bg.png",
+			"type": "image",
+			"name": "activity_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/arena_bg.jpg",
+			"type": "image",
+			"name": "arena_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_1.jpg",
+			"type": "image",
+			"name": "battle_bg_1_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_2.jpg",
+			"type": "image",
+			"name": "battle_bg_2_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_3.jpg",
+			"type": "image",
+			"name": "battle_bg_3_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_4.jpg",
+			"type": "image",
+			"name": "battle_bg_4_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/battle_bg_5.jpg",
+			"type": "image",
+			"name": "battle_bg_5_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/burn_incense_bg.jpg",
+			"type": "image",
+			"name": "burn_incense_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_bg.jpg",
+			"type": "image",
+			"name": "create_player_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_boy.png",
+			"type": "image",
+			"name": "create_player_boy_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/create_player_girl.png",
+			"type": "image",
+			"name": "create_player_girl_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/duplicate_bg.jpg",
+			"type": "image",
+			"name": "duplicate_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/first_charge_bg.png",
+			"type": "image",
+			"name": "first_charge_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/flower_bg.png",
+			"type": "image",
+			"name": "flower_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/garden_house_bg.jpg",
+			"type": "image",
+			"name": "garden_house_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/loading_bg.jpg",
+			"type": "image",
+			"name": "loading_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_harem_bg.jpg",
+			"type": "image",
+			"name": "lobby_harem_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_main_bg.jpg",
+			"type": "image",
+			"name": "lobby_main_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/lobby_world_bg.jpg",
+			"type": "image",
+			"name": "lobby_world_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/login_bg.jpg",
+			"type": "image",
+			"name": "login_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/100001.png",
+			"type": "image",
+			"name": "100001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/100002.png",
+			"type": "image",
+			"name": "100002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/100003.png",
+			"type": "image",
+			"name": "100003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/100004.png",
+			"type": "image",
+			"name": "100004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110001.png",
+			"type": "image",
+			"name": "110001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110002.png",
+			"type": "image",
+			"name": "110002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110003.png",
+			"type": "image",
+			"name": "110003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110004.png",
+			"type": "image",
+			"name": "110004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110005.png",
+			"type": "image",
+			"name": "110005_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110006.png",
+			"type": "image",
+			"name": "110006_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110007.png",
+			"type": "image",
+			"name": "110007_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110008.png",
+			"type": "image",
+			"name": "110008_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/110009.png",
+			"type": "image",
+			"name": "110009_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120001.png",
+			"type": "image",
+			"name": "120001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120002.png",
+			"type": "image",
+			"name": "120002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/notice_bg.png",
+			"type": "image",
+			"name": "notice_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/preferential_bg.png",
+			"type": "image",
+			"name": "preferential_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/6.png",
+			"type": "image",
+			"name": "6_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/7.png",
+			"type": "image",
+			"name": "7_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princes/8.png",
+			"type": "image",
+			"name": "8_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200001.png",
+			"type": "image",
+			"name": "200001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200002.png",
+			"type": "image",
+			"name": "200002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200003.png",
+			"type": "image",
+			"name": "200003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200004.png",
+			"type": "image",
+			"name": "200004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200005.png",
+			"type": "image",
+			"name": "200005_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200006.png",
+			"type": "image",
+			"name": "200006_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200007.png",
+			"type": "image",
+			"name": "200007_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200008.png",
+			"type": "image",
+			"name": "200008_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200009.png",
+			"type": "image",
+			"name": "200009_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200010.png",
+			"type": "image",
+			"name": "200010_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200011.png",
+			"type": "image",
+			"name": "200011_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200012.png",
+			"type": "image",
+			"name": "200012_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200013.png",
+			"type": "image",
+			"name": "200013_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200014.png",
+			"type": "image",
+			"name": "200014_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200015.png",
+			"type": "image",
+			"name": "200015_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200016.png",
+			"type": "image",
+			"name": "200016_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200017.png",
+			"type": "image",
+			"name": "200017_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/200018.png",
+			"type": "image",
+			"name": "200018_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200002.png",
+			"type": "image",
+			"name": "u200002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200003.png",
+			"type": "image",
+			"name": "u200003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200005.png",
+			"type": "image",
+			"name": "u200005_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200007.png",
+			"type": "image",
+			"name": "u200007_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200008.png",
+			"type": "image",
+			"name": "u200008_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200009.png",
+			"type": "image",
+			"name": "u200009_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200010.png",
+			"type": "image",
+			"name": "u200010_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200011.png",
+			"type": "image",
+			"name": "u200011_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200012.png",
+			"type": "image",
+			"name": "u200012_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200013.png",
+			"type": "image",
+			"name": "u200013_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200014.png",
+			"type": "image",
+			"name": "u200014_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200015.png",
+			"type": "image",
+			"name": "u200015_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200016.png",
+			"type": "image",
+			"name": "u200016_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200017.png",
+			"type": "image",
+			"name": "u200017_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princesses/u200018.png",
+			"type": "image",
+			"name": "u200018_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/1.png",
+			"type": "image",
+			"name": "12_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/2.png",
+			"type": "image",
+			"name": "22_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/3.png",
+			"type": "image",
+			"name": "32_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/4.png",
+			"type": "image",
+			"name": "42_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/5.png",
+			"type": "image",
+			"name": "52_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princessesBg/6.png",
+			"type": "image",
+			"name": "62_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_bg.jpg",
+			"type": "image",
+			"name": "princess_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_party_bg.jpg",
+			"type": "image",
+			"name": "princess_party_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/princess_rite_bg.jpg",
+			"type": "image",
+			"name": "princess_rite_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prisoners/1.png",
+			"type": "image",
+			"name": "13_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prisoners/1_beat.png",
+			"type": "image",
+			"name": "1_beat_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prisoners/2.png",
+			"type": "image",
+			"name": "23_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prisoners/2_beat.png",
+			"type": "image",
+			"name": "2_beat_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/prison_bg.jpg",
+			"type": "image",
+			"name": "prison_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/rank_bg.png",
+			"type": "image",
+			"name": "rank_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/shop_bg.png",
+			"type": "image",
+			"name": "shop_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/sign_bg.png",
+			"type": "image",
+			"name": "sign_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2001.jpg",
+			"type": "image",
+			"name": "2001_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2002.jpg",
+			"type": "image",
+			"name": "2002_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2003.jpg",
+			"type": "image",
+			"name": "2003_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2004.jpg",
+			"type": "image",
+			"name": "2004_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2005.jpg",
+			"type": "image",
+			"name": "2005_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/story/2006.jpg",
+			"type": "image",
+			"name": "2006_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/throne_bg.jpg",
+			"type": "image",
+			"name": "throne_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/treasure_bg.jpg",
+			"type": "image",
+			"name": "treasure_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/turncard_bg.png",
+			"type": "image",
+			"name": "turncard_bg_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/union_bg.jpg",
+			"type": "image",
+			"name": "union_bg_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/visit_map.jpg",
+			"type": "image",
+			"name": "visit_map_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/world_map.jpg",
+			"type": "image",
+			"name": "world_map_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/world_map_names.png",
+			"type": "image",
+			"name": "world_map_names_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_injured.mp3",
+			"type": "sound",
+			"name": "arena_injured_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_all.mp3",
+			"type": "sound",
+			"name": "arena_select_all_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_command.mp3",
+			"type": "sound",
+			"name": "arena_select_command_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_knowledge.mp3",
+			"type": "sound",
+			"name": "arena_select_knowledge_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_select_politics.mp3",
+			"type": "sound",
+			"name": "arena_select_politics_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/arena_start.mp3",
+			"type": "sound",
+			"name": "arena_start_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/back.mp3",
+			"type": "sound",
+			"name": "back_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/close.mp3",
+			"type": "sound",
+			"name": "close_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/enter_scene.mp3",
+			"type": "sound",
+			"name": "enter_scene_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/enter_throne.mp3",
+			"type": "sound",
+			"name": "enter_throne_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/gain_items.mp3",
+			"type": "sound",
+			"name": "gain_items_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_mineral.mp3",
+			"type": "sound",
+			"name": "impose_mineral_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_silver.mp3",
+			"type": "sound",
+			"name": "impose_silver_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/impose_troops.mp3",
+			"type": "sound",
+			"name": "impose_troops_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/leave_throne.mp3",
+			"type": "sound",
+			"name": "leave_throne_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/memorial_1.mp3",
+			"type": "sound",
+			"name": "memorial_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/memorial_2.mp3",
+			"type": "sound",
+			"name": "memorial_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110001_1.mp3",
+			"type": "sound",
+			"name": "110001_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110001_2.mp3",
+			"type": "sound",
+			"name": "110001_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110002_1.mp3",
+			"type": "sound",
+			"name": "110002_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110002_2.mp3",
+			"type": "sound",
+			"name": "110002_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110003_1.mp3",
+			"type": "sound",
+			"name": "110003_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110003_2.mp3",
+			"type": "sound",
+			"name": "110003_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110004_1.mp3",
+			"type": "sound",
+			"name": "110004_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110004_2.mp3",
+			"type": "sound",
+			"name": "110004_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110005_1.mp3",
+			"type": "sound",
+			"name": "110005_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110005_2.mp3",
+			"type": "sound",
+			"name": "110005_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110006_1.mp3",
+			"type": "sound",
+			"name": "110006_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110006_2.mp3",
+			"type": "sound",
+			"name": "110006_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110007_1.mp3",
+			"type": "sound",
+			"name": "110007_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110007_2.mp3",
+			"type": "sound",
+			"name": "110007_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110008_1.mp3",
+			"type": "sound",
+			"name": "110008_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110008_2.mp3",
+			"type": "sound",
+			"name": "110008_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110009_1.mp3",
+			"type": "sound",
+			"name": "110009_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/110009_2.mp3",
+			"type": "sound",
+			"name": "110009_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120001_1.mp3",
+			"type": "sound",
+			"name": "120001_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120001_2.mp3",
+			"type": "sound",
+			"name": "120001_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120002_1.mp3",
+			"type": "sound",
+			"name": "120002_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120002_2.mp3",
+			"type": "sound",
+			"name": "120002_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120003_1.mp3",
+			"type": "sound",
+			"name": "120003_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120003_2.mp3",
+			"type": "sound",
+			"name": "120003_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120004_1.mp3",
+			"type": "sound",
+			"name": "120004_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120004_2.mp3",
+			"type": "sound",
+			"name": "120004_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120005_1.mp3",
+			"type": "sound",
+			"name": "120005_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120005_2.mp3",
+			"type": "sound",
+			"name": "120005_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120006_1.mp3",
+			"type": "sound",
+			"name": "120006_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120006_2.mp3",
+			"type": "sound",
+			"name": "120006_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120007_1.mp3",
+			"type": "sound",
+			"name": "120007_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120007_2.mp3",
+			"type": "sound",
+			"name": "120007_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120008_1.mp3",
+			"type": "sound",
+			"name": "120008_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120008_2.mp3",
+			"type": "sound",
+			"name": "120008_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120009_1.mp3",
+			"type": "sound",
+			"name": "120009_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120009_2.mp3",
+			"type": "sound",
+			"name": "120009_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120010_1.mp3",
+			"type": "sound",
+			"name": "120010_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120010_2.mp3",
+			"type": "sound",
+			"name": "120010_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120011_1.mp3",
+			"type": "sound",
+			"name": "120011_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120011_2.mp3",
+			"type": "sound",
+			"name": "120011_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120012_1.mp3",
+			"type": "sound",
+			"name": "120012_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/120012_2.mp3",
+			"type": "sound",
+			"name": "120012_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130001_1.mp3",
+			"type": "sound",
+			"name": "130001_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130001_2.mp3",
+			"type": "sound",
+			"name": "130001_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130002_1.mp3",
+			"type": "sound",
+			"name": "130002_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130002_2.mp3",
+			"type": "sound",
+			"name": "130002_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130003_1.mp3",
+			"type": "sound",
+			"name": "130003_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130003_2.mp3",
+			"type": "sound",
+			"name": "130003_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130004_1.mp3",
+			"type": "sound",
+			"name": "130004_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130004_2.mp3",
+			"type": "sound",
+			"name": "130004_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130005_1.mp3",
+			"type": "sound",
+			"name": "130005_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130005_2.mp3",
+			"type": "sound",
+			"name": "130005_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130006_1.mp3",
+			"type": "sound",
+			"name": "130006_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130006_2.mp3",
+			"type": "sound",
+			"name": "130006_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130007_1.mp3",
+			"type": "sound",
+			"name": "130007_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130007_2.mp3",
+			"type": "sound",
+			"name": "130007_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130008_1.mp3",
+			"type": "sound",
+			"name": "130008_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130008_2.mp3",
+			"type": "sound",
+			"name": "130008_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130009_1.mp3",
+			"type": "sound",
+			"name": "130009_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130009_2.mp3",
+			"type": "sound",
+			"name": "130009_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130010_1.mp3",
+			"type": "sound",
+			"name": "130010_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130010_2.mp3",
+			"type": "sound",
+			"name": "130010_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130011_1.mp3",
+			"type": "sound",
+			"name": "130011_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130011_2.mp3",
+			"type": "sound",
+			"name": "130011_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130012_1.mp3",
+			"type": "sound",
+			"name": "130012_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/130012_2.mp3",
+			"type": "sound",
+			"name": "130012_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140001_1.mp3",
+			"type": "sound",
+			"name": "140001_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140001_2.mp3",
+			"type": "sound",
+			"name": "140001_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140002_1.mp3",
+			"type": "sound",
+			"name": "140002_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140002_2.mp3",
+			"type": "sound",
+			"name": "140002_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140003_1.mp3",
+			"type": "sound",
+			"name": "140003_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140003_2.mp3",
+			"type": "sound",
+			"name": "140003_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140004_1.mp3",
+			"type": "sound",
+			"name": "140004_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister/140004_2.mp3",
+			"type": "sound",
+			"name": "140004_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_confirm_1.mp3",
+			"type": "sound",
+			"name": "minister_confirm_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_confirm_2.mp3",
+			"type": "sound",
+			"name": "minister_confirm_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_hire_1.mp3",
+			"type": "sound",
+			"name": "minister_hire_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_hire_2.mp3",
+			"type": "sound",
+			"name": "minister_hire_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_thanks_1.mp3",
+			"type": "sound",
+			"name": "minister_thanks_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_thanks_2.mp3",
+			"type": "sound",
+			"name": "minister_thanks_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/minister_upgrade.mp3",
+			"type": "sound",
+			"name": "minister_upgrade_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_battle.mp3",
+			"type": "sound",
+			"name": "music_battle_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_capital.mp3",
+			"type": "sound",
+			"name": "music_lobby_capital_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_harem.mp3",
+			"type": "sound",
+			"name": "music_lobby_harem_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/music_lobby_main.mp3",
+			"type": "sound",
+			"name": "music_lobby_main_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200001_1.mp3",
+			"type": "sound",
+			"name": "200001_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200001_2.mp3",
+			"type": "sound",
+			"name": "200001_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200002_1.mp3",
+			"type": "sound",
+			"name": "200002_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200002_2.mp3",
+			"type": "sound",
+			"name": "200002_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200003_1.mp3",
+			"type": "sound",
+			"name": "200003_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200003_2.mp3",
+			"type": "sound",
+			"name": "200003_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200004_1.mp3",
+			"type": "sound",
+			"name": "200004_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200004_2.mp3",
+			"type": "sound",
+			"name": "200004_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200005_1.mp3",
+			"type": "sound",
+			"name": "200005_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200005_2.mp3",
+			"type": "sound",
+			"name": "200005_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200006_1.mp3",
+			"type": "sound",
+			"name": "200006_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200006_2.mp3",
+			"type": "sound",
+			"name": "200006_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200007_1.mp3",
+			"type": "sound",
+			"name": "200007_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200007_2.mp3",
+			"type": "sound",
+			"name": "200007_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200008_1.mp3",
+			"type": "sound",
+			"name": "200008_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200008_2.mp3",
+			"type": "sound",
+			"name": "200008_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200009_1.mp3",
+			"type": "sound",
+			"name": "200009_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200009_2.mp3",
+			"type": "sound",
+			"name": "200009_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200010_1.mp3",
+			"type": "sound",
+			"name": "200010_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200010_2.mp3",
+			"type": "sound",
+			"name": "200010_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200011_1.mp3",
+			"type": "sound",
+			"name": "200011_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200011_2.mp3",
+			"type": "sound",
+			"name": "200011_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200012_1.mp3",
+			"type": "sound",
+			"name": "200012_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200012_2.mp3",
+			"type": "sound",
+			"name": "200012_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200013_1.mp3",
+			"type": "sound",
+			"name": "200013_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200013_2.mp3",
+			"type": "sound",
+			"name": "200013_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200014_1.mp3",
+			"type": "sound",
+			"name": "200014_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200014_2.mp3",
+			"type": "sound",
+			"name": "200014_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200015_1.mp3",
+			"type": "sound",
+			"name": "200015_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200015_2.mp3",
+			"type": "sound",
+			"name": "200015_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200016_1.mp3",
+			"type": "sound",
+			"name": "200016_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200016_2.mp3",
+			"type": "sound",
+			"name": "200016_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200017_1.mp3",
+			"type": "sound",
+			"name": "200017_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200017_2.mp3",
+			"type": "sound",
+			"name": "200017_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200018_1.mp3",
+			"type": "sound",
+			"name": "200018_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess/200018_2.mp3",
+			"type": "sound",
+			"name": "200018_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_confirm.mp3",
+			"type": "sound",
+			"name": "princess_confirm_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_greet.mp3",
+			"type": "sound",
+			"name": "princess_greet_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/princess_thanks.mp3",
+			"type": "sound",
+			"name": "princess_thanks_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/prince_greet_1.mp3",
+			"type": "sound",
+			"name": "prince_greet_1_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/prince_greet_2.mp3",
+			"type": "sound",
+			"name": "prince_greet_2_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/shangchao.mp3",
+			"type": "sound",
+			"name": "shangchao_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/start_game.mp3",
+			"type": "sound",
+			"name": "start_game_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/tab_select.mp3",
+			"type": "sound",
+			"name": "tab_select_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/take_seal.mp3",
+			"type": "sound",
+			"name": "take_seal_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/sounds/tap_button.mp3",
+			"type": "sound",
+			"name": "tap_button_mp3"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/0.png",
+			"type": "image",
+			"name": "0_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/10.png",
+			"type": "image",
+			"name": "10_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/11.png",
+			"type": "image",
+			"name": "11_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/13.png",
+			"type": "image",
+			"name": "132_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/34.png",
+			"type": "image",
+			"name": "34_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/7.png",
+			"type": "image",
+			"name": "72_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/8.png",
+			"type": "image",
+			"name": "82_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/9.png",
+			"type": "image",
+			"name": "9_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/101.png",
+			"type": "image",
+			"name": "101_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/102.png",
+			"type": "image",
+			"name": "102_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/103.png",
+			"type": "image",
+			"name": "103_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/104.png",
+			"type": "image",
+			"name": "104_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/105.png",
+			"type": "image",
+			"name": "105_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/106.png",
+			"type": "image",
+			"name": "106_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/107.png",
+			"type": "image",
+			"name": "107_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/108.png",
+			"type": "image",
+			"name": "108_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/109.png",
+			"type": "image",
+			"name": "109_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/boss/300.png",
+			"type": "image",
+			"name": "300_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/banner/1.png",
+			"type": "image",
+			"name": "14_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/1.png",
+			"type": "image",
+			"name": "15_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/2.png",
+			"type": "image",
+			"name": "24_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/3.png",
+			"type": "image",
+			"name": "33_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/grey/1.png",
+			"type": "image",
+			"name": "16_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/grey/2.png",
+			"type": "image",
+			"name": "25_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/map/grey/3.png",
+			"type": "image",
+			"name": "35_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/1.jpg",
+			"type": "image",
+			"name": "1_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/2.jpg",
+			"type": "image",
+			"name": "2_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/3.jpg",
+			"type": "image",
+			"name": "3_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/4.jpg",
+			"type": "image",
+			"name": "4_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/5.jpg",
+			"type": "image",
+			"name": "5_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/city/people/6.jpg",
+			"type": "image",
+			"name": "6_jpg"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120003.png",
+			"type": "image",
+			"name": "120003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120004.png",
+			"type": "image",
+			"name": "120004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120005.png",
+			"type": "image",
+			"name": "120005_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120006.png",
+			"type": "image",
+			"name": "120006_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120007.png",
+			"type": "image",
+			"name": "120007_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120008.png",
+			"type": "image",
+			"name": "120008_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120009.png",
+			"type": "image",
+			"name": "120009_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120010.png",
+			"type": "image",
+			"name": "120010_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120011.png",
+			"type": "image",
+			"name": "120011_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120012.png",
+			"type": "image",
+			"name": "120012_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/120013.png",
+			"type": "image",
+			"name": "120013_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130001.png",
+			"type": "image",
+			"name": "130001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130002.png",
+			"type": "image",
+			"name": "130002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130003.png",
+			"type": "image",
+			"name": "130003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130004.png",
+			"type": "image",
+			"name": "130004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130005.png",
+			"type": "image",
+			"name": "130005_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130006.png",
+			"type": "image",
+			"name": "130006_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130007.png",
+			"type": "image",
+			"name": "130007_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130008.png",
+			"type": "image",
+			"name": "130008_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130009.png",
+			"type": "image",
+			"name": "130009_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130010.png",
+			"type": "image",
+			"name": "130010_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130011.png",
+			"type": "image",
+			"name": "130011_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/130012.png",
+			"type": "image",
+			"name": "130012_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/140001.png",
+			"type": "image",
+			"name": "140001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/140002.png",
+			"type": "image",
+			"name": "140002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/140003.png",
+			"type": "image",
+			"name": "140003_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/ministers/140004.png",
+			"type": "image",
+			"name": "140004_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/blue_star.png",
+			"type": "image",
+			"name": "blue_star2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/color_star.json",
+			"type": "json",
+			"name": "color_star2_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/green_star.png",
+			"type": "image",
+			"name": "green_star2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/orange_star.png",
+			"type": "image",
+			"name": "orange_star2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/partical/red_star.png",
+			"type": "image",
+			"name": "red_star2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_grade.fnt",
+			"type": "font",
+			"name": "activity_grade_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_grade.png",
+			"type": "image",
+			"name": "activity_grade_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_name.fnt",
+			"type": "font",
+			"name": "activity_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_name.png",
+			"type": "image",
+			"name": "activity_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_type.fnt",
+			"type": "font",
+			"name": "activity_type_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/activity_type.png",
+			"type": "image",
+			"name": "activity_type_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_cd.fnt",
+			"type": "font",
+			"name": "arena_cd_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_cd.png",
+			"type": "image",
+			"name": "arena_cd_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_season_rank.fnt",
+			"type": "font",
+			"name": "arena_season_rank_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/arena_season_rank.png",
+			"type": "image",
+			"name": "arena_season_rank_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/battle_beat.fnt",
+			"type": "font",
+			"name": "battle_beat_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/battle_beat.png",
+			"type": "image",
+			"name": "battle_beat_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_hp.fnt",
+			"type": "font",
+			"name": "boss_hp_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_hp.png",
+			"type": "image",
+			"name": "boss_hp_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_name.fnt",
+			"type": "font",
+			"name": "boss_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/boss_name.png",
+			"type": "image",
+			"name": "boss_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/building_name.fnt",
+			"type": "font",
+			"name": "building_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/building_name.png",
+			"type": "image",
+			"name": "building_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/city_name.fnt",
+			"type": "font",
+			"name": "city_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/city_name.png",
+			"type": "image",
+			"name": "city_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/hanyixuejunti_yellow_deepred.fnt",
+			"type": "font",
+			"name": "hanyixuejunti_yellow_deepred_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/hanyixuejunti_yellow_deepred.png",
+			"type": "image",
+			"name": "hanyixuejunti_yellow_deepred_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_jianhuang_heibian.fnt",
+			"type": "font",
+			"name": "heiti_jianhuang_heibian_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_jianhuang_heibian.png",
+			"type": "image",
+			"name": "heiti_jianhuang_heibian_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_quse_heibian.fnt",
+			"type": "font",
+			"name": "heiti_quse_heibian_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/heiti_quse_heibian.png",
+			"type": "image",
+			"name": "heiti_quse_heibian_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/info_box_title.fnt",
+			"type": "font",
+			"name": "info_box_title_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/info_box_title.png",
+			"type": "image",
+			"name": "info_box_title_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/kaiti_yellow_deepred.fnt",
+			"type": "font",
+			"name": "kaiti_yellow_deepred_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/kaiti_yellow_deepred.png",
+			"type": "image",
+			"name": "kaiti_yellow_deepred_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/lishu_title.fnt",
+			"type": "font",
+			"name": "lishu_title_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/lishu_title.png",
+			"type": "image",
+			"name": "lishu_title_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/minister_name.fnt",
+			"type": "font",
+			"name": "minister_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/minister_name.png",
+			"type": "image",
+			"name": "minister_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/national_power_value.fnt",
+			"type": "font",
+			"name": "national_power_value_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/national_power_value.png",
+			"type": "image",
+			"name": "national_power_value_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title.fnt",
+			"type": "font",
+			"name": "panel_title_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title.png",
+			"type": "image",
+			"name": "panel_title_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title_2.fnt",
+			"type": "font",
+			"name": "panel_title_2_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/panel_title_2.png",
+			"type": "image",
+			"name": "panel_title_2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/party_theme.fnt",
+			"type": "font",
+			"name": "party_theme_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/party_theme.png",
+			"type": "image",
+			"name": "party_theme_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name.fnt",
+			"type": "font",
+			"name": "princess_name_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name.png",
+			"type": "image",
+			"name": "princess_name_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name_2.fnt",
+			"type": "font",
+			"name": "princess_name_2_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/princess_name_2.png",
+			"type": "image",
+			"name": "princess_name_2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/scene_title.fnt",
+			"type": "font",
+			"name": "scene_title_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/scene_title.png",
+			"type": "image",
+			"name": "scene_title_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/shop_price.fnt",
+			"type": "font",
+			"name": "shop_price_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/shop_price.png",
+			"type": "image",
+			"name": "shop_price_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/sign_month.fnt",
+			"type": "font",
+			"name": "sign_month_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/sign_month.png",
+			"type": "image",
+			"name": "sign_month_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/tab_label.fnt",
+			"type": "font",
+			"name": "tab_label_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/tab_label.png",
+			"type": "image",
+			"name": "tab_label_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_info.fnt",
+			"type": "font",
+			"name": "union_info_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_info.png",
+			"type": "image",
+			"name": "union_info_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_level.fnt",
+			"type": "font",
+			"name": "union_level_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/union_level.png",
+			"type": "image",
+			"name": "union_level_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_blue_deepblue.fnt",
+			"type": "font",
+			"name": "xingkai_blue_deepblue_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_blue_deepblue.png",
+			"type": "image",
+			"name": "xingkai_blue_deepblue_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_yellow_orange.fnt",
+			"type": "font",
+			"name": "xingkai_yellow_orange_fnt"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/fonts/xingkai_yellow_orange.png",
+			"type": "image",
+			"name": "xingkai_yellow_orange_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/0.json",
+			"type": "json",
+			"name": "0_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/0.png",
+			"type": "image",
+			"name": "02_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7001.json",
+			"type": "json",
+			"name": "7001_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7001.png",
+			"type": "image",
+			"name": "7001_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7002.json",
+			"type": "json",
+			"name": "7002_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/battle/7002.png",
+			"type": "image",
+			"name": "7002_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity/ske.json",
+			"type": "json",
+			"name": "ske_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity/tex.json",
+			"type": "json",
+			"name": "tex_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity/tex.png",
+			"type": "image",
+			"name": "tex_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity_ske.json",
+			"type": "json",
+			"name": "bottom_bar_activity_ske_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity_tex.json",
+			"type": "json",
+			"name": "bottom_bar_activity_tex_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_activity_tex.png",
+			"type": "image",
+			"name": "bottom_bar_activity_tex_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle/ske.json",
+			"type": "json",
+			"name": "ske2_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle/tex.json",
+			"type": "json",
+			"name": "tex2_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle/tex.png",
+			"type": "image",
+			"name": "tex2_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle_ske.json",
+			"type": "json",
+			"name": "bottom_bar_battle_ske_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle_tex.json",
+			"type": "json",
+			"name": "bottom_bar_battle_tex_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/icon/bottom_bar_battle_tex.png",
+			"type": "image",
+			"name": "bottom_bar_battle_tex_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200001/ske.json",
+			"type": "json",
+			"name": "ske3_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200001/tex.json",
+			"type": "json",
+			"name": "tex3_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200001/tex.png",
+			"type": "image",
+			"name": "tex3_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200002/ske.json",
+			"type": "json",
+			"name": "ske4_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200002/tex.json",
+			"type": "json",
+			"name": "tex4_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200002/tex.png",
+			"type": "image",
+			"name": "tex4_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200003/ske.json",
+			"type": "json",
+			"name": "ske5_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200003/tex.json",
+			"type": "json",
+			"name": "tex5_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200003/tex.png",
+			"type": "image",
+			"name": "tex5_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200004/ske.json",
+			"type": "json",
+			"name": "ske6_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200004/tex.json",
+			"type": "json",
+			"name": "tex6_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200004/tex.png",
+			"type": "image",
+			"name": "tex6_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200005/ske.json",
+			"type": "json",
+			"name": "ske7_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200005/tex.json",
+			"type": "json",
+			"name": "tex7_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200005/tex.png",
+			"type": "image",
+			"name": "tex7_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200006/ske.json",
+			"type": "json",
+			"name": "ske8_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200006/tex.json",
+			"type": "json",
+			"name": "tex8_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200006/tex.png",
+			"type": "image",
+			"name": "tex8_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200007/ske.json",
+			"type": "json",
+			"name": "ske9_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200007/tex.json",
+			"type": "json",
+			"name": "tex9_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200007/tex.png",
+			"type": "image",
+			"name": "tex9_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200008/ske.json",
+			"type": "json",
+			"name": "ske10_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200008/tex.json",
+			"type": "json",
+			"name": "tex10_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200008/tex.png",
+			"type": "image",
+			"name": "tex10_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200009/ske.json",
+			"type": "json",
+			"name": "ske11_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200009/tex.json",
+			"type": "json",
+			"name": "tex11_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200009/tex.png",
+			"type": "image",
+			"name": "tex11_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200010/ske.json",
+			"type": "json",
+			"name": "ske12_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200010/tex.json",
+			"type": "json",
+			"name": "tex12_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200010/tex.png",
+			"type": "image",
+			"name": "tex12_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200011/ske.json",
+			"type": "json",
+			"name": "ske13_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200011/tex.json",
+			"type": "json",
+			"name": "tex13_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200011/tex.png",
+			"type": "image",
+			"name": "tex13_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200012/ske.json",
+			"type": "json",
+			"name": "ske14_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200012/tex.json",
+			"type": "json",
+			"name": "tex14_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200012/tex.png",
+			"type": "image",
+			"name": "tex14_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200013/ske.json",
+			"type": "json",
+			"name": "ske15_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200013/tex.json",
+			"type": "json",
+			"name": "tex15_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200013/tex.png",
+			"type": "image",
+			"name": "tex15_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200014/ske.json",
+			"type": "json",
+			"name": "ske16_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200014/tex.json",
+			"type": "json",
+			"name": "tex16_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200014/tex.png",
+			"type": "image",
+			"name": "tex16_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200015/ske.json",
+			"type": "json",
+			"name": "ske17_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200015/tex.json",
+			"type": "json",
+			"name": "tex17_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200015/tex.png",
+			"type": "image",
+			"name": "tex17_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200016/ske.json",
+			"type": "json",
+			"name": "ske18_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200016/tex.json",
+			"type": "json",
+			"name": "tex18_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200016/tex.png",
+			"type": "image",
+			"name": "tex18_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200017/ske.json",
+			"type": "json",
+			"name": "ske19_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200017/tex.json",
+			"type": "json",
+			"name": "tex19_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200017/tex.png",
+			"type": "image",
+			"name": "tex19_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200018/ske.json",
+			"type": "json",
+			"name": "ske20_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200018/tex.json",
+			"type": "json",
+			"name": "tex20_json"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/animations/princess/200018/tex.png",
+			"type": "image",
+			"name": "tex20_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/36.png",
+			"type": "image",
+			"name": "36_png"
+		},
+		{
+			"url": "https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/resource/assets/singles/activityBanner/37.png",
+			"type": "image",
+			"name": "37_png"
+		}
+	]
+}

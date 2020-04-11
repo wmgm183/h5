@@ -1,0 +1,935 @@
+{
+	"0": {
+		"name": "初始引导，征收、开发、奏章、大臣升级、开疆拓土",
+		"point": "enter_scene_SCENE_LOBBY",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"恭喜万岁爷新登大宝，现在就由臣妾来为您说明治理国家的各种功能哦。",
+					"首先，一个国家没有资源就无法发展，臣妾先为皇上说明征收的方法。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击金銮殿建筑",
+				"path": "00000020",
+				"point": "enter_scene_SCENE_THRONE"
+			},
+			{
+				"type": "tap",
+				"text": "点击内政按钮",
+				"path": "00001201",
+				"point": "enter_scene_SCENE_INTERIOR"
+			},
+			{
+				"type": "tap",
+				"text": "征税可以获得银两",
+				"path": "00001302005",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "征矿可以获得矿石",
+				"path": "00001302015",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"下面，臣妾再为皇上说明开发内政的方法，请皇上跟着臣妾的指引来操作"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "在内政中点击开发分页",
+				"path": "00001110",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击派遣大臣开发",
+				"path": "00001302000020",
+				"point": "show_panel_PanelDevelopSelect"
+			},
+			{
+				"type": "tap",
+				"text": "点击商业开发",
+				"path": "00110100",
+				"point": "show_panel_PanelDispatchForInterior"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择开发的大臣",
+				"path": "00112021009",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击退出内政",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_THRONE"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"每30分钟大臣便会上疏一道奏章请皇上批阅，请皇上跟着臣妾的提示操作"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击奏章按钮",
+				"path": "00001211",
+				"point": "show_panel_PanelMemorial"
+			},
+			{
+				"type": "tap",
+				"text": "点击准奏",
+				"path": "001120",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待奏章",
+				"path": "00",
+				"point": "close_panel_PanelMemorial"
+			},
+			{
+				"type": "tap",
+				"text": "点击退朝，退出金銮殿",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"任务可以提供很多奖励，皇上可要时时关注哦！臣妾现在就为皇上演示如何交接任务。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "在主界面点击任务按钮",
+				"path": "000061100",
+				"point": "show_panel_PanelTask"
+			},
+			{
+				"type": "tap",
+				"text": "在已完成的任务点击领取按钮就可以获得任务奖励",
+				"path": "001190000005",
+				"point": "show_panel_PanelWorkFinish"
+			},
+			{
+				"type": "tap",
+				"text": "点击任意地方就可以关闭奖励界面",
+				"path": "00",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击关闭任务界面",
+				"path": "00115",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"有了足够了资源，皇上就可以升级大臣了。国家的发展离不开大臣，使用银两升级大臣就可以提升他们的属性。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击翰林院建筑",
+				"path": "00000023",
+				"point": "enter_scene_SCENE_MINISTER"
+			},
+			{
+				"type": "tap",
+				"text": "点击大臣隆科多",
+				"path": "00001302011",
+				"point": "enter_scene_SCENE_MINISTER_INFO"
+			},
+			{
+				"type": "tap",
+				"text": "点击升级大臣",
+				"path": "00001153",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击升级大臣",
+				"path": "00001153",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击升级大臣",
+				"path": "00001153",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击升级大臣",
+				"path": "00001153",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击升级大臣",
+				"path": "00001153",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击关闭大臣详情界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_MINISTER"
+			},
+			{
+				"type": "tap",
+				"text": "点击回宫返回主界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"皇上新进登基，国家并未完成安稳。我们虽然推翻了前明的暴政，但是还有一股余孽还未清除。",
+					"皇上可在主界面点击开疆拓土按钮，就可以派兵出征清剿余孽。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击开疆拓土按钮",
+				"path": "000061400",
+				"point": "enter_scene_SCENE_WORLD_MAP"
+			},
+			{
+				"type": "tap",
+				"text": "点击攻打按钮",
+				"path": "000014004",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待剧情结束",
+				"path": "00",
+				"point": "enter_scene_SCENE_BATTLE"
+			},
+			{
+				"type": "tap",
+				"text": "点击开始战斗",
+				"path": "0000114",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待战斗结束",
+				"path": "00",
+				"point": "show_panel_PanelBattleResult"
+			},
+			{
+				"type": "tap",
+				"text": "点击任意地方就可以关闭奖励界面",
+				"path": "00",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击退出战斗界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_WORLD_MAP"
+			},
+			{
+				"type": "tap",
+				"text": "点击回宫返回主界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"皇上征战辛苦，要是累坏了龙体可心疼死臣妾了，还是来后宫调养一下嘛，臣妾可是好想皇上呢。",
+					"下面就让臣妾来为皇上说明一下后宫的功能哦。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击切换到后宫界面",
+				"path": "000030",
+				"point": "enter_page_lobby_harem"
+			},
+			{
+				"type": "tap",
+				"text": "点击三宫六院建筑",
+				"path": "00000020",
+				"point": "enter_scene_SCENE_PRINCESS_HOUSE"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"点击妃子按钮就可以查看皇上后宫中的所有妃子啦，皇上不要忘记来看望臣妾哦 "
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击妃子按钮",
+				"path": "000013101",
+				"point": "enter_scene_SCENE_PRINCESS"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择妃子",
+				"path": "00001300012",
+				"point": "enter_scene_SCENE_PRINCESS_INFO"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"宠幸妃子需要使用黄金，但可以使妃子增加1点宠幸度和随机属性值。",
+					"皇上也可以将宝物赏赐给妃子，分别可以增加他们的宠幸度和魅力值。",
+					"每名妃子都有3种天赋，分别需要培养他们的礼仪、宫斗和修养来激活天赋。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击退出妃子信息",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_PRINCESS"
+			},
+			{
+				"type": "tap",
+				"text": "点击退出妃子界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_PRINCESS_HOUSE"
+			},
+			{
+				"type": "tap",
+				"text": "点击回宫返回主界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击开疆拓土按钮",
+				"path": "000061400",
+				"point": "enter_scene_SCENE_WORLD_MAP"
+			},
+			{
+				"type": "tap",
+				"text": "点击攻打按钮",
+				"path": "000014004",
+				"point": "enter_scene_SCENE_BATTLE"
+			},
+			{
+				"type": "tap",
+				"text": "点击开始战斗",
+				"path": "0000114",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待战斗结束",
+				"path": "00",
+				"point": "show_panel_PanelBattleResult"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"皇上切记发展国力疆土为上，开拓更多的疆土才能使国家壮大。",
+					"当战斗不利时，皇上一定要去国子监中升级军事科技或升级大臣来提升战斗力。",
+					"每攻占一个国家后，都能获得很多战利品，对皇上建设国家有着莫大帮助。"
+				]
+			}
+		]
+	},
+	"1": {
+		"name": "招募、国子监",
+		"point": "country_get_7001",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"恭喜万岁爷成功的征服了前明，完成了国家的统一。",
+					"现在万岁爷已经可以在翰林院中招募大臣了，下面就由臣妾来为万岁爷说明操作方法"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击前往按钮",
+				"path": "0011222",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击翰林院建筑",
+				"path": "00000023",
+				"point": "enter_scene_SCENE_MINISTER"
+			},
+			{
+				"type": "tap",
+				"text": "点击招募分页",
+				"path": "00001110",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击招募按钮",
+				"path": "000013010004",
+				"point": "show_panel_PanelAlert"
+			},
+			{
+				"type": "tap",
+				"text": "点击确定按钮",
+				"path": "00112001010",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击任意地方关闭界面",
+				"path": "00",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"恭喜万岁爷招募了大臣洪承畴，下面立即去国子临升级科技吧。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击回宫返回主界面",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击国子临建筑",
+				"path": "00000022",
+				"point": "enter_scene_SCENE_TECHNOLOGY"
+			},
+			{
+				"type": "tap",
+				"text": "点击军事分页",
+				"path": "00001120",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击战矛科技",
+				"path": "000013020212",
+				"point": "show_panel_PanelDispatchForTechnology"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择大臣",
+				"path": "00112041009",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"战矛科技已经在研究中了，不过需要等待研究时间结束后才能完成。",
+					"不过万岁爷可以使用加速卡来加速完成，这样就可以立即获得科技效果了。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击战矛科技",
+				"path": "000013020212",
+				"point": "show_panel_PanelTechSpeed"
+			},
+			{
+				"type": "tap",
+				"text": "点击加速按钮",
+				"path": "0011201",
+				"point": "show_panel_PanelSpeed"
+			},
+			{
+				"type": "tap",
+				"text": "点击使用加速卡",
+				"path": "00122029",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"恭喜万岁爷战矛科技已经研究至1级了，这个科技最高可研究至10级",
+					"军事科技可以帮助万岁爷在战争中所向披靡，所以一定要优先升级哦。",
+					"但除了军事科技外的内政和文化科技也对国家的发展至关重要，请万岁爷多加留意。"
+				]
+			}
+		]
+	},
+	"2": {
+		"name": "翻牌子、上书房",
+		"point": "country_get_7002",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"恭喜万岁爷成功的征服了朝鲜，成功的震慑了周边的异族。",
+					"万岁爷征战辛苦，还请回宫好好休养才是，下面就由臣妾为万岁爷说明翻牌子的方法。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击前往按钮",
+				"path": "0011222",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击切换到后宫界面",
+				"path": "000030",
+				"point": "enter_page_lobby_harem"
+			},
+			{
+				"type": "tap",
+				"text": "点击三宫六院建筑",
+				"path": "00000020",
+				"point": "enter_scene_SCENE_PRINCESS_HOUSE"
+			},
+			{
+				"type": "tap",
+				"text": "点击翻牌子按钮",
+				"path": "000013001",
+				"point": "show_panel_PanelPrincessTurnCard"
+			},
+			{
+				"type": "tap",
+				"text": "点击绿玉牌子，今晚的她就是皇上宠幸的妃子",
+				"path": "001130405",
+				"point": "show_panel_PanelPrinceBorn"
+			},
+			{
+				"type": "tap",
+				"text": "恭喜万岁爷喜得皇子，请万岁爷为皇子赐名",
+				"path": "001327",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "",
+				"path": "00",
+				"point": 300
+			},
+			{
+				"type": "tap",
+				"text": "万岁爷可以前往上书房中立即查看皇子",
+				"path": "001327",
+				"point": "enter_scene_SCENE_PRINCE"
+			},
+			{
+				"type": "tap",
+				"text": "为皇子指定一名太傅，\n太傅能力将决定培养皇子提升的属性",
+				"path": "00001164",
+				"point": "show_panel_PanelPrinceAppoint"
+			},
+			{
+				"type": "tap",
+				"text": "选择一名大臣成为太傅",
+				"path": "0011203002",
+				"point": "show_panel_PanelPrinceNotice"
+			},
+			{
+				"type": "tap",
+				"text": "点击确定按钮",
+				"path": "001120011",
+				"point": "close_panel_PanelPrinceNotice"
+			},
+			{
+				"type": "tap",
+				"text": "培养可以增加皇子经验与能力",
+				"path": "000011702",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"皇家子嗣是国之根本，万岁爷一定要多多培养皇子，这样才可以江山稳固哦。",
+					"皇子满级后还可以让其开府，开府后皇子的能力会增加到国力中，还会定期向万岁爷进贡。"
+				]
+			}
+		]
+	},
+	"3": {
+		"name": "太极殿、交泰殿、养花",
+		"point": "country_get_7003",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"起禀万岁爷，后宫中已经开放了太极殿、交泰殿和御花园三个新功能。",
+					"现在就由臣妾为万岁爷说明新功能的操作方法吧。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击前往按钮",
+				"path": "0011222",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击切换到后宫界面",
+				"path": "000030",
+				"point": "enter_page_lobby_harem"
+			},
+			{
+				"type": "tap",
+				"text": "点击进入交泰殿",
+				"path": "00000022",
+				"point": "enter_scene_SCENE_PRINCESS_WORK"
+			},
+			{
+				"type": "tap",
+				"text": "交泰殿可以培养妃子的【宫斗】能力",
+				"path": "0000111003",
+				"point": "show_panel_PanelSelectPrincess"
+			},
+			{
+				"type": "tap",
+				"text": "指派一名妃子前往处理宫务",
+				"path": "0011200002",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"妃子处理宫务可以使用黄金或加速卡立即完成呢，那么接下来就请万岁爷跟随臣妾移驾御花园。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击返回后宫",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击前往御花园",
+				"path": "00000023",
+				"point": "enter_scene_SCENE_GARDEN_HOUSE"
+			},
+			{
+				"type": "tap",
+				"text": "点击进入养花",
+				"path": "000013001",
+				"point": "enter_scene_SCENE_GARDEN_FLOWER"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择花卉",
+				"path": "000011400000",
+				"point": "show_panel_PanelSelectFlower"
+			},
+			{
+				"type": "tap",
+				"text": "养花不仅可以提升妃子修养，花卉成品更是可以在国库中合成各种丹药",
+				"path": "00112020009",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "养花还必须指派一名妃子照料才行",
+				"path": "000011400016",
+				"point": "show_panel_PanelSelectPrincess"
+			},
+			{
+				"type": "tap",
+				"text": "只有选择了妃子，养花才算开始，望万岁爷切记",
+				"path": "0011200002",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"养花也可以使用金币或加速卡立即完成，那么最后由臣妾来为万岁爷说明太极殿的功能吧。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击返回御花园",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_GARDEN_HOUSE"
+			},
+			{
+				"type": "tap",
+				"text": "点击返回后宫",
+				"path": "0000221",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击前往太极殿",
+				"path": "00000024",
+				"point": "enter_scene_SCENE_PRINCESS_RITE"
+			},
+			{
+				"type": "tap",
+				"text": "太极殿是妃子修学礼仪之处，请先任命一名礼官",
+				"path": "00001130",
+				"point": "show_panel_PanelDispatchForRite"
+			},
+			{
+				"type": "tap",
+				"text": "礼官学识和礼法技能会影响教学效果，请选择一名大臣担任礼官",
+				"path": "00112021009",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "请选择需要学习的妃子",
+				"path": "000011400000",
+				"point": "show_panel_PanelSelectPrincess"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择后开始学习",
+				"path": "0011200002",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"完成学习后，会获得礼包奖励和提升妃子礼仪能力。当妃子的礼仪能力达到一定程度后，万岁爷可以在三宫六院中提升她的妃位。",
+					"后宫管理对于发展国力来说也非常重要，还请万岁爷一定要多加留心哦。"
+				]
+			}
+		]
+	},
+	"4": {
+		"name": "微服私访",
+		"point": "country_get_7004",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"起禀万岁爷，微服私访功能已经开放，体察民情也是一名帝王的必修课呢。",
+					"说不定皇上还能在寻访中邂逅佳人呢，那么就由臣妾来为万岁爷引路吧。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击前往按钮",
+				"path": "0011222",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击切换到皇城界面",
+				"path": "000031",
+				"point": "enter_page_lobby_capital"
+			},
+			{
+				"type": "tap",
+				"text": "点击前往微服私访",
+				"path": "00000020",
+				"point": "enter_scene_SCENE_VISIT"
+			},
+			{
+				"type": "tap",
+				"text": "点击寻访，由骰子的点数来决定前往哪个城市",
+				"path": "0000131",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "",
+				"path": "00",
+				"point": "show_panel_PanelWorkFinish"
+			},
+			{
+				"type": "tap",
+				"text": "寻访到的城市可以获得大量资源",
+				"path": "00",
+				"point": "show_panel_PanelCityInfo"
+			},
+			{
+				"type": "tap",
+				"text": "点击寻访民情",
+				"path": "0011310",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击选择行动",
+				"path": "00114003000",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击进行剧情",
+				"path": "00114002",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "恭喜万岁爷获得妃子",
+				"path": "00",
+				"point": "tap"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"开发可以提升城市的等级，城市等级越高能获得的资源就越多。",
+					"城市中可以寻访民情，有机率会遇到美人，做出不同的行动会产生不同的结果。",
+					"城市中还可以绿林寻宝，城市等级越高能够获得的宝物就越好。"
+				]
+			}
+		]
+	},
+	"5": {
+		"name": "畅音阁",
+		"point": "country_get_7005",
+		"steps": [
+			{
+				"type": "dialog",
+				"contents": [
+					"万岁爷前线连续大捷，正该举国欢庆，臣妾认为不如在皇宫中大摆宴席犒赏群臣。",
+					"接下来就由臣妾来为万岁爷说明举办宴会的方法吧。"
+				]
+			},
+			{
+				"type": "tap",
+				"text": "点击前往按钮",
+				"path": "0011222",
+				"point": "enter_scene_SCENE_LOBBY"
+			},
+			{
+				"type": "tap",
+				"text": "点击切换到后宫界面",
+				"path": "000030",
+				"point": "enter_page_lobby_harem"
+			},
+			{
+				"type": "tap",
+				"text": "点击前往畅音阁",
+				"path": "00000021",
+				"point": "enter_scene_SCENE_PRINCESS_PARTY"
+			},
+			{
+				"type": "dialog",
+				"contents": [
+					"万岁爷可以选择自己举办宴会或参加其他圣上的宴会，参加宴会需要派遣一名妃子。",
+					"需要注意的是，每名妃子每天只能参加一次宴会，宴会结束后可以获得礼金及大量礼包奖励。",
+					"礼金可以在礼金商店中兑换各种道具，请万岁爷要多多参加宴会哦。"
+				]
+			}
+		]
+	},
+	"6": {
+		"name": "畅音阁",
+		"point":  "enter_scene_SCENE_WORLD_MAP2",
+		"steps": [
+			{
+				"type": "tap",
+				"text": "点击攻打按钮",
+				"path": "000014004",
+				"point": "enter_scene_SCENE_BATTLE"
+			},
+			{
+				"type": "tap",
+				"text": "点击开始战斗",
+				"path": "0000114",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待战斗结束",
+				"path": "00",
+				"point": "show_panel_PanelBattleResult"
+			},
+			{
+				"type": "tap",
+				"text": "点击任意地方就可以关闭奖励界面",
+				"path": "00",
+				"point": "tap"
+			},
+			{
+				"type": "tap",
+				"text": "点击退出战斗界面",
+				"path": "0000032",
+				"point": "tap"
+			}
+		]
+	},
+	"8": {
+		"name": "test",
+		"point": "enter_scene_SCENE_WORLD_MAP00",
+		"steps": [
+			{
+				"type": "tap",
+				"text": "点击攻打按钮",
+				"path": "000014004",
+				"point": "tap"
+			},
+			{
+				"type": "wait",
+				"text": "等待剧情结束",
+				"path": "00",
+				"point": "enter_scene_SCENE_BATTLE"
+			},
+			{
+				"type": "tap",
+				"text": "点击开始战斗",
+				"path": "0000114",
+				"point": "tap"
+			}
+		]
+	}
+}
