@@ -1,0 +1,35 @@
+{
+	"file": "sheet_main_stage.png",
+	"frames": {
+		"main_stage_finish_tip_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 365,
+			"h": 62,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 365,
+			"sourceH": 62
+		},
+		"main_stage_national_power_up_bg": {
+			"x": 1,
+			"y": 65,
+			"w": 332,
+			"h": 43,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 332,
+			"sourceH": 44
+		},
+		"main_stage_national_power_up_title": {
+			"x": 1,
+			"y": 110,
+			"w": 133,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 40
+		}
+	}
+}

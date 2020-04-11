@@ -1,0 +1,155 @@
+{
+	"file": "sheet_princess_position.png",
+	"frames": {
+		"princess_position_group_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 654,
+			"h": 408,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 654,
+			"sourceH": 408
+		},
+		"princess_position_btn_fall": {
+			"x": 657,
+			"y": 1,
+			"w": 154,
+			"h": 160,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 154,
+			"sourceH": 160
+		},
+		"princess_position_txt_tips": {
+			"x": 813,
+			"y": 1,
+			"w": 30,
+			"h": 136,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 30,
+			"sourceH": 136
+		},
+		"princess_position_btn_rise": {
+			"x": 657,
+			"y": 163,
+			"w": 154,
+			"h": 160,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 154,
+			"sourceH": 160
+		},
+		"princess_position_decree_content": {
+			"x": 1,
+			"y": 411,
+			"w": 592,
+			"h": 199,
+			"offX": 33,
+			"offY": 36,
+			"sourceW": 647,
+			"sourceH": 287
+		},
+		"princess_position_group_2": {
+			"x": 595,
+			"y": 411,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_4": {
+			"x": 595,
+			"y": 481,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_1": {
+			"x": 595,
+			"y": 551,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_decree_title": {
+			"x": 1,
+			"y": 612,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"princess_position_group_5": {
+			"x": 567,
+			"y": 621,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_3": {
+			"x": 567,
+			"y": 691,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_8": {
+			"x": 567,
+			"y": 761,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_0": {
+			"x": 1,
+			"y": 773,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_7": {
+			"x": 240,
+			"y": 773,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"princess_position_group_6": {
+			"x": 479,
+			"y": 831,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		}
+	}
+}

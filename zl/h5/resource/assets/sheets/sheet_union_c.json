@@ -1,0 +1,25 @@
+{
+	"file": "sheet_union_c.png",
+	"frames": {
+		"union_frame_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 92,
+			"h": 90,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 92,
+			"sourceH": 90
+		},
+		"union_item_bg": {
+			"x": 1,
+			"y": 93,
+			"w": 24,
+			"h": 167,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 24,
+			"sourceH": 167
+		}
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"file": "sheet_princess_choose.png",
+	"frames": {
+		"princess_choose_power_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 750,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 750,
+			"sourceH": 66
+		},
+		"princess_choose_decree_left": {
+			"x": 753,
+			"y": 1,
+			"w": 65,
+			"h": 459,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 69,
+			"sourceH": 459
+		},
+		"princess_choose_quality_bg": {
+			"x": 820,
+			"y": 1,
+			"w": 62,
+			"h": 248,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 62,
+			"sourceH": 248
+		},
+		"princess_choose_decree_right": {
+			"x": 820,
+			"y": 251,
+			"w": 49,
+			"h": 459,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 49,
+			"sourceH": 459
+		},
+		"princess_choose_quality_3": {
+			"x": 871,
+			"y": 251,
+			"w": 49,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 49,
+			"sourceH": 72
+		},
+		"princess_choose_quality_4": {
+			"x": 871,
+			"y": 325,
+			"w": 47,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 47,
+			"sourceH": 72
+		},
+		"princess_choose_quality_2": {
+			"x": 871,
+			"y": 399,
+			"w": 47,
+			"h": 71,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 47,
+			"sourceH": 71
+		},
+		"princess_choose_quality_1": {
+			"x": 871,
+			"y": 472,
+			"w": 47,
+			"h": 71,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 47,
+			"sourceH": 71
+		},
+		"princess_choose_decree_bg": {
+			"x": 1,
+			"y": 69,
+			"w": 649,
+			"h": 393,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 649,
+			"sourceH": 393
+		},
+		"princess_choose_title": {
+			"x": 1,
+			"y": 464,
+			"w": 620,
+			"h": 147,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 620,
+			"sourceH": 147
+		},
+		"princess_choose_turn_before": {
+			"x": 623,
+			"y": 464,
+			"w": 189,
+			"h": 270,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 189,
+			"sourceH": 270
+		},
+		"princess_choose_turn_title": {
+			"x": 1,
+			"y": 613,
+			"w": 564,
+			"h": 155,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 155
+		},
+		"princess_choose_turn_after": {
+			"x": 567,
+			"y": 736,
+			"w": 189,
+			"h": 270,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 189,
+			"sourceH": 270
+		},
+		"princess_choose_tip": {
+			"x": 1,
+			"y": 770,
+			"w": 410,
+			"h": 42,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 410,
+			"sourceH": 42
+		},
+		"princess_choose_prince": {
+			"x": 1,
+			"y": 814,
+			"w": 364,
+			"h": 494,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 364,
+			"sourceH": 494
+		}
+	}
+}

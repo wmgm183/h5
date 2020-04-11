@@ -1,0 +1,205 @@
+{
+	"file": "sheet_prince.png",
+	"frames": {
+		"prince_prince_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 720,
+			"h": 480,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 720,
+			"sourceH": 480
+		},
+		"prince_default": {
+			"x": 723,
+			"y": 1,
+			"w": 352,
+			"h": 396,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 352,
+			"sourceH": 396
+		},
+		"prince_dice": {
+			"x": 1077,
+			"y": 1,
+			"w": 71,
+			"h": 72,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 73,
+			"sourceH": 74
+		},
+		"prince_act_icon": {
+			"x": 1077,
+			"y": 75,
+			"w": 32,
+			"h": 35,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 35
+		},
+		"prince_act_bg": {
+			"x": 1111,
+			"y": 75,
+			"w": 26,
+			"h": 26,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 26
+		},
+		"prince_peerage_3": {
+			"x": 723,
+			"y": 399,
+			"w": 338,
+			"h": 70,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_shadow": {
+			"x": 1063,
+			"y": 399,
+			"w": 84,
+			"h": 88,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 84,
+			"sourceH": 88
+		},
+		"prince_info_bg": {
+			"x": 723,
+			"y": 471,
+			"w": 301,
+			"h": 288,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 301,
+			"sourceH": 288
+		},
+		"prince_icon_open": {
+			"x": 1026,
+			"y": 489,
+			"w": 121,
+			"h": 114,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 123,
+			"sourceH": 116
+		},
+		"prince_decree_nobles": {
+			"x": 1,
+			"y": 483,
+			"w": 574,
+			"h": 199,
+			"offX": 33,
+			"offY": 36,
+			"sourceW": 647,
+			"sourceH": 287
+		},
+		"prince_decree_open": {
+			"x": 1,
+			"y": 684,
+			"w": 565,
+			"h": 199,
+			"offX": 33,
+			"offY": 36,
+			"sourceW": 647,
+			"sourceH": 287
+		},
+		"prince_title_open": {
+			"x": 568,
+			"y": 761,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"prince_title_nobles": {
+			"x": 1,
+			"y": 885,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"prince_peerage_7": {
+			"x": 567,
+			"y": 922,
+			"w": 279,
+			"h": 69,
+			"offX": 31,
+			"offY": 1,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_peerage_6": {
+			"x": 848,
+			"y": 922,
+			"w": 278,
+			"h": 70,
+			"offX": 32,
+			"offY": 0,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_peerage_1": {
+			"x": 567,
+			"y": 993,
+			"w": 277,
+			"h": 69,
+			"offX": 32,
+			"offY": 1,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_peerage_2": {
+			"x": 846,
+			"y": 994,
+			"w": 277,
+			"h": 69,
+			"offX": 31,
+			"offY": 1,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_peerage_5": {
+			"x": 1,
+			"y": 1046,
+			"w": 275,
+			"h": 70,
+			"offX": 32,
+			"offY": 0,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_peerage_4": {
+			"x": 278,
+			"y": 1046,
+			"w": 271,
+			"h": 67,
+			"offX": 34,
+			"offY": 3,
+			"sourceW": 338,
+			"sourceH": 70
+		},
+		"prince_title_open_cost": {
+			"x": 551,
+			"y": 1064,
+			"w": 222,
+			"h": 64,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 222,
+			"sourceH": 64
+		}
+	}
+}

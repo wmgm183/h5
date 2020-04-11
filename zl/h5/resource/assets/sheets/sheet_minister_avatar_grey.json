@@ -1,0 +1,375 @@
+{
+	"file": "sheet_minister_avatar_grey.png",
+	"frames": {
+		"minister_avatar_grey_block_110001": {
+			"x": 1,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110004": {
+			"x": 149,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110003": {
+			"x": 297,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110005": {
+			"x": 445,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110006": {
+			"x": 593,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110007": {
+			"x": 741,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110008": {
+			"x": 1,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120001": {
+			"x": 149,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120003": {
+			"x": 297,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120006": {
+			"x": 445,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120012": {
+			"x": 593,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130001": {
+			"x": 741,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130004": {
+			"x": 1,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130005": {
+			"x": 149,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130008": {
+			"x": 297,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130009": {
+			"x": 445,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_140001": {
+			"x": 593,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_140003": {
+			"x": 741,
+			"y": 297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_140004": {
+			"x": 1,
+			"y": 445,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130010": {
+			"x": 149,
+			"y": 445,
+			"w": 146,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_140002": {
+			"x": 297,
+			"y": 445,
+			"w": 146,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120005": {
+			"x": 445,
+			"y": 445,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120008": {
+			"x": 593,
+			"y": 445,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110002": {
+			"x": 741,
+			"y": 445,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130007": {
+			"x": 445,
+			"y": 591,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120010": {
+			"x": 149,
+			"y": 592,
+			"w": 146,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120002": {
+			"x": 1,
+			"y": 593,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120009": {
+			"x": 297,
+			"y": 592,
+			"w": 146,
+			"h": 138,
+			"offX": 0,
+			"offY": 8,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120011": {
+			"x": 297,
+			"y": 732,
+			"w": 146,
+			"h": 138,
+			"offX": 0,
+			"offY": 8,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_110009": {
+			"x": 1,
+			"y": 737,
+			"w": 146,
+			"h": 136,
+			"offX": 0,
+			"offY": 10,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130003": {
+			"x": 149,
+			"y": 737,
+			"w": 146,
+			"h": 136,
+			"offX": 0,
+			"offY": 10,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130006": {
+			"x": 593,
+			"y": 591,
+			"w": 146,
+			"h": 136,
+			"offX": 0,
+			"offY": 10,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130011": {
+			"x": 741,
+			"y": 591,
+			"w": 146,
+			"h": 136,
+			"offX": 0,
+			"offY": 10,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130002": {
+			"x": 593,
+			"y": 729,
+			"w": 146,
+			"h": 135,
+			"offX": 0,
+			"offY": 11,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_130012": {
+			"x": 445,
+			"y": 737,
+			"w": 146,
+			"h": 133,
+			"offX": 0,
+			"offY": 13,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120004": {
+			"x": 741,
+			"y": 729,
+			"w": 136,
+			"h": 138,
+			"offX": 10,
+			"offY": 8,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_grey_block_120007": {
+			"x": 593,
+			"y": 866,
+			"w": 134,
+			"h": 138,
+			"offX": 0,
+			"offY": 8,
+			"sourceW": 146,
+			"sourceH": 146
+		}
+	}
+}

@@ -1,0 +1,135 @@
+{
+	"file": "sheet_princess.png",
+	"frames": {
+		"princess_avatar_mask": {
+			"x": 1,
+			"y": 1,
+			"w": 245,
+			"h": 282,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 245,
+			"sourceH": 285
+		},
+		"princess_button_select": {
+			"x": 248,
+			"y": 1,
+			"w": 154,
+			"h": 160,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 154,
+			"sourceH": 160
+		},
+		"princess_name_bg": {
+			"x": 404,
+			"y": 1,
+			"w": 65,
+			"h": 207,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 65,
+			"sourceH": 207
+		},
+		"princess_charm": {
+			"x": 248,
+			"y": 163,
+			"w": 40,
+			"h": 41,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 40,
+			"sourceH": 41
+		},
+		"princess_position_1": {
+			"x": 290,
+			"y": 163,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_2": {
+			"x": 248,
+			"y": 210,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_avatar_bg": {
+			"x": 1,
+			"y": 285,
+			"w": 245,
+			"h": 245,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 245,
+			"sourceH": 245
+		},
+		"princess_position_4": {
+			"x": 331,
+			"y": 163,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_5": {
+			"x": 372,
+			"y": 210,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_6": {
+			"x": 413,
+			"y": 210,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_7": {
+			"x": 289,
+			"y": 402,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_8": {
+			"x": 248,
+			"y": 449,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		},
+		"princess_position_3": {
+			"x": 330,
+			"y": 402,
+			"w": 39,
+			"h": 237,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 237
+		}
+	}
+}

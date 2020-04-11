@@ -1,0 +1,85 @@
+{
+	"file": "info_box_title.png",
+	"frames": {
+		"敌": {
+			"x": 1,
+			"y": 1,
+			"w": 20,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 20,
+			"sourceH": 20
+		},
+		"政": {
+			"x": 23,
+			"y": 1,
+			"w": 18,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 18,
+			"sourceH": 20
+		},
+		"信": {
+			"x": 43,
+			"y": 1,
+			"w": 17,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 17,
+			"sourceH": 20
+		},
+		"我": {
+			"x": 1,
+			"y": 23,
+			"w": 17,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 17,
+			"sourceH": 20
+		},
+		"息": {
+			"x": 20,
+			"y": 23,
+			"w": 15,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 20
+		},
+		"军": {
+			"x": 18,
+			"y": 45,
+			"w": 15,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 20
+		},
+		"治": {
+			"x": 35,
+			"y": 45,
+			"w": 14,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 20
+		},
+		"事": {
+			"x": 1,
+			"y": 67,
+			"w": 14,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 20
+		}
+	}
+}

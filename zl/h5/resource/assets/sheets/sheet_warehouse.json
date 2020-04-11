@@ -1,0 +1,15 @@
+{
+	"file": "sheet_warehouse.png",
+	"frames": {
+		"warehouse_item_cell_combine_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 180,
+			"h": 258,
+			"offX": 15,
+			"offY": 0,
+			"sourceW": 210,
+			"sourceH": 300
+		}
+	}
+}

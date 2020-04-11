@@ -1,0 +1,134 @@
+{
+  "width": 1024,
+  "imagePath": "如玥_g_tex.png",
+  "height": 512,
+  "name": "ani_princess_200005",
+  "SubTexture": [
+    {
+      "width": 281,
+      "y": 1,
+      "height": 421,
+      "name": "Qun",
+      "x": 1
+    },
+    {
+      "width": 159,
+      "y": 1,
+      "height": 402,
+      "name": "qd",
+      "x": 284
+    },
+    {
+      "width": 58,
+      "y": 289,
+      "height": 160,
+      "name": "sp_",
+      "x": 497
+    },
+    {
+      "width": 181,
+      "y": 1,
+      "height": 286,
+      "name": "body",
+      "x": 445
+    },
+    {
+      "width": 74,
+      "y": 289,
+      "height": 96,
+      "name": "youshou",
+      "x": 557
+    },
+    {
+      "width": 15,
+      "y": 496,
+      "height": 10,
+      "name": "RS",
+      "x": 414
+    },
+    {
+      "width": 15,
+      "y": 394,
+      "height": 7,
+      "name": "RD",
+      "x": 465
+    },
+    {
+      "width": 18,
+      "y": 394,
+      "height": 8,
+      "name": "LD",
+      "x": 445
+    },
+    {
+      "width": 23,
+      "y": 496,
+      "height": 10,
+      "name": "LS",
+      "x": 389
+    },
+    {
+      "width": 106,
+      "y": 405,
+      "height": 89,
+      "name": "maoR",
+      "x": 389
+    },
+    {
+      "width": 45,
+      "y": 289,
+      "height": 81,
+      "name": "maoL",
+      "x": 445
+    },
+    {
+      "width": 52,
+      "y": 387,
+      "height": 108,
+      "name": "shouR",
+      "x": 557
+    },
+    {
+      "width": 36,
+      "y": 372,
+      "height": 20,
+      "name": "shouL",
+      "x": 445
+    },
+    {
+      "width": 109,
+      "y": 424,
+      "height": 84,
+      "name": "zuoshou",
+      "x": 1
+    },
+    {
+      "width": 103,
+      "y": 405,
+      "height": 101,
+      "name": "fashi_L",
+      "x": 284
+    },
+    {
+      "width": 16,
+      "y": 451,
+      "height": 52,
+      "name": "fashi_S",
+      "x": 497
+    },
+    {
+      "width": 6,
+      "y": 372,
+      "height": 23,
+      "name": "erzhui",
+      "x": 483
+    },
+    {
+      "width": 6,
+      "y": 496,
+      "height": 14,
+      "name": "erzhuiR",
+      "x": 431
+    }
+  ]
+}

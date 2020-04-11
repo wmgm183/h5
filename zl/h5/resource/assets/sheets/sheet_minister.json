@@ -1,0 +1,315 @@
+{
+	"file": "sheet_minister.png",
+	"frames": {
+		"minister_hire_panel_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 690,
+			"h": 310,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 690,
+			"sourceH": 310
+		},
+		"minister_hire_panel_name_bg": {
+			"x": 693,
+			"y": 1,
+			"w": 347,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 347,
+			"sourceH": 40
+		},
+		"minister_quality_flag_2": {
+			"x": 1042,
+			"y": 1,
+			"w": 80,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 80,
+			"sourceH": 72
+		},
+		"minister_picture_info_bg": {
+			"x": 693,
+			"y": 43,
+			"w": 304,
+			"h": 525,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 304,
+			"sourceH": 525
+		},
+		"minister_picture_item_bg": {
+			"x": 1,
+			"y": 313,
+			"w": 670,
+			"h": 140,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 670,
+			"sourceH": 140
+		},
+		"minister_hire_inner_shadow": {
+			"x": 999,
+			"y": 43,
+			"w": 20,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 20,
+			"sourceH": 20
+		},
+		"minister_luck_bg": {
+			"x": 1,
+			"y": 455,
+			"w": 646,
+			"h": 273,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 646,
+			"sourceH": 273
+		},
+		"minister_peerage_4": {
+			"x": 649,
+			"y": 455,
+			"w": 42,
+			"h": 162,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_peerage_3": {
+			"x": 649,
+			"y": 619,
+			"w": 42,
+			"h": 162,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_hire_item_bg": {
+			"x": 1,
+			"y": 730,
+			"w": 641,
+			"h": 213,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 641,
+			"sourceH": 213
+		},
+		"minister_quality_flag_3": {
+			"x": 999,
+			"y": 75,
+			"w": 80,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 80,
+			"sourceH": 72
+		},
+		"minister_peerage_5": {
+			"x": 1081,
+			"y": 75,
+			"w": 46,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_quality_flag_4": {
+			"x": 999,
+			"y": 149,
+			"w": 80,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 80,
+			"sourceH": 72
+		},
+		"minister_quality_flag_1": {
+			"x": 999,
+			"y": 223,
+			"w": 80,
+			"h": 72,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 80,
+			"sourceH": 72
+		},
+		"minister_peerage_6": {
+			"x": 1081,
+			"y": 239,
+			"w": 46,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_level_bg": {
+			"x": 999,
+			"y": 297,
+			"w": 71,
+			"h": 69,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 71,
+			"sourceH": 69
+		},
+		"minister_peerage_2": {
+			"x": 999,
+			"y": 368,
+			"w": 44,
+			"h": 162,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_peerage_1": {
+			"x": 1045,
+			"y": 403,
+			"w": 43,
+			"h": 162,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 162
+		},
+		"minister_hire_panel_field_bg": {
+			"x": 693,
+			"y": 570,
+			"w": 301,
+			"h": 42,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 301,
+			"sourceH": 42
+		},
+		"minister_hire_hired": {
+			"x": 693,
+			"y": 614,
+			"w": 236,
+			"h": 173,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 236,
+			"sourceH": 173
+		},
+		"minister_hire_button_hire": {
+			"x": 931,
+			"y": 614,
+			"w": 133,
+			"h": 138,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 138
+		},
+		"minister_hire_button_hire_d": {
+			"x": 931,
+			"y": 754,
+			"w": 133,
+			"h": 138,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 138
+		},
+		"minister_luck_title_bg": {
+			"x": 644,
+			"y": 789,
+			"w": 230,
+			"h": 49,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 230,
+			"sourceH": 49
+		},
+		"minister_border_3": {
+			"x": 644,
+			"y": 840,
+			"w": 221,
+			"h": 301,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 221,
+			"sourceH": 301
+		},
+		"minister_border_1": {
+			"x": 867,
+			"y": 894,
+			"w": 221,
+			"h": 301,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 221,
+			"sourceH": 301
+		},
+		"minister_border_2": {
+			"x": 867,
+			"y": 1197,
+			"w": 221,
+			"h": 301,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 221,
+			"sourceH": 301
+		},
+		"minister_quality_black_layer": {
+			"x": 1,
+			"y": 1500,
+			"w": 214,
+			"h": 292,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 214,
+			"sourceH": 292
+		},
+		"minister_picture_quality_1": {
+			"x": 1,
+			"y": 1794,
+			"w": 198,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 198,
+			"sourceH": 56
+		},
+		"minister_picture_quality_2": {
+			"x": 1,
+			"y": 1852,
+			"w": 198,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 198,
+			"sourceH": 56
+		},
+		"minister_picture_quality_3": {
+			"x": 1,
+			"y": 1910,
+			"w": 198,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 198,
+			"sourceH": 56
+		},
+		"minister_picture_quality_0": {
+			"x": 1,
+			"y": 1968,
+			"w": 198,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 198,
+			"sourceH": 56
+		}
+	}
+}

@@ -1,0 +1,1085 @@
+{
+	"file": "sheet_minister_avatar.png",
+	"frames": {
+		"minister_avatar_block_1002": {
+			"x": 1,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_1001": {
+			"x": 149,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_1004": {
+			"x": 297,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_1005": {
+			"x": 445,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_1003": {
+			"x": 593,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110003": {
+			"x": 741,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110005": {
+			"x": 889,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110007": {
+			"x": 1037,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110008": {
+			"x": 1185,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_8": {
+			"x": 1333,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120003": {
+			"x": 1481,
+			"y": 1,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120006": {
+			"x": 1,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120012": {
+			"x": 149,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130001": {
+			"x": 297,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130008": {
+			"x": 445,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130009": {
+			"x": 593,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130004": {
+			"x": 741,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130005": {
+			"x": 889,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_140001": {
+			"x": 1037,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_140004": {
+			"x": 1185,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200001": {
+			"x": 1333,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200002": {
+			"x": 1481,
+			"y": 149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_110008": {
+			"x": 1,
+			"y": 297,
+			"w": 143,
+			"h": 234,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130009": {
+			"x": 1,
+			"y": 533,
+			"w": 129,
+			"h": 234,
+			"offX": 7,
+			"offY": 0,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130005": {
+			"x": 1,
+			"y": 769,
+			"w": 132,
+			"h": 232,
+			"offX": 7,
+			"offY": 2,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120006": {
+			"x": 132,
+			"y": 533,
+			"w": 136,
+			"h": 231,
+			"offX": 7,
+			"offY": 3,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_140003": {
+			"x": 146,
+			"y": 297,
+			"w": 129,
+			"h": 211,
+			"offX": 7,
+			"offY": 23,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130008": {
+			"x": 1,
+			"y": 1003,
+			"w": 134,
+			"h": 210,
+			"offX": 7,
+			"offY": 24,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110003": {
+			"x": 135,
+			"y": 766,
+			"w": 129,
+			"h": 204,
+			"offX": 7,
+			"offY": 30,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_140001": {
+			"x": 1,
+			"y": 1215,
+			"w": 129,
+			"h": 203,
+			"offX": 7,
+			"offY": 31,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_140004": {
+			"x": 1,
+			"y": 1420,
+			"w": 129,
+			"h": 203,
+			"offX": 7,
+			"offY": 31,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130001": {
+			"x": 1,
+			"y": 1625,
+			"w": 129,
+			"h": 201,
+			"offX": 7,
+			"offY": 33,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110007": {
+			"x": 1,
+			"y": 1828,
+			"w": 143,
+			"h": 199,
+			"offX": 0,
+			"offY": 35,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120003": {
+			"x": 146,
+			"y": 1828,
+			"w": 129,
+			"h": 199,
+			"offX": 7,
+			"offY": 35,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130004": {
+			"x": 132,
+			"y": 1215,
+			"w": 129,
+			"h": 199,
+			"offX": 7,
+			"offY": 35,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_140002": {
+			"x": 137,
+			"y": 972,
+			"w": 136,
+			"h": 195,
+			"offX": 0,
+			"offY": 39,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120008": {
+			"x": 266,
+			"y": 766,
+			"w": 136,
+			"h": 194,
+			"offX": 7,
+			"offY": 40,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120012": {
+			"x": 270,
+			"y": 510,
+			"w": 129,
+			"h": 194,
+			"offX": 7,
+			"offY": 40,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110006": {
+			"x": 277,
+			"y": 297,
+			"w": 131,
+			"h": 189,
+			"offX": 7,
+			"offY": 45,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120011": {
+			"x": 401,
+			"y": 488,
+			"w": 129,
+			"h": 189,
+			"offX": 7,
+			"offY": 45,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110002": {
+			"x": 410,
+			"y": 297,
+			"w": 129,
+			"h": 189,
+			"offX": 7,
+			"offY": 45,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120009": {
+			"x": 132,
+			"y": 1416,
+			"w": 129,
+			"h": 189,
+			"offX": 7,
+			"offY": 45,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130003": {
+			"x": 132,
+			"y": 1607,
+			"w": 129,
+			"h": 187,
+			"offX": 7,
+			"offY": 47,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130011": {
+			"x": 263,
+			"y": 1169,
+			"w": 129,
+			"h": 187,
+			"offX": 7,
+			"offY": 47,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130010": {
+			"x": 277,
+			"y": 962,
+			"w": 136,
+			"h": 186,
+			"offX": 7,
+			"offY": 48,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130007": {
+			"x": 415,
+			"y": 962,
+			"w": 129,
+			"h": 186,
+			"offX": 7,
+			"offY": 48,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120007": {
+			"x": 546,
+			"y": 962,
+			"w": 136,
+			"h": 185,
+			"offX": 7,
+			"offY": 49,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110004": {
+			"x": 404,
+			"y": 679,
+			"w": 130,
+			"h": 185,
+			"offX": 7,
+			"offY": 49,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120005": {
+			"x": 532,
+			"y": 488,
+			"w": 129,
+			"h": 184,
+			"offX": 7,
+			"offY": 50,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130006": {
+			"x": 541,
+			"y": 297,
+			"w": 129,
+			"h": 184,
+			"offX": 7,
+			"offY": 50,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130012": {
+			"x": 536,
+			"y": 674,
+			"w": 129,
+			"h": 184,
+			"offX": 7,
+			"offY": 50,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_130002": {
+			"x": 663,
+			"y": 483,
+			"w": 136,
+			"h": 183,
+			"offX": 0,
+			"offY": 51,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120001": {
+			"x": 672,
+			"y": 297,
+			"w": 129,
+			"h": 183,
+			"offX": 7,
+			"offY": 51,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120004": {
+			"x": 667,
+			"y": 668,
+			"w": 129,
+			"h": 183,
+			"offX": 7,
+			"offY": 51,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110009": {
+			"x": 263,
+			"y": 1358,
+			"w": 129,
+			"h": 181,
+			"offX": 7,
+			"offY": 53,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_120002": {
+			"x": 263,
+			"y": 1541,
+			"w": 129,
+			"h": 181,
+			"offX": 7,
+			"offY": 53,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_110005": {
+			"x": 277,
+			"y": 1724,
+			"w": 129,
+			"h": 181,
+			"offX": 7,
+			"offY": 53,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_block_110009": {
+			"x": 277,
+			"y": 1907,
+			"w": 146,
+			"h": 140,
+			"offX": 0,
+			"offY": 6,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_120010": {
+			"x": 408,
+			"y": 1724,
+			"w": 129,
+			"h": 180,
+			"offX": 7,
+			"offY": 54,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_block_140002": {
+			"x": 425,
+			"y": 1906,
+			"w": 146,
+			"h": 141,
+			"offX": 0,
+			"offY": 5,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120001": {
+			"x": 573,
+			"y": 1906,
+			"w": 129,
+			"h": 141,
+			"offX": 0,
+			"offY": 5,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120011": {
+			"x": 704,
+			"y": 1906,
+			"w": 146,
+			"h": 140,
+			"offX": 0,
+			"offY": 6,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_110001": {
+			"x": 394,
+			"y": 1150,
+			"w": 129,
+			"h": 180,
+			"offX": 7,
+			"offY": 54,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_7001": {
+			"x": 394,
+			"y": 1332,
+			"w": 143,
+			"h": 171,
+			"offX": 0,
+			"offY": 63,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_7002": {
+			"x": 525,
+			"y": 1150,
+			"w": 137,
+			"h": 165,
+			"offX": 0,
+			"offY": 69,
+			"sourceW": 143,
+			"sourceH": 234
+		},
+		"minister_avatar_block_200006": {
+			"x": 394,
+			"y": 1505,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200007": {
+			"x": 539,
+			"y": 1317,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200008": {
+			"x": 664,
+			"y": 1149,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200009": {
+			"x": 539,
+			"y": 1653,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_2002": {
+			"x": 542,
+			"y": 1465,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_5": {
+			"x": 687,
+			"y": 1297,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_7": {
+			"x": 687,
+			"y": 1613,
+			"w": 146,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110004": {
+			"x": 687,
+			"y": 1761,
+			"w": 146,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120009": {
+			"x": 835,
+			"y": 1761,
+			"w": 146,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120010": {
+			"x": 983,
+			"y": 1761,
+			"w": 146,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130012": {
+			"x": 852,
+			"y": 1906,
+			"w": 141,
+			"h": 139,
+			"offX": 0,
+			"offY": 7,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_2001": {
+			"x": 690,
+			"y": 1445,
+			"w": 145,
+			"h": 146,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_2003": {
+			"x": 835,
+			"y": 1593,
+			"w": 145,
+			"h": 146,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_140003": {
+			"x": 684,
+			"y": 853,
+			"w": 144,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200010": {
+			"x": 684,
+			"y": 1001,
+			"w": 144,
+			"h": 146,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_2004": {
+			"x": 812,
+			"y": 1149,
+			"w": 144,
+			"h": 146,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_2005": {
+			"x": 958,
+			"y": 1149,
+			"w": 144,
+			"h": 146,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200005": {
+			"x": 1104,
+			"y": 1149,
+			"w": 142,
+			"h": 146,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200011": {
+			"x": 1248,
+			"y": 1149,
+			"w": 136,
+			"h": 146,
+			"offX": 9,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200013": {
+			"x": 835,
+			"y": 1297,
+			"w": 136,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200003": {
+			"x": 837,
+			"y": 1445,
+			"w": 133,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200015": {
+			"x": 972,
+			"y": 1445,
+			"w": 131,
+			"h": 146,
+			"offX": 3,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_6": {
+			"x": 1105,
+			"y": 1445,
+			"w": 129,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200016": {
+			"x": 1236,
+			"y": 1445,
+			"w": 128,
+			"h": 146,
+			"offX": 10,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200004": {
+			"x": 973,
+			"y": 1297,
+			"w": 120,
+			"h": 146,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130003": {
+			"x": 1095,
+			"y": 1297,
+			"w": 146,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130010": {
+			"x": 1243,
+			"y": 1297,
+			"w": 146,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200014": {
+			"x": 982,
+			"y": 1593,
+			"w": 146,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120008": {
+			"x": 1130,
+			"y": 1593,
+			"w": 138,
+			"h": 145,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110002": {
+			"x": 798,
+			"y": 668,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120005": {
+			"x": 801,
+			"y": 482,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130007": {
+			"x": 946,
+			"y": 297,
+			"w": 146,
+			"h": 144,
+			"offX": 0,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200017": {
+			"x": 803,
+			"y": 297,
+			"w": 138,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130006": {
+			"x": 1391,
+			"y": 297,
+			"w": 146,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200018": {
+			"x": 1539,
+			"y": 297,
+			"w": 112,
+			"h": 144,
+			"offX": 21,
+			"offY": 2,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110001": {
+			"x": 1391,
+			"y": 442,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_110006": {
+			"x": 1391,
+			"y": 586,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120007": {
+			"x": 1391,
+			"y": 730,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130011": {
+			"x": 1391,
+			"y": 874,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120002": {
+			"x": 1391,
+			"y": 1018,
+			"w": 146,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_120004": {
+			"x": 1391,
+			"y": 1162,
+			"w": 145,
+			"h": 142,
+			"offX": 0,
+			"offY": 4,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_130002": {
+			"x": 1391,
+			"y": 1306,
+			"w": 130,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		},
+		"minister_avatar_block_200012": {
+			"x": 1523,
+			"y": 1306,
+			"w": 130,
+			"h": 143,
+			"offX": 0,
+			"offY": 3,
+			"sourceW": 146,
+			"sourceH": 146
+		}
+	}
+}

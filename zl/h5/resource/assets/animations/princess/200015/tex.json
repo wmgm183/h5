@@ -1,0 +1,120 @@
+{
+  "imagePath": "剑屏_PSD_tex.png",
+  "width": 1024,
+  "SubTexture": [
+    {
+      "width": 105,
+      "y": 1,
+      "height": 310,
+      "name": "toufa",
+      "x": 643
+    },
+    {
+      "width": 322,
+      "y": 1,
+      "height": 397,
+      "name": "shenti",
+      "x": 1
+    },
+    {
+      "width": 109,
+      "y": 1,
+      "height": 374,
+      "name": "qunbai",
+      "x": 532
+    },
+    {
+      "width": 205,
+      "y": 1,
+      "height": 233,
+      "name": "shenti_0",
+      "x": 325
+    },
+    {
+      "width": 113,
+      "y": 236,
+      "height": 103,
+      "name": "shoubi_",
+      "x": 400
+    },
+    {
+      "width": 21,
+      "y": 400,
+      "height": 81,
+      "name": "fasi_0",
+      "x": 120
+    },
+    {
+      "width": 75,
+      "y": 341,
+      "height": 107,
+      "name": "shoubi _0",
+      "x": 400
+    },
+    {
+      "width": 25,
+      "y": 458,
+      "height": 41,
+      "name": "peishi",
+      "x": 1
+    },
+    {
+      "width": 73,
+      "y": 236,
+      "height": 234,
+      "name": "tou_1",
+      "x": 325
+    },
+    {
+      "width": 24,
+      "y": 400,
+      "height": 75,
+      "name": "peishi_0",
+      "x": 94
+    },
+    {
+      "width": 48,
+      "y": 400,
+      "height": 56,
+      "name": "shou",
+      "x": 1
+    },
+    {
+      "width": 41,
+      "y": 400,
+      "height": 63,
+      "name": "shou_0",
+      "x": 51
+    },
+    {
+      "width": 38,
+      "y": 465,
+      "height": 19,
+      "name": "quankai",
+      "x": 28
+    },
+    {
+      "width": 38,
+      "y": 486,
+      "height": 15,
+      "name": "bankai",
+      "x": 28
+    },
+    {
+      "width": 38,
+      "y": 477,
+      "height": 11,
+      "name": "biy",
+      "x": 68
+    },
+    {
+      "width": 32,
+      "y": 341,
+      "height": 101,
+      "name": "fasi",
+      "x": 477
+    }
+  ],
+  "height": 512,
+  "name": "ani_princess_200015"
+}

@@ -1,0 +1,35 @@
+{
+	"file": "sheet_activity_c.png",
+	"frames": {
+		"activity_info_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 550,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 550,
+			"sourceH": 66
+		},
+		"activity_reward_bg": {
+			"x": 1,
+			"y": 69,
+			"w": 118,
+			"h": 277,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 277
+		},
+		"activity_reward_bg_2": {
+			"x": 121,
+			"y": 69,
+			"w": 118,
+			"h": 203,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 203
+		}
+	}
+}

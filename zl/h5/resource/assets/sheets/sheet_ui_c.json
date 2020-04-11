@@ -1,0 +1,155 @@
+{
+	"file": "sheet_ui_c.png",
+	"frames": {
+		"ui_tab_button3_n": {
+			"x": 1,
+			"y": 1,
+			"w": 124,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 124,
+			"sourceH": 66
+		},
+		"ui_progress_2_track": {
+			"x": 127,
+			"y": 1,
+			"w": 33,
+			"h": 28,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 33,
+			"sourceH": 28
+		},
+		"ui_checkbox_bg": {
+			"x": 127,
+			"y": 31,
+			"w": 28,
+			"h": 28,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 28,
+			"sourceH": 28
+		},
+		"ui_progress_2_thumb": {
+			"x": 127,
+			"y": 61,
+			"w": 28,
+			"h": 24,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 28,
+			"sourceH": 24
+		},
+		"ui_tab_button3_h": {
+			"x": 1,
+			"y": 69,
+			"w": 124,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 124,
+			"sourceH": 66
+		},
+		"ui_progress_5_thumb": {
+			"x": 127,
+			"y": 87,
+			"w": 28,
+			"h": 24,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 28,
+			"sourceH": 24
+		},
+		"ui_slider_track": {
+			"x": 127,
+			"y": 113,
+			"w": 26,
+			"h": 21,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 21
+		},
+		"ui_progress_3_thumb": {
+			"x": 127,
+			"y": 136,
+			"w": 20,
+			"h": 17,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 20,
+			"sourceH": 17
+		},
+		"ui_progress_track": {
+			"x": 149,
+			"y": 136,
+			"w": 16,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 16,
+			"sourceH": 25
+		},
+		"ui_switch_bg": {
+			"x": 1,
+			"y": 137,
+			"w": 66,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 66,
+			"sourceH": 32
+		},
+		"ui_textarea_bg": {
+			"x": 69,
+			"y": 137,
+			"w": 50,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 50,
+			"sourceH": 40
+		},
+		"ui_textinput_bg": {
+			"x": 121,
+			"y": 163,
+			"w": 44,
+			"h": 44,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 44,
+			"sourceH": 44
+		},
+		"ui_progress_4_thumb": {
+			"x": 121,
+			"y": 209,
+			"w": 14,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 23
+		},
+		"ui_slider_track_highlight": {
+			"x": 137,
+			"y": 209,
+			"w": 14,
+			"h": 19,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 16,
+			"sourceH": 21
+		},
+		"ui_progress_thumb": {
+			"x": 153,
+			"y": 209,
+			"w": 12,
+			"h": 21,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 12,
+			"sourceH": 21
+		}
+	}
+}

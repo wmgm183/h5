@@ -1,0 +1,120 @@
+{
+  "width": 512,
+  "SubTexture": [
+    {
+      "width": 241,
+      "y": 1,
+      "height": 399,
+      "name": "qunzi_",
+      "x": 1
+    },
+    {
+      "width": 32,
+      "y": 218,
+      "height": 157,
+      "name": "shipin",
+      "x": 382
+    },
+    {
+      "width": 176,
+      "y": 1,
+      "height": 215,
+      "name": "shangshen",
+      "x": 244
+    },
+    {
+      "width": 136,
+      "y": 218,
+      "height": 171,
+      "name": "tou",
+      "x": 244
+    },
+    {
+      "width": 43,
+      "y": 458,
+      "height": 11,
+      "name": "quankai",
+      "x": 463
+    },
+    {
+      "width": 44,
+      "y": 458,
+      "height": 15,
+      "name": "bankai",
+      "x": 417
+    },
+    {
+      "width": 43,
+      "y": 471,
+      "height": 4,
+      "name": "by",
+      "x": 463
+    },
+    {
+      "width": 56,
+      "y": 391,
+      "height": 93,
+      "name": "shoupa_",
+      "x": 359
+    },
+    {
+      "width": 51,
+      "y": 308,
+      "height": 41,
+      "name": "youshou",
+      "x": 416
+    },
+    {
+      "width": 55,
+      "y": 218,
+      "height": 88,
+      "name": "youbi",
+      "x": 416
+    },
+    {
+      "width": 53,
+      "y": 351,
+      "height": 36,
+      "name": "zuoshou",
+      "x": 416
+    },
+    {
+      "width": 113,
+      "y": 391,
+      "height": 85,
+      "name": "zuobi",
+      "x": 244
+    },
+    {
+      "width": 6,
+      "y": 475,
+      "height": 23,
+      "name": "erhuan",
+      "x": 426
+    },
+    {
+      "width": 7,
+      "y": 475,
+      "height": 23,
+      "name": "erhuan_0",
+      "x": 417
+    },
+    {
+      "width": 20,
+      "y": 389,
+      "height": 67,
+      "name": "toushi",
+      "x": 469
+    },
+    {
+      "width": 10,
+      "y": 308,
+      "height": 67,
+      "name": "toushi_0",
+      "x": 471
+    }
+  ],
+  "height": 512,
+  "name": "ani_princess_200002",
+  "imagePath": "甄嬛_sx_tex.png"
+}

@@ -1,0 +1,45 @@
+{
+	"file": "sheet_activity.png",
+	"frames": {
+		"activity_limit_info_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 545,
+			"h": 49,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 545,
+			"sourceH": 49
+		},
+		"activity_desc": {
+			"x": 1,
+			"y": 52,
+			"w": 491,
+			"h": 56,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 505,
+			"sourceH": 56
+		},
+		"activity_class_bg": {
+			"x": 1,
+			"y": 110,
+			"w": 316,
+			"h": 38,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 316,
+			"sourceH": 38
+		},
+		"activity_receive": {
+			"x": 319,
+			"y": 110,
+			"w": 181,
+			"h": 132,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 181,
+			"sourceH": 132
+		}
+	}
+}

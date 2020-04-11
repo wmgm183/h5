@@ -1,0 +1,65 @@
+{
+	"file": "sheet_loading.png",
+	"frames": {
+		"loading_track": {
+			"x": 1,
+			"y": 1,
+			"w": 664,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 665,
+			"sourceH": 58
+		},
+		"loading_thumb_bar": {
+			"x": 1,
+			"y": 59,
+			"w": 560,
+			"h": 17,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 560,
+			"sourceH": 17
+		},
+		"loading_thumb_part": {
+			"x": 563,
+			"y": 59,
+			"w": 77,
+			"h": 97,
+			"offX": 8,
+			"offY": 11,
+			"sourceW": 96,
+			"sourceH": 118
+		},
+		"loading_icon_point": {
+			"x": 642,
+			"y": 59,
+			"w": 15,
+			"h": 15,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 15
+		},
+		"loading_icon_point_2": {
+			"x": 642,
+			"y": 76,
+			"w": 15,
+			"h": 15,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 15
+		},
+		"loading_logo": {
+			"x": 1,
+			"y": 78,
+			"w": 293,
+			"h": 504,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 293,
+			"sourceH": 504
+		}
+	}
+}

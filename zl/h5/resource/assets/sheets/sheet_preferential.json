@@ -1,0 +1,85 @@
+{
+	"file": "sheet_preferential.png",
+	"frames": {
+		"preferential_independent_3": {
+			"x": 1,
+			"y": 1,
+			"w": 498,
+			"h": 49,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 498,
+			"sourceH": 49
+		},
+		"preferential_dragon_3": {
+			"x": 1,
+			"y": 52,
+			"w": 490,
+			"h": 49,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 490,
+			"sourceH": 49
+		},
+		"preferential_dragon_1": {
+			"x": 1,
+			"y": 103,
+			"w": 456,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 456,
+			"sourceH": 32
+		},
+		"preferential_dragon_2": {
+			"x": 1,
+			"y": 137,
+			"w": 454,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 454,
+			"sourceH": 32
+		},
+		"preferential_independent_1": {
+			"x": 1,
+			"y": 171,
+			"w": 413,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 413,
+			"sourceH": 32
+		},
+		"preferential_independent_2": {
+			"x": 1,
+			"y": 205,
+			"w": 413,
+			"h": 31,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 413,
+			"sourceH": 31
+		},
+		"preferential_tab_dragon": {
+			"x": 1,
+			"y": 238,
+			"w": 130,
+			"h": 131,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 130,
+			"sourceH": 131
+		},
+		"preferential_tab_independent": {
+			"x": 133,
+			"y": 238,
+			"w": 130,
+			"h": 131,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 130,
+			"sourceH": 131
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"file": "sheet_visit_c.png",
+	"frames": {
+		"visit_panel_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 748,
+			"h": 187,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 748,
+			"sourceH": 187
+		},
+		"visit_tab_up": {
+			"x": 1,
+			"y": 190,
+			"w": 14,
+			"h": 55,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 55
+		},
+		"visit_tab_down": {
+			"x": 17,
+			"y": 190,
+			"w": 14,
+			"h": 53,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 53
+		},
+		"visit_line": {
+			"x": 33,
+			"y": 190,
+			"w": 5,
+			"h": 5,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 5,
+			"sourceH": 5
+		}
+	}
+}

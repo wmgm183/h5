@@ -1,0 +1,75 @@
+{
+	"file": "sheet_guide.png",
+	"frames": {
+		"guide_btn_skip": {
+			"x": 1,
+			"y": 1,
+			"w": 269,
+			"h": 93,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 269,
+			"sourceH": 93
+		},
+		"guide_hand": {
+			"x": 1,
+			"y": 96,
+			"w": 118,
+			"h": 119,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 118,
+			"sourceH": 120
+		},
+		"guide_txt_next": {
+			"x": 121,
+			"y": 96,
+			"w": 86,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 86,
+			"sourceH": 25
+		},
+		"guide_black_layer": {
+			"x": 209,
+			"y": 96,
+			"w": 30,
+			"h": 30,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 30,
+			"sourceH": 30
+		},
+		"guide_circle": {
+			"x": 241,
+			"y": 96,
+			"w": 27,
+			"h": 26,
+			"offX": 1,
+			"offY": 2,
+			"sourceW": 30,
+			"sourceH": 30
+		},
+		"guide_knockout": {
+			"x": 241,
+			"y": 124,
+			"w": 22,
+			"h": 22,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 22,
+			"sourceH": 22
+		},
+		"guide_blink": {
+			"x": 121,
+			"y": 123,
+			"w": 66,
+			"h": 70,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 66,
+			"sourceH": 70
+		}
+	}
+}

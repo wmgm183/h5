@@ -1,0 +1,162 @@
+{
+  "SubTexture": [
+    {
+      "width": 214,
+      "y": 1,
+      "height": 406,
+      "name": "xbs",
+      "x": 1
+    },
+    {
+      "width": 11,
+      "y": 409,
+      "height": 24,
+      "name": "yerh",
+      "x": 198
+    },
+    {
+      "width": 184,
+      "y": 1,
+      "height": 320,
+      "name": "sbs_3",
+      "x": 217
+    },
+    {
+      "width": 40,
+      "y": 452,
+      "height": 14,
+      "name": "qzy",
+      "x": 168
+    },
+    {
+      "width": 111,
+      "y": 1,
+      "height": 304,
+      "name": "pd3",
+      "x": 403
+    },
+    {
+      "width": 63,
+      "y": 1,
+      "height": 277,
+      "name": "pd2",
+      "x": 516
+    },
+    {
+      "width": 57,
+      "y": 1,
+      "height": 276,
+      "name": "pd1",
+      "x": 581
+    },
+    {
+      "width": 23,
+      "y": 307,
+      "height": 155,
+      "name": "gshi3",
+      "x": 491
+    },
+    {
+      "width": 22,
+      "y": 279,
+      "height": 155,
+      "name": "gshi3_0",
+      "x": 612
+    },
+    {
+      "width": 27,
+      "y": 307,
+      "height": 174,
+      "name": "gshi1",
+      "x": 462
+    },
+    {
+      "width": 193,
+      "y": 323,
+      "height": 182,
+      "name": "zsb_1",
+      "x": 217
+    },
+    {
+      "width": 48,
+      "y": 307,
+      "height": 120,
+      "name": "shoupa",
+      "x": 412
+    },
+    {
+      "width": 94,
+      "y": 280,
+      "height": 173,
+      "name": "ysb_1",
+      "x": 516
+    },
+    {
+      "width": 11,
+      "y": 409,
+      "height": 24,
+      "name": "yeh",
+      "x": 185
+    },
+    {
+      "width": 16,
+      "y": 429,
+      "height": 55,
+      "name": "jts",
+      "x": 432
+    },
+    {
+      "width": 149,
+      "y": 409,
+      "height": 67,
+      "name": "sp",
+      "x": 1
+    },
+    {
+      "width": 14,
+      "y": 452,
+      "height": 41,
+      "name": "jtsxu1",
+      "x": 152
+    },
+    {
+      "width": 16,
+      "y": 409,
+      "height": 41,
+      "name": "jtsxu2",
+      "x": 152
+    },
+    {
+      "width": 13,
+      "y": 409,
+      "height": 41,
+      "name": "jtsxu3",
+      "x": 170
+    },
+    {
+      "width": 18,
+      "y": 429,
+      "height": 63,
+      "name": "guahua",
+      "x": 412
+    },
+    {
+      "width": 39,
+      "y": 477,
+      "height": 3,
+      "name": "by",
+      "x": 168
+    },
+    {
+      "width": 40,
+      "y": 468,
+      "height": 7,
+      "name": "bzy",
+      "x": 168
+    }
+  ],
+  "width": 1024,
+  "height": 512,
+  "name": "ani_princess_200001",
+  "imagePath": "若曦suoxiao_tex.png"
+}

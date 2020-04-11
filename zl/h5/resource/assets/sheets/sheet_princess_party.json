@@ -1,0 +1,55 @@
+{
+	"file": "sheet_princess_party.png",
+	"frames": {
+		"princess_party_theme_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 272,
+			"h": 35,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 272,
+			"sourceH": 35
+		},
+		"princess_party_info": {
+			"x": 1,
+			"y": 38,
+			"w": 224,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 40
+		},
+		"princess_party_icon_gift": {
+			"x": 1,
+			"y": 80,
+			"w": 75,
+			"h": 78,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 75,
+			"sourceH": 78
+		},
+		"princess_party_rank_bg": {
+			"x": 78,
+			"y": 80,
+			"w": 72,
+			"h": 83,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 72,
+			"sourceH": 83
+		},
+		"princess_party_seat_arrow": {
+			"x": 1,
+			"y": 160,
+			"w": 64,
+			"h": 84,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 64,
+			"sourceH": 84
+		}
+	}
+}

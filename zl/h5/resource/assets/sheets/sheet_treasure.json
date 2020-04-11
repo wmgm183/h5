@@ -1,0 +1,85 @@
+{
+	"file": "sheet_treasure.png",
+	"frames": {
+		"treasure_box_light": {
+			"x": 1,
+			"y": 1,
+			"w": 750,
+			"h": 745,
+			"offX": 0,
+			"offY": 5,
+			"sourceW": 750,
+			"sourceH": 750
+		},
+		"treasure_dragon": {
+			"x": 753,
+			"y": 1,
+			"w": 687,
+			"h": 395,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 687,
+			"sourceH": 395
+		},
+		"treasure_box_silver_close": {
+			"x": 1442,
+			"y": 1,
+			"w": 380,
+			"h": 376,
+			"offX": 186,
+			"offY": 191,
+			"sourceW": 750,
+			"sourceH": 750
+		},
+		"treasure_box_gold_close": {
+			"x": 1442,
+			"y": 379,
+			"w": 370,
+			"h": 367,
+			"offX": 191,
+			"offY": 197,
+			"sourceW": 750,
+			"sourceH": 750
+		},
+		"treasure_conquer": {
+			"x": 753,
+			"y": 398,
+			"w": 687,
+			"h": 395,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 687,
+			"sourceH": 395
+		},
+		"treasure_banner": {
+			"x": 1,
+			"y": 748,
+			"w": 681,
+			"h": 243,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 681,
+			"sourceH": 243
+		},
+		"treasure_box_gold_open": {
+			"x": 1,
+			"y": 993,
+			"w": 650,
+			"h": 593,
+			"offX": 51,
+			"offY": 92,
+			"sourceW": 750,
+			"sourceH": 750
+		},
+		"treasure_box_silver_open": {
+			"x": 653,
+			"y": 993,
+			"w": 548,
+			"h": 512,
+			"offX": 96,
+			"offY": 135,
+			"sourceW": 750,
+			"sourceH": 750
+		}
+	}
+}

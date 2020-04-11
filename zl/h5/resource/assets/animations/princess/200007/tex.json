@@ -1,0 +1,106 @@
+{
+  "width": 256,
+  "height": 1024,
+  "name": "ani_princess_200007",
+  "imagePath": "晴川_sx_tex.png",
+  "SubTexture": [
+    {
+      "width": 113,
+      "y": 662,
+      "height": 103,
+      "name": "tou",
+      "x": 1
+    },
+    {
+      "width": 223,
+      "y": 1,
+      "height": 659,
+      "name": "shenfu",
+      "x": 1
+    },
+    {
+      "width": 13,
+      "y": 804,
+      "height": 40,
+      "name": "gs2",
+      "x": 95
+    },
+    {
+      "width": 41,
+      "y": 789,
+      "height": 13,
+      "name": "bk",
+      "x": 83
+    },
+    {
+      "width": 41,
+      "y": 771,
+      "height": 16,
+      "name": "kaiq",
+      "x": 83
+    },
+    {
+      "width": 40,
+      "y": 866,
+      "height": 8,
+      "name": "by",
+      "x": 54
+    },
+    {
+      "width": 51,
+      "y": 767,
+      "height": 108,
+      "name": "zuoshou",
+      "x": 1
+    },
+    {
+      "width": 181,
+      "y": 877,
+      "height": 20,
+      "name": "dizi",
+      "x": 1
+    },
+    {
+      "width": 27,
+      "y": 767,
+      "height": 56,
+      "name": "shou",
+      "x": 54
+    },
+    {
+      "width": 39,
+      "y": 825,
+      "height": 39,
+      "name": "shou_0",
+      "x": 54
+    },
+    {
+      "width": 99,
+      "y": 662,
+      "height": 107,
+      "name": "xizi",
+      "x": 116
+    },
+    {
+      "width": 5,
+      "y": 804,
+      "height": 18,
+      "name": "erhuan",
+      "x": 83
+    },
+    {
+      "width": 5,
+      "y": 846,
+      "height": 18,
+      "name": "eh",
+      "x": 95
+    },
+    {
+      "width": 8,
+      "y": 804,
+      "height": 47,
+      "name": "gs",
+      "x": 110
+    }
+  ]
+}

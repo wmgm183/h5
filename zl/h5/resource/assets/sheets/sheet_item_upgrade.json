@@ -1,0 +1,15 @@
+{
+	"file": "sheet_item_upgrade.png",
+	"frames": {
+		"item_upgrade_txt_resource": {
+			"x": 1,
+			"y": 1,
+			"w": 224,
+			"h": 41,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 41
+		}
+	}
+}

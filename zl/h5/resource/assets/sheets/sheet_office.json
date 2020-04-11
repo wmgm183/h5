@@ -1,0 +1,185 @@
+{
+	"file": "sheet_office.png",
+	"frames": {
+		"office_class_degree_detail": {
+			"x": 1,
+			"y": 1,
+			"w": 576,
+			"h": 199,
+			"offX": 33,
+			"offY": 36,
+			"sourceW": 647,
+			"sourceH": 287
+		},
+		"office_avatar_bg": {
+			"x": 579,
+			"y": 1,
+			"w": 140,
+			"h": 140,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 140,
+			"sourceH": 140
+		},
+		"office_class_degree_title": {
+			"x": 1,
+			"y": 202,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"office_class_3": {
+			"x": 1,
+			"y": 363,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_4": {
+			"x": 240,
+			"y": 363,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_5": {
+			"x": 479,
+			"y": 363,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_6": {
+			"x": 1,
+			"y": 433,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_8": {
+			"x": 240,
+			"y": 433,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_7": {
+			"x": 479,
+			"y": 433,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_1": {
+			"x": 1,
+			"y": 503,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_0": {
+			"x": 240,
+			"y": 503,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_3": {
+			"x": 479,
+			"y": 503,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_1": {
+			"x": 1,
+			"y": 573,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_2": {
+			"x": 240,
+			"y": 573,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_2": {
+			"x": 479,
+			"y": 573,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_4": {
+			"x": 1,
+			"y": 643,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_group_5": {
+			"x": 240,
+			"y": 643,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		},
+		"office_class_9": {
+			"x": 479,
+			"y": 643,
+			"w": 237,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 237,
+			"sourceH": 68
+		}
+	}
+}

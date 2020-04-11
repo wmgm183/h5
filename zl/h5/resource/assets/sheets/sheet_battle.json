@@ -1,0 +1,225 @@
+{
+	"file": "sheet_battle.png",
+	"frames": {
+		"battle_panel_bg_0": {
+			"x": 1,
+			"y": 1,
+			"w": 729,
+			"h": 680,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 729,
+			"sourceH": 680
+		},
+		"battle_info_bg": {
+			"x": 732,
+			"y": 1,
+			"w": 301,
+			"h": 263,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 301,
+			"sourceH": 263
+		},
+		"battle_avatar_silver_border": {
+			"x": 1035,
+			"y": 1,
+			"w": 129,
+			"h": 131,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 129,
+			"sourceH": 131
+		},
+		"battle_button_world_map": {
+			"x": 1035,
+			"y": 134,
+			"w": 129,
+			"h": 117,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 129,
+			"sourceH": 117
+		},
+		"battle_point_attack": {
+			"x": 1035,
+			"y": 253,
+			"w": 66,
+			"h": 73,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 66,
+			"sourceH": 73
+		},
+		"battle_icon_master": {
+			"x": 1103,
+			"y": 253,
+			"w": 43,
+			"h": 63,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 43,
+			"sourceH": 63
+		},
+		"battle_progress_red_thumb": {
+			"x": 1148,
+			"y": 253,
+			"w": 16,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 16,
+			"sourceH": 23
+		},
+		"battle_progress_blue_thumb": {
+			"x": 1148,
+			"y": 278,
+			"w": 12,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 12,
+			"sourceH": 23
+		},
+		"battle_icon_slave": {
+			"x": 1103,
+			"y": 318,
+			"w": 43,
+			"h": 45,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 43,
+			"sourceH": 45
+		},
+		"battle_country_name_bg": {
+			"x": 732,
+			"y": 266,
+			"w": 262,
+			"h": 46,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 262,
+			"sourceH": 46
+		},
+		"battle_info_red_bg": {
+			"x": 996,
+			"y": 266,
+			"w": 28,
+			"h": 115,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 29,
+			"sourceH": 115
+		},
+		"battle_info_blue_bg": {
+			"x": 1026,
+			"y": 328,
+			"w": 28,
+			"h": 115,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 29,
+			"sourceH": 115
+		},
+		"battle_progress_track": {
+			"x": 1056,
+			"y": 328,
+			"w": 22,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 22,
+			"sourceH": 27
+		},
+		"battle_start_battle": {
+			"x": 732,
+			"y": 314,
+			"w": 210,
+			"h": 77,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 210,
+			"sourceH": 77
+		},
+		"battle_avatar_blue_bg": {
+			"x": 732,
+			"y": 393,
+			"w": 143,
+			"h": 143,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 143,
+			"sourceH": 143
+		},
+		"battle_avatar_red_bg": {
+			"x": 877,
+			"y": 393,
+			"w": 143,
+			"h": 143,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 143,
+			"sourceH": 143
+		},
+		"battle_panel_bg_1": {
+			"x": 1,
+			"y": 683,
+			"w": 729,
+			"h": 59,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 729,
+			"sourceH": 59
+		},
+		"battle_panel_reward_bg": {
+			"x": 1,
+			"y": 744,
+			"w": 679,
+			"h": 336,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 679,
+			"sourceH": 336
+		},
+		"battle_text_bg": {
+			"x": 682,
+			"y": 744,
+			"w": 440,
+			"h": 53,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 440,
+			"sourceH": 53
+		},
+		"battle_start_battle_bg": {
+			"x": 1,
+			"y": 1082,
+			"w": 609,
+			"h": 322,
+			"offX": 0,
+			"offY": 11,
+			"sourceW": 609,
+			"sourceH": 336
+		},
+		"battle_panel_reward_title": {
+			"x": 1,
+			"y": 1406,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"battle_panel_title": {
+			"x": 567,
+			"y": 1406,
+			"w": 564,
+			"h": 151,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 151
+		}
+	}
+}

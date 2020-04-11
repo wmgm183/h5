@@ -1,0 +1,65 @@
+{
+	"file": "lishu_title.png",
+	"frames": {
+		"任": {
+			"x": 1,
+			"y": 1,
+			"w": 36,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 25
+		},
+		"务": {
+			"x": 1,
+			"y": 28,
+			"w": 36,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 25
+		},
+		"人": {
+			"x": 1,
+			"y": 55,
+			"w": 36,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 25
+		},
+		"气": {
+			"x": 1,
+			"y": 82,
+			"w": 36,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 25
+		},
+		"奖": {
+			"x": 1,
+			"y": 109,
+			"w": 36,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 25
+		},
+		"励": {
+			"x": 1,
+			"y": 136,
+			"w": 35,
+			"h": 25,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 25
+		}
+	}
+}

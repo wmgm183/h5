@@ -1,0 +1,99 @@
+{
+  "width": 1024,
+  "imagePath": "尔淳20170724-缩小_tex.png",
+  "height": 1024,
+  "name": "ani_princess_200004",
+  "SubTexture": [
+    {
+      "width": 380,
+      "y": 1,
+      "height": 456,
+      "name": "qz",
+      "x": 1
+    },
+    {
+      "width": 235,
+      "y": 459,
+      "height": 318,
+      "name": "pd_0",
+      "x": 218
+    },
+    {
+      "width": 215,
+      "y": 459,
+      "height": 532,
+      "name": "sbs_1",
+      "x": 1
+    },
+    {
+      "width": 111,
+      "y": 622,
+      "height": 275,
+      "name": "sp",
+      "x": 455
+    },
+    {
+      "width": 41,
+      "y": 779,
+      "height": 184,
+      "name": "sp_0",
+      "x": 218
+    },
+    {
+      "width": 178,
+      "y": 1,
+      "height": 347,
+      "name": "pd",
+      "x": 383
+    },
+    {
+      "width": 33,
+      "y": 779,
+      "height": 205,
+      "name": "ys",
+      "x": 261
+    },
+    {
+      "width": 113,
+      "y": 622,
+      "height": 253,
+      "name": "hua",
+      "x": 568
+    },
+    {
+      "width": 145,
+      "y": 350,
+      "height": 270,
+      "name": "tou_1",
+      "x": 455
+    },
+    {
+      "width": 28,
+      "y": 978,
+      "height": 8,
+      "name": "banbi",
+      "x": 218
+    },
+    {
+      "width": 28,
+      "y": 965,
+      "height": 11,
+      "name": "qk",
+      "x": 218
+    },
+    {
+      "width": 28,
+      "y": 350,
+      "height": 5,
+      "name": "biyan",
+      "x": 383
+    },
+    {
+      "width": 156,
+      "y": 1,
+      "height": 216,
+      "name": "zs",
+      "x": 563
+    }
+  ]
+}

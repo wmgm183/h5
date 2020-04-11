@@ -1,0 +1,25 @@
+{
+	"file": "sheet_garden_house.png",
+	"frames": {
+		"garden_house_label_flower": {
+			"x": 1,
+			"y": 1,
+			"w": 165,
+			"h": 39,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 39
+		},
+		"garden_house_icon_flower": {
+			"x": 1,
+			"y": 42,
+			"w": 142,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 142,
+			"sourceH": 159
+		}
+	}
+}

@@ -1,0 +1,106 @@
+{
+  "width": 1024,
+  "SubTexture": [
+    {
+      "width": 348,
+      "y": 649,
+      "height": 342,
+      "name": "qunzi",
+      "x": 1
+    },
+    {
+      "width": 401,
+      "y": 1,
+      "height": 646,
+      "name": "shangyi",
+      "x": 1
+    },
+    {
+      "width": 159,
+      "y": 816,
+      "height": 114,
+      "name": "tou",
+      "x": 351
+    },
+    {
+      "width": 50,
+      "y": 1010,
+      "height": 11,
+      "name": "eerh",
+      "x": 1
+    },
+    {
+      "width": 42,
+      "y": 993,
+      "height": 3,
+      "name": "biyan",
+      "x": 1
+    },
+    {
+      "width": 42,
+      "y": 925,
+      "height": 13,
+      "name": "quank",
+      "x": 564
+    },
+    {
+      "width": 42,
+      "y": 940,
+      "height": 9,
+      "name": "bankai",
+      "x": 564
+    },
+    {
+      "width": 100,
+      "y": 816,
+      "height": 107,
+      "name": "youshou",
+      "x": 512
+    },
+    {
+      "width": 50,
+      "y": 925,
+      "height": 96,
+      "name": "zuoshou",
+      "x": 512
+    },
+    {
+      "width": 13,
+      "y": 880,
+      "height": 66,
+      "name": "huaxu",
+      "x": 614
+    },
+    {
+      "width": 132,
+      "y": 649,
+      "height": 234,
+      "name": "dld_1",
+      "x": 652
+    },
+    {
+      "width": 28,
+      "y": 816,
+      "height": 62,
+      "name": "shou_",
+      "x": 614
+    },
+    {
+      "width": 299,
+      "y": 649,
+      "height": 165,
+      "name": "shou",
+      "x": 351
+    },
+    {
+      "width": 56,
+      "y": 932,
+      "height": 76,
+      "name": "xu",
+      "x": 351
+    }
+  ],
+  "height": 1024,
+  "name": "ani_princess_200003",
+  "imagePath": "玉莹_sx-_g_tex.png"
+}

@@ -1,0 +1,65 @@
+{
+	"file": "sheet_princess_work.png",
+	"frames": {
+		"princess_work_3_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 679,
+			"h": 273,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 679,
+			"sourceH": 273
+		},
+		"princess_work_button_send": {
+			"x": 682,
+			"y": 1,
+			"w": 154,
+			"h": 160,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 154,
+			"sourceH": 160
+		},
+		"princess_work_name_bg": {
+			"x": 682,
+			"y": 163,
+			"w": 154,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 154,
+			"sourceH": 36
+		},
+		"princess_work_4_bg": {
+			"x": 1,
+			"y": 276,
+			"w": 679,
+			"h": 273,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 679,
+			"sourceH": 273
+		},
+		"princess_work_2_bg": {
+			"x": 1,
+			"y": 551,
+			"w": 679,
+			"h": 273,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 679,
+			"sourceH": 273
+		},
+		"princess_work_1_bg": {
+			"x": 1,
+			"y": 826,
+			"w": 679,
+			"h": 273,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 679,
+			"sourceH": 273
+		}
+	}
+}

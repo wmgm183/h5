@@ -1,0 +1,35 @@
+{
+	"file": "sheet_email.png",
+	"frames": {
+		"email_icon_looked": {
+			"x": 1,
+			"y": 1,
+			"w": 109,
+			"h": 113,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 109,
+			"sourceH": 114
+		},
+		"email_icon_un_look": {
+			"x": 1,
+			"y": 116,
+			"w": 109,
+			"h": 113,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 109,
+			"sourceH": 114
+		},
+		"email_icon_receive": {
+			"x": 1,
+			"y": 231,
+			"w": 86,
+			"h": 63,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 86,
+			"sourceH": 63
+		}
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"file": "sheet_throne.png",
+	"frames": {
+		"throne_icon_office": {
+			"x": 1,
+			"y": 1,
+			"w": 188,
+			"h": 143,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 188,
+			"sourceH": 143
+		},
+		"throne_label_memorial": {
+			"x": 191,
+			"y": 1,
+			"w": 165,
+			"h": 38,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 38
+		},
+		"throne_label_interior": {
+			"x": 191,
+			"y": 41,
+			"w": 165,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 37
+		},
+		"throne_label_office": {
+			"x": 191,
+			"y": 80,
+			"w": 165,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 37
+		},
+		"throne_icon_interior": {
+			"x": 191,
+			"y": 119,
+			"w": 139,
+			"h": 148,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 139,
+			"sourceH": 148
+		},
+		"throne_bottom_button_bg": {
+			"x": 1,
+			"y": 146,
+			"w": 138,
+			"h": 138,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 138,
+			"sourceH": 138
+		},
+		"throne_icon_memorial": {
+			"x": 141,
+			"y": 269,
+			"w": 133,
+			"h": 134,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 134
+		},
+		"throne_button_back_h": {
+			"x": 276,
+			"y": 269,
+			"w": 72,
+			"h": 144,
+			"offX": 14,
+			"offY": 0,
+			"sourceW": 86,
+			"sourceH": 145
+		},
+		"throne_button_back_n": {
+			"x": 1,
+			"y": 286,
+			"w": 86,
+			"h": 145,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 86,
+			"sourceH": 145
+		}
+	}
+}

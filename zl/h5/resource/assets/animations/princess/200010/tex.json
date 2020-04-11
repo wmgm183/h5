@@ -1,0 +1,148 @@
+{
+  "imagePath": "武媚娘_sx2_tex.png",
+  "width": 512,
+  "SubTexture": [
+    {
+      "width": 377,
+      "y": 1,
+      "height": 403,
+      "name": "qz",
+      "x": 1
+    },
+    {
+      "width": 59,
+      "y": 647,
+      "height": 227,
+      "name": "choudai",
+      "x": 181
+    },
+    {
+      "width": 228,
+      "y": 406,
+      "height": 239,
+      "name": "choudai_0",
+      "x": 181
+    },
+    {
+      "width": 178,
+      "y": 406,
+      "height": 525,
+      "name": "ss",
+      "x": 1
+    },
+    {
+      "width": 57,
+      "y": 647,
+      "height": 157,
+      "name": "sp",
+      "x": 242
+    },
+    {
+      "width": 31,
+      "y": 647,
+      "height": 175,
+      "name": "pd_0",
+      "x": 367
+    },
+    {
+      "width": 80,
+      "y": 487,
+      "height": 200,
+      "name": "xiuzi",
+      "x": 411
+    },
+    {
+      "width": 51,
+      "y": 806,
+      "height": 44,
+      "name": "shou",
+      "x": 400
+    },
+    {
+      "width": 126,
+      "y": 1,
+      "height": 186,
+      "name": "xiuzi_0",
+      "x": 380
+    },
+    {
+      "width": 26,
+      "y": 806,
+      "height": 24,
+      "name": "tiufa",
+      "x": 242
+    },
+    {
+      "width": 10,
+      "y": 832,
+      "height": 29,
+      "name": "erzui_2",
+      "x": 255
+    },
+    {
+      "width": 92,
+      "y": 876,
+      "height": 100,
+      "name": "tou",
+      "x": 181
+    },
+    {
+      "width": 33,
+      "y": 668,
+      "height": 15,
+      "name": "bk",
+      "x": 301
+    },
+    {
+      "width": 32,
+      "y": 685,
+      "height": 11,
+      "name": "by",
+      "x": 301
+    },
+    {
+      "width": 33,
+      "y": 647,
+      "height": 19,
+      "name": "qkai",
+      "x": 301
+    },
+    {
+      "width": 29,
+      "y": 824,
+      "height": 73,
+      "name": "fasi",
+      "x": 367
+    },
+    {
+      "width": 13,
+      "y": 189,
+      "height": 69,
+      "name": "fasi_0",
+      "x": 380
+    },
+    {
+      "width": 11,
+      "y": 832,
+      "height": 29,
+      "name": "erzui",
+      "x": 242
+    },
+    {
+      "width": 90,
+      "y": 806,
+      "height": 94,
+      "name": "choudai_1",
+      "x": 275
+    },
+    {
+      "width": 70,
+      "y": 189,
+      "height": 296,
+      "name": "pd",
+      "x": 411
+    }
+  ],
+  "height": 1024,
+  "name": "ani_princess_200010"
+}

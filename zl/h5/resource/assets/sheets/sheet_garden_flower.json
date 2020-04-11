@@ -1,0 +1,105 @@
+{
+	"file": "sheet_garden_flower.png",
+	"frames": {
+		"garden_flower_title": {
+			"x": 1,
+			"y": 1,
+			"w": 425,
+			"h": 164,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 425,
+			"sourceH": 164
+		},
+		"garden_flower_button_buy_n": {
+			"x": 1,
+			"y": 167,
+			"w": 257,
+			"h": 115,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 257,
+			"sourceH": 115
+		},
+		"garden_flower_word_2": {
+			"x": 260,
+			"y": 167,
+			"w": 36,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 29
+		},
+		"garden_flower_word_3": {
+			"x": 298,
+			"y": 167,
+			"w": 35,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 29
+		},
+		"garden_flower_word_1": {
+			"x": 335,
+			"y": 167,
+			"w": 35,
+			"h": 28,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 28
+		},
+		"garden_flower_word_4": {
+			"x": 372,
+			"y": 167,
+			"w": 33,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 33,
+			"sourceH": 29
+		},
+		"garden_flower_button_buy_h": {
+			"x": 1,
+			"y": 284,
+			"w": 257,
+			"h": 115,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 257,
+			"sourceH": 115
+		},
+		"garden_flower_flowerpot_shadow": {
+			"x": 1,
+			"y": 401,
+			"w": 229,
+			"h": 35,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 229,
+			"sourceH": 35
+		},
+		"garden_flower_flowerpot": {
+			"x": 232,
+			"y": 401,
+			"w": 190,
+			"h": 71,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 190,
+			"sourceH": 71
+		},
+		"garden_flower_content_bg": {
+			"x": 1,
+			"y": 438,
+			"w": 185,
+			"h": 203,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 185,
+			"sourceH": 203
+		}
+	}
+}

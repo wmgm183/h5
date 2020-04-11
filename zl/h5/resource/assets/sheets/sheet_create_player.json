@@ -1,0 +1,175 @@
+{
+	"file": "sheet_create_player.png",
+	"frames": {
+		"create_player_title": {
+			"x": 1,
+			"y": 1,
+			"w": 383,
+			"h": 84,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 383,
+			"sourceH": 84
+		},
+		"create_player_select": {
+			"x": 386,
+			"y": 1,
+			"w": 163,
+			"h": 314,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 163,
+			"sourceH": 314
+		},
+		"create_player_face_title": {
+			"x": 1,
+			"y": 87,
+			"w": 363,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 363,
+			"sourceH": 56
+		},
+		"create_player_king_2001": {
+			"x": 551,
+			"y": 1,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_1001": {
+			"x": 551,
+			"y": 288,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_1004": {
+			"x": 1,
+			"y": 145,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_1005": {
+			"x": 136,
+			"y": 145,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_1003": {
+			"x": 271,
+			"y": 317,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_2002": {
+			"x": 406,
+			"y": 317,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_1002": {
+			"x": 541,
+			"y": 575,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_2004": {
+			"x": 1,
+			"y": 432,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_2003": {
+			"x": 136,
+			"y": 432,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_king_2005": {
+			"x": 271,
+			"y": 604,
+			"w": 133,
+			"h": 285,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 285
+		},
+		"create_player_tab_boy_h": {
+			"x": 406,
+			"y": 719,
+			"w": 118,
+			"h": 118,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 118
+		},
+		"create_player_tab_boy_n": {
+			"x": 406,
+			"y": 839,
+			"w": 118,
+			"h": 118,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 118
+		},
+		"create_player_tab_girl_h": {
+			"x": 526,
+			"y": 862,
+			"w": 118,
+			"h": 118,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 118
+		},
+		"create_player_tab_girl_n": {
+			"x": 526,
+			"y": 982,
+			"w": 118,
+			"h": 118,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 118,
+			"sourceH": 118
+		}
+	}
+}

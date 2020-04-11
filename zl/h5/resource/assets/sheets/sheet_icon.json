@@ -1,0 +1,245 @@
+{
+	"file": "sheet_icon.png",
+	"frames": {
+		"icon_mail": {
+			"x": 1,
+			"y": 1,
+			"w": 63,
+			"h": 69,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 63,
+			"sourceH": 69
+		},
+		"icon_chat": {
+			"x": 66,
+			"y": 1,
+			"w": 60,
+			"h": 52,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 60,
+			"sourceH": 62
+		},
+		"icon_area": {
+			"x": 128,
+			"y": 1,
+			"w": 53,
+			"h": 46,
+			"offX": 1,
+			"offY": 3,
+			"sourceW": 55,
+			"sourceH": 51
+		},
+		"icon_critical": {
+			"x": 183,
+			"y": 1,
+			"w": 23,
+			"h": 34,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 23,
+			"sourceH": 34
+		},
+		"icon_gold_single": {
+			"x": 128,
+			"y": 49,
+			"w": 52,
+			"h": 33,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 52,
+			"sourceH": 33
+		},
+		"icon_tip_point": {
+			"x": 182,
+			"y": 49,
+			"w": 26,
+			"h": 26,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 26
+		},
+		"icon_gold": {
+			"x": 66,
+			"y": 55,
+			"w": 51,
+			"h": 42,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 51,
+			"sourceH": 42
+		},
+		"icon_silver": {
+			"x": 1,
+			"y": 72,
+			"w": 48,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 48,
+			"sourceH": 40
+		},
+		"icon_trade": {
+			"x": 119,
+			"y": 84,
+			"w": 48,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 48,
+			"sourceH": 40
+		},
+		"icon_attack": {
+			"x": 169,
+			"y": 99,
+			"w": 35,
+			"h": 30,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 30
+		},
+		"icon_emerald": {
+			"x": 51,
+			"y": 99,
+			"w": 46,
+			"h": 49,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 46,
+			"sourceH": 49
+		},
+		"icon_cash_gift": {
+			"x": 1,
+			"y": 114,
+			"w": 44,
+			"h": 45,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 44,
+			"sourceH": 45
+		},
+		"icon_industry": {
+			"x": 99,
+			"y": 126,
+			"w": 44,
+			"h": 39,
+			"offX": 3,
+			"offY": 0,
+			"sourceW": 48,
+			"sourceH": 40
+		},
+		"icon_mineral": {
+			"x": 47,
+			"y": 150,
+			"w": 44,
+			"h": 39,
+			"offX": 3,
+			"offY": 0,
+			"sourceW": 48,
+			"sourceH": 40
+		},
+		"icon_troops": {
+			"x": 1,
+			"y": 161,
+			"w": 41,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 48
+		},
+		"icon_military": {
+			"x": 145,
+			"y": 131,
+			"w": 41,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 48
+		},
+		"icon_visit_seal": {
+			"x": 93,
+			"y": 167,
+			"w": 41,
+			"h": 43,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 43
+		},
+		"icon_visit_energy": {
+			"x": 44,
+			"y": 191,
+			"w": 41,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 40
+		},
+		"icon_impose": {
+			"x": 1,
+			"y": 210,
+			"w": 40,
+			"h": 44,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 40,
+			"sourceH": 44
+		},
+		"icon_hp": {
+			"x": 136,
+			"y": 180,
+			"w": 35,
+			"h": 30,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 30
+		},
+		"icon_name_icon_3": {
+			"x": 173,
+			"y": 180,
+			"w": 32,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 36
+		},
+		"icon_name_icon_4": {
+			"x": 87,
+			"y": 212,
+			"w": 32,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 36
+		},
+		"icon_name_icon_1": {
+			"x": 43,
+			"y": 233,
+			"w": 32,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 36
+		},
+		"icon_name_icon_2": {
+			"x": 1,
+			"y": 256,
+			"w": 32,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 36
+		}
+	}
+}

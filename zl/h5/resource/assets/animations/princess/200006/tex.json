@@ -1,0 +1,127 @@
+{
+  "width": 512,
+  "height": 1024,
+  "name": "ani_princess_200006",
+  "imagePath": "安茜20170717-通过22222_2_tex.png",
+  "SubTexture": [
+    {
+      "width": 337,
+      "y": 1,
+      "height": 724,
+      "name": "di_1",
+      "x": 1
+    },
+    {
+      "width": 151,
+      "y": 1,
+      "height": 421,
+      "name": "qunzi_1",
+      "x": 340
+    },
+    {
+      "width": 121,
+      "y": 646,
+      "height": 185,
+      "name": "sanzi",
+      "x": 340
+    },
+    {
+      "width": 76,
+      "y": 727,
+      "height": 171,
+      "name": "shou1",
+      "x": 72
+    },
+    {
+      "width": 139,
+      "y": 424,
+      "height": 220,
+      "name": "shoubi",
+      "x": 340
+    },
+    {
+      "width": 44,
+      "y": 646,
+      "height": 88,
+      "name": "mao2",
+      "x": 463
+    },
+    {
+      "width": 50,
+      "y": 727,
+      "height": 31,
+      "name": "mao",
+      "x": 246
+    },
+    {
+      "width": 35,
+      "y": 736,
+      "height": 76,
+      "name": "toushi2",
+      "x": 463
+    },
+    {
+      "width": 15,
+      "y": 487,
+      "height": 49,
+      "name": "erhuan1",
+      "x": 481
+    },
+    {
+      "width": 15,
+      "y": 538,
+      "height": 49,
+      "name": "erhuan2",
+      "x": 481
+    },
+    {
+      "width": 94,
+      "y": 727,
+      "height": 124,
+      "name": "huangxu",
+      "x": 150
+    },
+    {
+      "width": 69,
+      "y": 727,
+      "height": 208,
+      "name": "baixu",
+      "x": 1
+    },
+    {
+      "width": 17,
+      "y": 424,
+      "height": 61,
+      "name": "jinshi",
+      "x": 481
+    },
+    {
+      "width": 19,
+      "y": 727,
+      "height": 17,
+      "name": "mao_0",
+      "x": 298
+    },
+    {
+      "width": 47,
+      "y": 814,
+      "height": 15,
+      "name": "quankai",
+      "x": 463
+    },
+    {
+      "width": 52,
+      "y": 760,
+      "height": 22,
+      "name": "biyan",
+      "x": 246
+    },
+    {
+      "width": 45,
+      "y": 831,
+      "height": 14,
+      "name": "banzheng",
+      "x": 463
+    }
+  ]
+}

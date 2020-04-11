@@ -1,0 +1,113 @@
+{
+  "SubTexture": [
+    {
+      "width": 234,
+      "y": 1,
+      "height": 418,
+      "name": "qunzi",
+      "x": 1
+    },
+    {
+      "width": 108,
+      "y": 1,
+      "height": 319,
+      "name": "qunbai",
+      "x": 540
+    },
+    {
+      "width": 154,
+      "y": 1,
+      "height": 286,
+      "name": "shenti_",
+      "x": 237
+    },
+    {
+      "width": 39,
+      "y": 254,
+      "height": 57,
+      "name": "zuoxiu",
+      "x": 487
+    },
+    {
+      "width": 92,
+      "y": 254,
+      "height": 91,
+      "name": "youxiu",
+      "x": 393
+    },
+    {
+      "width": 33,
+      "y": 313,
+      "height": 53,
+      "name": "zuoshou",
+      "x": 487
+    },
+    {
+      "width": 30,
+      "y": 289,
+      "height": 40,
+      "name": "youshou",
+      "x": 317
+    },
+    {
+      "width": 78,
+      "y": 289,
+      "height": 103,
+      "name": "lian",
+      "x": 237
+    },
+    {
+      "width": 37,
+      "y": 341,
+      "height": 12,
+      "name": "quankai",
+      "x": 317
+    },
+    {
+      "width": 37,
+      "y": 347,
+      "height": 8,
+      "name": "banbi",
+      "x": 356
+    },
+    {
+      "width": 37,
+      "y": 355,
+      "height": 3,
+      "name": "by",
+      "x": 317
+    },
+    {
+      "width": 7,
+      "y": 254,
+      "height": 25,
+      "name": "ts",
+      "x": 528
+    },
+    {
+      "width": 12,
+      "y": 289,
+      "height": 50,
+      "name": "fasi2",
+      "x": 349
+    },
+    {
+      "width": 14,
+      "y": 313,
+      "height": 56,
+      "name": "fasi",
+      "x": 522
+    },
+    {
+      "width": 145,
+      "y": 1,
+      "height": 251,
+      "name": "san",
+      "x": 393
+    }
+  ],
+  "width": 1024,
+  "height": 512,
+  "name": "ani_princess_200016",
+  "imagePath": "苏荃_sx_3_tex.png"
+}

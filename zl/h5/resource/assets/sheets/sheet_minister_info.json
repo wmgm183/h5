@@ -1,0 +1,175 @@
+{
+	"file": "sheet_minister_info.png",
+	"frames": {
+		"minister_info_cover": {
+			"x": 1,
+			"y": 1,
+			"w": 688,
+			"h": 470,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 688,
+			"sourceH": 470
+		},
+		"minister_info_info_box": {
+			"x": 691,
+			"y": 1,
+			"w": 255,
+			"h": 354,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 255,
+			"sourceH": 354
+		},
+		"minister_info_button_details": {
+			"x": 948,
+			"y": 1,
+			"w": 46,
+			"h": 89,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 47,
+			"sourceH": 89
+		},
+		"minister_info_treasure_equip_label": {
+			"x": 691,
+			"y": 357,
+			"w": 236,
+			"h": 42,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 236,
+			"sourceH": 42
+		},
+		"minister_info_treasure_equip_bg_13": {
+			"x": 691,
+			"y": 401,
+			"w": 162,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 162,
+			"sourceH": 162
+		},
+		"minister_info_treasure_ball_politics": {
+			"x": 855,
+			"y": 401,
+			"w": 132,
+			"h": 122,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 132,
+			"sourceH": 123
+		},
+		"minister_info_treasure_ball_knowledge": {
+			"x": 855,
+			"y": 525,
+			"w": 132,
+			"h": 122,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 132,
+			"sourceH": 123
+		},
+		"minister_info_item_bg": {
+			"x": 1,
+			"y": 473,
+			"w": 651,
+			"h": 146,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 651,
+			"sourceH": 146
+		},
+		"minister_info_treasure_equip_bg_12": {
+			"x": 654,
+			"y": 565,
+			"w": 162,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 162,
+			"sourceH": 162
+		},
+		"minister_info_treasure_bg": {
+			"x": 818,
+			"y": 649,
+			"w": 162,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 162,
+			"sourceH": 162
+		},
+		"minister_info_peerage_decree_title": {
+			"x": 1,
+			"y": 621,
+			"w": 564,
+			"h": 159,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 564,
+			"sourceH": 159
+		},
+		"minister_info_treasure_equip_bg_11": {
+			"x": 567,
+			"y": 729,
+			"w": 162,
+			"h": 162,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 162,
+			"sourceH": 162
+		},
+		"minister_info_peerage_decree_content": {
+			"x": 1,
+			"y": 782,
+			"w": 551,
+			"h": 154,
+			"offX": 33,
+			"offY": 36,
+			"sourceW": 647,
+			"sourceH": 287
+		},
+		"minister_info_treasure_ball_command": {
+			"x": 731,
+			"y": 813,
+			"w": 132,
+			"h": 122,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 132,
+			"sourceH": 123
+		},
+		"minister_info_icon_command": {
+			"x": 865,
+			"y": 813,
+			"w": 113,
+			"h": 113,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 113,
+			"sourceH": 113
+		},
+		"minister_info_icon_knowledge": {
+			"x": 865,
+			"y": 928,
+			"w": 113,
+			"h": 113,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 113,
+			"sourceH": 113
+		},
+		"minister_info_icon_politics": {
+			"x": 554,
+			"y": 893,
+			"w": 113,
+			"h": 113,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 113,
+			"sourceH": 113
+		}
+	}
+}

@@ -1,0 +1,185 @@
+{
+	"file": "sheet_interior.png",
+	"frames": {
+		"interior_impose_item_cover_industry": {
+			"x": 1,
+			"y": 1,
+			"w": 662,
+			"h": 302,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 662,
+			"sourceH": 302
+		},
+		"interior_develop_bg": {
+			"x": 665,
+			"y": 1,
+			"w": 312,
+			"h": 35,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 318,
+			"sourceH": 35
+		},
+		"interior_lock": {
+			"x": 979,
+			"y": 1,
+			"w": 40,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 40,
+			"sourceH": 56
+		},
+		"interior_scroll": {
+			"x": 665,
+			"y": 38,
+			"w": 245,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 245,
+			"sourceH": 27
+		},
+		"interior_state_finish": {
+			"x": 912,
+			"y": 38,
+			"w": 26,
+			"h": 70,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 70
+		},
+		"interior_minister_default": {
+			"x": 665,
+			"y": 67,
+			"w": 243,
+			"h": 195,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 243,
+			"sourceH": 195
+		},
+		"interior_state_developing": {
+			"x": 940,
+			"y": 38,
+			"w": 26,
+			"h": 68,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 68
+		},
+		"interior_choose_minister": {
+			"x": 665,
+			"y": 264,
+			"w": 222,
+			"h": 64,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 222,
+			"sourceH": 64
+		},
+		"interior_impose_item_cover_trade": {
+			"x": 1,
+			"y": 305,
+			"w": 662,
+			"h": 302,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 662,
+			"sourceH": 302
+		},
+		"interior_send": {
+			"x": 889,
+			"y": 264,
+			"w": 137,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 137,
+			"sourceH": 29
+		},
+		"interior_national_props": {
+			"x": 665,
+			"y": 330,
+			"w": 222,
+			"h": 64,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 222,
+			"sourceH": 64
+		},
+		"interior_scroll_military": {
+			"x": 665,
+			"y": 396,
+			"w": 209,
+			"h": 369,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 209,
+			"sourceH": 369
+		},
+		"interior_impose_item_cover_military": {
+			"x": 1,
+			"y": 609,
+			"w": 662,
+			"h": 302,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 662,
+			"sourceH": 302
+		},
+		"interior_img_0": {
+			"x": 876,
+			"y": 396,
+			"w": 157,
+			"h": 44,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 157,
+			"sourceH": 44
+		},
+		"interior_impose_img_0": {
+			"x": 876,
+			"y": 442,
+			"w": 157,
+			"h": 44,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 157,
+			"sourceH": 44
+		},
+		"interior_scroll_industry": {
+			"x": 665,
+			"y": 767,
+			"w": 209,
+			"h": 369,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 209,
+			"sourceH": 369
+		},
+		"interior_program_bg": {
+			"x": 1,
+			"y": 913,
+			"w": 656,
+			"h": 206,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 656,
+			"sourceH": 206
+		},
+		"interior_scroll_business": {
+			"x": 1,
+			"y": 1121,
+			"w": 209,
+			"h": 369,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 209,
+			"sourceH": 369
+		}
+	}
+}

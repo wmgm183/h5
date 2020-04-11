@@ -1,0 +1,55 @@
+{
+	"file": "sheet_buffer_icon.png",
+	"frames": {
+		"buffer_icon_1": {
+			"x": 1,
+			"y": 1,
+			"w": 148,
+			"h": 141,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 148,
+			"sourceH": 141
+		},
+		"buffer_icon_2": {
+			"x": 151,
+			"y": 1,
+			"w": 148,
+			"h": 141,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 148,
+			"sourceH": 141
+		},
+		"buffer_icon_3": {
+			"x": 1,
+			"y": 144,
+			"w": 148,
+			"h": 141,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 148,
+			"sourceH": 141
+		},
+		"buffer_icon_4": {
+			"x": 151,
+			"y": 144,
+			"w": 148,
+			"h": 141,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 148,
+			"sourceH": 141
+		},
+		"buffer_icon_5": {
+			"x": 1,
+			"y": 287,
+			"w": 148,
+			"h": 141,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 148,
+			"sourceH": 141
+		}
+	}
+}

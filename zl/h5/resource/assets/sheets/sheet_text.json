@@ -1,0 +1,95 @@
+{
+	"file": "sheet_text.png",
+	"frames": {
+		"text_development_queue": {
+			"x": 1,
+			"y": 1,
+			"w": 187,
+			"h": 41,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 187,
+			"sourceH": 41
+		},
+		"text_country_propties": {
+			"x": 1,
+			"y": 44,
+			"w": 186,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 186,
+			"sourceH": 40
+		},
+		"text_industry": {
+			"x": 1,
+			"y": 86,
+			"w": 104,
+			"h": 20,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 104,
+			"sourceH": 20
+		},
+		"text_military": {
+			"x": 1,
+			"y": 108,
+			"w": 103,
+			"h": 21,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 103,
+			"sourceH": 21
+		},
+		"text_trade": {
+			"x": 1,
+			"y": 131,
+			"w": 103,
+			"h": 21,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 103,
+			"sourceH": 21
+		},
+		"text_treasure_advance": {
+			"x": 1,
+			"y": 154,
+			"w": 101,
+			"h": 24,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 101,
+			"sourceH": 24
+		},
+		"text_treasure_command": {
+			"x": 1,
+			"y": 180,
+			"w": 93,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 93,
+			"sourceH": 23
+		},
+		"text_treasure_politics": {
+			"x": 1,
+			"y": 205,
+			"w": 93,
+			"h": 22,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 93,
+			"sourceH": 22
+		},
+		"text_treasure_knowledge": {
+			"x": 1,
+			"y": 229,
+			"w": 93,
+			"h": 22,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 93,
+			"sourceH": 22
+		}
+	}
+}

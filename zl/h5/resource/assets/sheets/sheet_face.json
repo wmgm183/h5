@@ -1,0 +1,105 @@
+{
+	"file": "sheet_face.png",
+	"frames": {
+		"face_1001": {
+			"x": 1,
+			"y": 1,
+			"w": 250,
+			"h": 276,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 250,
+			"sourceH": 276
+		},
+		"face_1005": {
+			"x": 253,
+			"y": 1,
+			"w": 250,
+			"h": 263,
+			"offX": 0,
+			"offY": 13,
+			"sourceW": 250,
+			"sourceH": 276
+		},
+		"face_1002": {
+			"x": 505,
+			"y": 1,
+			"w": 250,
+			"h": 227,
+			"offX": 0,
+			"offY": 49,
+			"sourceW": 250,
+			"sourceH": 276
+		},
+		"face_1004": {
+			"x": 505,
+			"y": 230,
+			"w": 250,
+			"h": 212,
+			"offX": 0,
+			"offY": 64,
+			"sourceW": 250,
+			"sourceH": 276
+		},
+		"face_1003": {
+			"x": 253,
+			"y": 266,
+			"w": 249,
+			"h": 258,
+			"offX": 1,
+			"offY": 18,
+			"sourceW": 250,
+			"sourceH": 276
+		},
+		"face_2003": {
+			"x": 1,
+			"y": 279,
+			"w": 248,
+			"h": 326,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 248,
+			"sourceH": 326
+		},
+		"face_2002": {
+			"x": 504,
+			"y": 444,
+			"w": 248,
+			"h": 282,
+			"offX": 0,
+			"offY": 44,
+			"sourceW": 248,
+			"sourceH": 326
+		},
+		"face_2001": {
+			"x": 251,
+			"y": 526,
+			"w": 247,
+			"h": 300,
+			"offX": 1,
+			"offY": 26,
+			"sourceW": 248,
+			"sourceH": 326
+		},
+		"face_2005": {
+			"x": 1,
+			"y": 607,
+			"w": 247,
+			"h": 279,
+			"offX": 0,
+			"offY": 47,
+			"sourceW": 248,
+			"sourceH": 326
+		},
+		"face_2004": {
+			"x": 500,
+			"y": 728,
+			"w": 247,
+			"h": 274,
+			"offX": 1,
+			"offY": 52,
+			"sourceW": 248,
+			"sourceH": 326
+		}
+	}
+}

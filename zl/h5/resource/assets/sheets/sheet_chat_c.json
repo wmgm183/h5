@@ -1,0 +1,15 @@
+{
+	"file": "sheet_chat_c.png",
+	"frames": {
+		"chat_message_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 440,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 440,
+			"sourceH": 66
+		}
+	}
+}

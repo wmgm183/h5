@@ -1,0 +1,113 @@
+{
+  "width": 512,
+  "imagePath": "夏雨荷_PSD_g_tex.png",
+  "height": 1024,
+  "name": "ani_princess_200009",
+  "SubTexture": [
+    {
+      "width": 270,
+      "y": 1,
+      "height": 511,
+      "name": "Di",
+      "x": 1
+    },
+    {
+      "width": 174,
+      "y": 1,
+      "height": 355,
+      "name": "Qunbai",
+      "x": 273
+    },
+    {
+      "width": 57,
+      "y": 358,
+      "height": 228,
+      "name": "Yupei",
+      "x": 447
+    },
+    {
+      "width": 123,
+      "y": 737,
+      "height": 125,
+      "name": "fashi",
+      "x": 1
+    },
+    {
+      "width": 172,
+      "y": 358,
+      "height": 222,
+      "name": "Head",
+      "x": 273
+    },
+    {
+      "width": 18,
+      "y": 1009,
+      "height": 14,
+      "name": "REye",
+      "x": 52
+    },
+    {
+      "width": 14,
+      "y": 737,
+      "height": 11,
+      "name": "LEye",
+      "x": 126
+    },
+    {
+      "width": 139,
+      "y": 514,
+      "height": 221,
+      "name": "Body",
+      "x": 1
+    },
+    {
+      "width": 81,
+      "y": 864,
+      "height": 143,
+      "name": "hair",
+      "x": 1
+    },
+    {
+      "width": 49,
+      "y": 1009,
+      "height": 13,
+      "name": "Er",
+      "x": 1
+    },
+    {
+      "width": 62,
+      "y": 1,
+      "height": 80,
+      "name": "LYixiu",
+      "x": 449
+    },
+    {
+      "width": 28,
+      "y": 83,
+      "height": 49,
+      "name": "LHand",
+      "x": 449
+    },
+    {
+      "width": 78,
+      "y": 514,
+      "height": 260,
+      "name": "Flower",
+      "x": 142
+    },
+    {
+      "width": 74,
+      "y": 965,
+      "height": 30,
+      "name": "RHand",
+      "x": 84
+    },
+    {
+      "width": 113,
+      "y": 864,
+      "height": 99,
+      "name": "RYixiu",
+      "x": 84
+    }
+  ]
+}

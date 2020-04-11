@@ -1,0 +1,45 @@
+{
+	"file": "sheet_princess_rite.png",
+	"frames": {
+		"princess_rite_teacher_default": {
+			"x": 1,
+			"y": 1,
+			"w": 197,
+			"h": 212,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 197,
+			"sourceH": 212
+		},
+		"princess_rite_txt_select_princess": {
+			"x": 200,
+			"y": 1,
+			"w": 40,
+			"h": 184,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 40,
+			"sourceH": 184
+		},
+		"princess_rite_txt_open": {
+			"x": 200,
+			"y": 187,
+			"w": 38,
+			"h": 181,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 38,
+			"sourceH": 181
+		},
+		"princess_rite_txt_select_teacher": {
+			"x": 1,
+			"y": 215,
+			"w": 27,
+			"h": 117,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 27,
+			"sourceH": 117
+		}
+	}
+}

@@ -1,0 +1,148 @@
+{
+  "imagePath": "香妃_sx_tex.png",
+  "width": 1024,
+  "SubTexture": [
+    {
+      "width": 355,
+      "y": 1,
+      "height": 453,
+      "name": "tousha_",
+      "x": 416
+    },
+    {
+      "width": 59,
+      "y": 457,
+      "height": 71,
+      "name": "yumao",
+      "x": 773
+    },
+    {
+      "width": 77,
+      "y": 161,
+      "height": 125,
+      "name": "bianzi_",
+      "x": 931
+    },
+    {
+      "width": 50,
+      "y": 1,
+      "height": 296,
+      "name": "bianzi _0",
+      "x": 879
+    },
+    {
+      "width": 413,
+      "y": 1,
+      "height": 483,
+      "name": "shenti",
+      "x": 1
+    },
+    {
+      "width": 480,
+      "y": 486,
+      "height": 404,
+      "name": "shangbans",
+      "x": 1
+    },
+    {
+      "width": 40,
+      "y": 288,
+      "height": 9,
+      "name": "biy",
+      "x": 931
+    },
+    {
+      "width": 41,
+      "y": 456,
+      "height": 12,
+      "name": "quankai",
+      "x": 452
+    },
+    {
+      "width": 40,
+      "y": 470,
+      "height": 11,
+      "name": "bankai",
+      "x": 452
+    },
+    {
+      "width": 70,
+      "y": 1,
+      "height": 158,
+      "name": "xiuzi",
+      "x": 931
+    },
+    {
+      "width": 129,
+      "y": 299,
+      "height": 60,
+      "name": "zuoshou",
+      "x": 852
+    },
+    {
+      "width": 104,
+      "y": 1,
+      "height": 182,
+      "name": "xiuzi_0",
+      "x": 773
+    },
+    {
+      "width": 69,
+      "y": 530,
+      "height": 54,
+      "name": "tuzi",
+      "x": 773
+    },
+    {
+      "width": 9,
+      "y": 185,
+      "height": 13,
+      "name": "erduo",
+      "x": 852
+    },
+    {
+      "width": 14,
+      "y": 449,
+      "height": 15,
+      "name": "erduo_0",
+      "x": 834
+    },
+    {
+      "width": 77,
+      "y": 185,
+      "height": 180,
+      "name": "bz",
+      "x": 773
+    },
+    {
+      "width": 15,
+      "y": 367,
+      "height": 80,
+      "name": "sp",
+      "x": 826
+    },
+    {
+      "width": 34,
+      "y": 456,
+      "height": 27,
+      "name": "shou",
+      "x": 416
+    },
+    {
+      "width": 51,
+      "y": 367,
+      "height": 88,
+      "name": "sp_0",
+      "x": 773
+    },
+    {
+      "width": 75,
+      "y": 361,
+      "height": 99,
+      "name": "tou",
+      "x": 852
+    }
+  ],
+  "height": 1024,
+  "name": "ani_princess_200013"
+}

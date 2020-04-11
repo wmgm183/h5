@@ -1,0 +1,135 @@
+{
+	"file": "sign_month.png",
+	"frames": {
+		"签": {
+			"x": 1,
+			"y": 1,
+			"w": 39,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 37
+		},
+		"十": {
+			"x": 42,
+			"y": 1,
+			"w": 36,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 37
+		},
+		"七": {
+			"x": 80,
+			"y": 1,
+			"w": 35,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 37
+		},
+		"八": {
+			"x": 1,
+			"y": 40,
+			"w": 35,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 37
+		},
+		"九": {
+			"x": 38,
+			"y": 40,
+			"w": 35,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 37
+		},
+		"五": {
+			"x": 75,
+			"y": 40,
+			"w": 34,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 34,
+			"sourceH": 37
+		},
+		"二": {
+			"x": 1,
+			"y": 79,
+			"w": 34,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 34,
+			"sourceH": 37
+		},
+		"三": {
+			"x": 37,
+			"y": 79,
+			"w": 33,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 33,
+			"sourceH": 37
+		},
+		"六": {
+			"x": 72,
+			"y": 79,
+			"w": 33,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 33,
+			"sourceH": 37
+		},
+		"一": {
+			"x": 1,
+			"y": 118,
+			"w": 33,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 33,
+			"sourceH": 37
+		},
+		"四": {
+			"x": 36,
+			"y": 118,
+			"w": 32,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 37
+		},
+		"到": {
+			"x": 70,
+			"y": 118,
+			"w": 32,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 37
+		},
+		"月": {
+			"x": 1,
+			"y": 157,
+			"w": 25,
+			"h": 37,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 25,
+			"sourceH": 37
+		}
+	}
+}

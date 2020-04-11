@@ -1,0 +1,15 @@
+{
+	"file": "sheet_prison_c.png",
+	"frames": {
+		"prison_info_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 104,
+			"h": 104,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 104,
+			"sourceH": 104
+		}
+	}
+}

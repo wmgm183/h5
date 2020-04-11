@@ -1,0 +1,215 @@
+{
+	"file": "sheet_login.png",
+	"frames": {
+		"login_small_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 621,
+			"h": 376,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 621,
+			"sourceH": 376
+		},
+		"login_title_server": {
+			"x": 624,
+			"y": 1,
+			"w": 235,
+			"h": 66,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 235,
+			"sourceH": 66
+		},
+		"login_server_small_bg": {
+			"x": 861,
+			"y": 1,
+			"w": 22,
+			"h": 22,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 22,
+			"sourceH": 22
+		},
+		"login_division_line": {
+			"x": 885,
+			"y": 1,
+			"w": 4,
+			"h": 26,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 4,
+			"sourceH": 26
+		},
+		"login_switch_account": {
+			"x": 624,
+			"y": 69,
+			"w": 188,
+			"h": 56,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 188,
+			"sourceH": 56
+		},
+		"login_swap_server": {
+			"x": 814,
+			"y": 69,
+			"w": 55,
+			"h": 28,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 55,
+			"sourceH": 28
+		},
+		"login_server_frame_bg": {
+			"x": 814,
+			"y": 99,
+			"w": 34,
+			"h": 34,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 34,
+			"sourceH": 34
+		},
+		"login_title_register": {
+			"x": 624,
+			"y": 127,
+			"w": 182,
+			"h": 50,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 182,
+			"sourceH": 50
+		},
+		"login_title_login": {
+			"x": 624,
+			"y": 179,
+			"w": 182,
+			"h": 50,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 182,
+			"sourceH": 50
+		},
+		"login_server_bg": {
+			"x": 624,
+			"y": 231,
+			"w": 161,
+			"h": 142,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 161,
+			"sourceH": 142
+		},
+		"login_label_account": {
+			"x": 787,
+			"y": 231,
+			"w": 89,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 23
+		},
+		"login_label_passwad": {
+			"x": 787,
+			"y": 256,
+			"w": 88,
+			"h": 23,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 88,
+			"sourceH": 23
+		},
+		"login_label_start": {
+			"x": 624,
+			"y": 375,
+			"w": 158,
+			"h": 33,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 158,
+			"sourceH": 33
+		},
+		"login_select_server_bg": {
+			"x": 1,
+			"y": 379,
+			"w": 562,
+			"h": 179,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 562,
+			"sourceH": 179
+		},
+		"login_button_select_n": {
+			"x": 565,
+			"y": 410,
+			"w": 142,
+			"h": 62,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 142,
+			"sourceH": 62
+		},
+		"login_button_select_h": {
+			"x": 709,
+			"y": 410,
+			"w": 142,
+			"h": 62,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 142,
+			"sourceH": 62
+		},
+		"login_logo": {
+			"x": 1,
+			"y": 560,
+			"w": 549,
+			"h": 405,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 549,
+			"sourceH": 405
+		},
+		"login_head_login": {
+			"x": 552,
+			"y": 560,
+			"w": 335,
+			"h": 48,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 335,
+			"sourceH": 48
+		},
+		"login_head_server": {
+			"x": 552,
+			"y": 610,
+			"w": 335,
+			"h": 48,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 335,
+			"sourceH": 48
+		},
+		"login_button_start_h": {
+			"x": 1,
+			"y": 967,
+			"w": 362,
+			"h": 148,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 371,
+			"sourceH": 148
+		},
+		"login_button_start_n": {
+			"x": 365,
+			"y": 967,
+			"w": 362,
+			"h": 148,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 371,
+			"sourceH": 148
+		}
+	}
+}

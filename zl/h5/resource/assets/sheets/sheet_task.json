@@ -1,0 +1,45 @@
+{
+	"file": "sheet_task.png",
+	"frames": {
+		"task_panel_bg_up": {
+			"x": 1,
+			"y": 1,
+			"w": 744,
+			"h": 71,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 744,
+			"sourceH": 71
+		},
+		"task_panel_bg_down": {
+			"x": 1,
+			"y": 74,
+			"w": 744,
+			"h": 71,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 744,
+			"sourceH": 71
+		},
+		"task_finish": {
+			"x": 1,
+			"y": 147,
+			"w": 181,
+			"h": 132,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 181,
+			"sourceH": 132
+		},
+		"task_panel_bg_left": {
+			"x": 184,
+			"y": 147,
+			"w": 51,
+			"h": 415,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 52,
+			"sourceH": 415
+		}
+	}
+}

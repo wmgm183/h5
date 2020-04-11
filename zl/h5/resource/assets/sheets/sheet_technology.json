@@ -1,0 +1,955 @@
+{
+	"file": "sheet_technology.png",
+	"frames": {
+		"technology_choose_minister": {
+			"x": 1,
+			"y": 1,
+			"w": 224,
+			"h": 39,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 39
+		},
+		"technology_mask": {
+			"x": 227,
+			"y": 1,
+			"w": 145,
+			"h": 145,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 145,
+			"sourceH": 145
+		},
+		"technology_icon_402008": {
+			"x": 1,
+			"y": 42,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402013": {
+			"x": 129,
+			"y": 42,
+			"w": 89,
+			"h": 30,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401015": {
+			"x": 129,
+			"y": 74,
+			"w": 88,
+			"h": 30,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401002": {
+			"x": 129,
+			"y": 106,
+			"w": 87,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401011": {
+			"x": 129,
+			"y": 139,
+			"w": 87,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_401002": {
+			"x": 1,
+			"y": 170,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401003": {
+			"x": 374,
+			"y": 1,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401004": {
+			"x": 502,
+			"y": 1,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401005": {
+			"x": 630,
+			"y": 1,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401006": {
+			"x": 758,
+			"y": 1,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_connect": {
+			"x": 886,
+			"y": 1,
+			"w": 49,
+			"h": 106,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 49,
+			"sourceH": 106
+		},
+		"technology_level_up_icon": {
+			"x": 886,
+			"y": 109,
+			"w": 27,
+			"h": 38,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 27,
+			"sourceH": 38
+		},
+		"technology_icon_401007": {
+			"x": 374,
+			"y": 129,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401008": {
+			"x": 218,
+			"y": 149,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_401014": {
+			"x": 129,
+			"y": 172,
+			"w": 87,
+			"h": 30,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402010": {
+			"x": 129,
+			"y": 204,
+			"w": 87,
+			"h": 29,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402007": {
+			"x": 129,
+			"y": 235,
+			"w": 86,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401005": {
+			"x": 129,
+			"y": 268,
+			"w": 86,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_401009": {
+			"x": 1,
+			"y": 298,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401010": {
+			"x": 502,
+			"y": 129,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401011": {
+			"x": 630,
+			"y": 129,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401012": {
+			"x": 758,
+			"y": 129,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401013": {
+			"x": 346,
+			"y": 257,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401014": {
+			"x": 217,
+			"y": 277,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_401010": {
+			"x": 129,
+			"y": 301,
+			"w": 86,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402011": {
+			"x": 129,
+			"y": 334,
+			"w": 86,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403004": {
+			"x": 129,
+			"y": 367,
+			"w": 86,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401007": {
+			"x": 129,
+			"y": 400,
+			"w": 86,
+			"h": 30,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_401015": {
+			"x": 1,
+			"y": 426,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402001": {
+			"x": 474,
+			"y": 257,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402002": {
+			"x": 602,
+			"y": 257,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402003": {
+			"x": 730,
+			"y": 257,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402004": {
+			"x": 858,
+			"y": 257,
+			"w": 82,
+			"h": 31,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402014": {
+			"x": 858,
+			"y": 290,
+			"w": 82,
+			"h": 31,
+			"offX": 3,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403003": {
+			"x": 858,
+			"y": 323,
+			"w": 81,
+			"h": 30,
+			"offX": 6,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403008": {
+			"x": 858,
+			"y": 355,
+			"w": 76,
+			"h": 30,
+			"offX": 8,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_402004": {
+			"x": 345,
+			"y": 385,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402005": {
+			"x": 217,
+			"y": 405,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_403015": {
+			"x": 129,
+			"y": 432,
+			"w": 86,
+			"h": 30,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402015": {
+			"x": 129,
+			"y": 464,
+			"w": 86,
+			"h": 29,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403006": {
+			"x": 129,
+			"y": 495,
+			"w": 86,
+			"h": 29,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403014": {
+			"x": 129,
+			"y": 526,
+			"w": 86,
+			"h": 29,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_402006": {
+			"x": 1,
+			"y": 554,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402007": {
+			"x": 473,
+			"y": 385,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_401001": {
+			"x": 601,
+			"y": 385,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402010": {
+			"x": 729,
+			"y": 385,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402002": {
+			"x": 857,
+			"y": 387,
+			"w": 83,
+			"h": 31,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403011": {
+			"x": 857,
+			"y": 420,
+			"w": 83,
+			"h": 31,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401001": {
+			"x": 857,
+			"y": 453,
+			"w": 83,
+			"h": 30,
+			"offX": 3,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401008": {
+			"x": 857,
+			"y": 485,
+			"w": 83,
+			"h": 30,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_402009": {
+			"x": 345,
+			"y": 513,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402012": {
+			"x": 217,
+			"y": 533,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402005": {
+			"x": 129,
+			"y": 557,
+			"w": 85,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403007": {
+			"x": 129,
+			"y": 590,
+			"w": 85,
+			"h": 31,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401003": {
+			"x": 129,
+			"y": 623,
+			"w": 85,
+			"h": 30,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403005": {
+			"x": 129,
+			"y": 655,
+			"w": 85,
+			"h": 30,
+			"offX": 4,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_402013": {
+			"x": 1,
+			"y": 682,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402011": {
+			"x": 473,
+			"y": 513,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402014": {
+			"x": 601,
+			"y": 513,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_402015": {
+			"x": 729,
+			"y": 513,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402003": {
+			"x": 857,
+			"y": 517,
+			"w": 83,
+			"h": 30,
+			"offX": 3,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403001": {
+			"x": 857,
+			"y": 549,
+			"w": 83,
+			"h": 29,
+			"offX": 3,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403012": {
+			"x": 857,
+			"y": 580,
+			"w": 83,
+			"h": 28,
+			"offX": 4,
+			"offY": 2,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_403001": {
+			"x": 345,
+			"y": 641,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403002": {
+			"x": 216,
+			"y": 661,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_402001": {
+			"x": 129,
+			"y": 687,
+			"w": 85,
+			"h": 29,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402009": {
+			"x": 129,
+			"y": 718,
+			"w": 85,
+			"h": 29,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403013": {
+			"x": 129,
+			"y": 749,
+			"w": 85,
+			"h": 29,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401009": {
+			"x": 129,
+			"y": 780,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_403003": {
+			"x": 1,
+			"y": 810,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403004": {
+			"x": 473,
+			"y": 641,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403005": {
+			"x": 601,
+			"y": 641,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403006": {
+			"x": 729,
+			"y": 641,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403007": {
+			"x": 344,
+			"y": 769,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403008": {
+			"x": 215,
+			"y": 789,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_401012": {
+			"x": 129,
+			"y": 813,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402006": {
+			"x": 129,
+			"y": 846,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402008": {
+			"x": 129,
+			"y": 879,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_403010": {
+			"x": 129,
+			"y": 912,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_403009": {
+			"x": 1,
+			"y": 938,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403010": {
+			"x": 472,
+			"y": 769,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403011": {
+			"x": 600,
+			"y": 769,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403012": {
+			"x": 728,
+			"y": 769,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_403009": {
+			"x": 856,
+			"y": 769,
+			"w": 84,
+			"h": 30,
+			"offX": 4,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401004": {
+			"x": 856,
+			"y": 801,
+			"w": 84,
+			"h": 29,
+			"offX": 3,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401006": {
+			"x": 856,
+			"y": 832,
+			"w": 84,
+			"h": 29,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_401013": {
+			"x": 856,
+			"y": 863,
+			"w": 84,
+			"h": 29,
+			"offX": 3,
+			"offY": 2,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_name_402012": {
+			"x": 856,
+			"y": 894,
+			"w": 84,
+			"h": 29,
+			"offX": 2,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_403014": {
+			"x": 343,
+			"y": 897,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_403013": {
+			"x": 215,
+			"y": 917,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_name_403002": {
+			"x": 129,
+			"y": 945,
+			"w": 84,
+			"h": 29,
+			"offX": 4,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"technology_icon_403015": {
+			"x": 471,
+			"y": 897,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"technology_icon_lock": {
+			"x": 599,
+			"y": 897,
+			"w": 111,
+			"h": 111,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 111,
+			"sourceH": 111
+		}
+	}
+}

@@ -1,0 +1,265 @@
+{
+	"file": "sheet_union.png",
+	"frames": {
+		"union_info_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 664,
+			"h": 152,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 664,
+			"sourceH": 152
+		},
+		"union_icon_contribute": {
+			"x": 667,
+			"y": 1,
+			"w": 133,
+			"h": 92,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 133,
+			"sourceH": 92
+		},
+		"union_icon_notice": {
+			"x": 667,
+			"y": 95,
+			"w": 117,
+			"h": 100,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 117,
+			"sourceH": 100
+		},
+		"union_gift_bg": {
+			"x": 1,
+			"y": 155,
+			"w": 581,
+			"h": 142,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 581,
+			"sourceH": 142
+		},
+		"union_label_log": {
+			"x": 584,
+			"y": 197,
+			"w": 224,
+			"h": 41,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 41
+		},
+		"union_label_gift": {
+			"x": 584,
+			"y": 240,
+			"w": 224,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 40
+		},
+		"union_label_notice": {
+			"x": 584,
+			"y": 282,
+			"w": 224,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 224,
+			"sourceH": 40
+		},
+		"union_glass": {
+			"x": 1,
+			"y": 299,
+			"w": 478,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 478,
+			"sourceH": 32
+		},
+		"union_icon_treasure": {
+			"x": 481,
+			"y": 299,
+			"w": 99,
+			"h": 102,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 99,
+			"sourceH": 102
+		},
+		"union_treasure_open": {
+			"x": 582,
+			"y": 324,
+			"w": 236,
+			"h": 234,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 236,
+			"sourceH": 234
+		},
+		"union_duplicate_icon_108": {
+			"x": 1,
+			"y": 333,
+			"w": 168,
+			"h": 151,
+			"offX": 12,
+			"offY": 16,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_duplicate_icon_103": {
+			"x": 171,
+			"y": 333,
+			"w": 163,
+			"h": 161,
+			"offX": 12,
+			"offY": 10,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_duplicate_icon_106": {
+			"x": 1,
+			"y": 486,
+			"w": 157,
+			"h": 163,
+			"offX": 12,
+			"offY": 8,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_icon_log": {
+			"x": 336,
+			"y": 333,
+			"w": 115,
+			"h": 112,
+			"offX": 1,
+			"offY": 13,
+			"sourceW": 116,
+			"sourceH": 125
+		},
+		"union_icon_tech": {
+			"x": 453,
+			"y": 403,
+			"w": 114,
+			"h": 90,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 114,
+			"sourceH": 90
+		},
+		"union_icon_duplicate": {
+			"x": 336,
+			"y": 447,
+			"w": 109,
+			"h": 112,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 109,
+			"sourceH": 112
+		},
+		"union_duplicate_icon_102": {
+			"x": 160,
+			"y": 496,
+			"w": 156,
+			"h": 166,
+			"offX": 12,
+			"offY": 0,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_duplicate_icon_105": {
+			"x": 1,
+			"y": 651,
+			"w": 156,
+			"h": 163,
+			"offX": 12,
+			"offY": 3,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_icon_rank": {
+			"x": 447,
+			"y": 495,
+			"w": 103,
+			"h": 96,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 103,
+			"sourceH": 96
+		},
+		"union_label_level": {
+			"x": 318,
+			"y": 561,
+			"w": 99,
+			"h": 32,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 99,
+			"sourceH": 32
+		},
+		"union_icon_shop": {
+			"x": 318,
+			"y": 595,
+			"w": 93,
+			"h": 93,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 93,
+			"sourceH": 93
+		},
+		"union_duplicate_icon_107": {
+			"x": 159,
+			"y": 664,
+			"w": 156,
+			"h": 163,
+			"offX": 12,
+			"offY": 7,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_duplicate_icon_104": {
+			"x": 1,
+			"y": 816,
+			"w": 156,
+			"h": 149,
+			"offX": 12,
+			"offY": 17,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_duplicate_icon_109": {
+			"x": 552,
+			"y": 560,
+			"w": 156,
+			"h": 149,
+			"offX": 12,
+			"offY": 17,
+			"sourceW": 180,
+			"sourceH": 180
+		},
+		"union_icon_info": {
+			"x": 710,
+			"y": 560,
+			"w": 89,
+			"h": 90,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 90
+		},
+		"union_duplicate_icon_101": {
+			"x": 317,
+			"y": 690,
+			"w": 156,
+			"h": 149,
+			"offX": 12,
+			"offY": 17,
+			"sourceW": 180,
+			"sourceH": 180
+		}
+	}
+}

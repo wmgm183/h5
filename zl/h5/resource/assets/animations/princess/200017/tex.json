@@ -1,0 +1,148 @@
+{
+  "width": 1024,
+  "height": 1024,
+  "name": "ani_princess_200017",
+  "imagePath": "方怡_sx_1_tex.png",
+  "SubTexture": [
+    {
+      "width": 136,
+      "y": 496,
+      "height": 401,
+      "name": "touf_1",
+      "x": 154
+    },
+    {
+      "width": 40,
+      "y": 371,
+      "height": 14,
+      "name": "kaiq",
+      "x": 521
+    },
+    {
+      "width": 40,
+      "y": 832,
+      "height": 12,
+      "name": "bank",
+      "x": 417
+    },
+    {
+      "width": 40,
+      "y": 387,
+      "height": 8,
+      "name": "by",
+      "x": 521
+    },
+    {
+      "width": 95,
+      "y": 1,
+      "height": 290,
+      "name": "toufa4",
+      "x": 521
+    },
+    {
+      "width": 193,
+      "y": 899,
+      "height": 117,
+      "name": "toufa3",
+      "x": 154
+    },
+    {
+      "width": 39,
+      "y": 293,
+      "height": 76,
+      "name": "toufa2",
+      "x": 521
+    },
+    {
+      "width": 74,
+      "y": 902,
+      "height": 72,
+      "name": "touf1",
+      "x": 1
+    },
+    {
+      "width": 72,
+      "y": 628,
+      "height": 261,
+      "name": "fasi",
+      "x": 516
+    },
+    {
+      "width": 6,
+      "y": 293,
+      "height": 15,
+      "name": "erh",
+      "x": 562
+    },
+    {
+      "width": 395,
+      "y": 1,
+      "height": 493,
+      "name": "qunzi",
+      "x": 1
+    },
+    {
+      "width": 151,
+      "y": 496,
+      "height": 404,
+      "name": "pd",
+      "x": 1
+    },
+    {
+      "width": 123,
+      "y": 496,
+      "height": 401,
+      "name": "pd_0",
+      "x": 292
+    },
+    {
+      "width": 121,
+      "y": 1,
+      "height": 394,
+      "name": "pd_1",
+      "x": 398
+    },
+    {
+      "width": 59,
+      "y": 899,
+      "height": 119,
+      "name": "xu",
+      "x": 349
+    },
+    {
+      "width": 77,
+      "y": 293,
+      "height": 205,
+      "name": "gjian",
+      "x": 584
+    },
+    {
+      "width": 165,
+      "y": 397,
+      "height": 229,
+      "name": "ss",
+      "x": 417
+    },
+    {
+      "width": 97,
+      "y": 628,
+      "height": 202,
+      "name": "youshou",
+      "x": 417
+    },
+    {
+      "width": 46,
+      "y": 500,
+      "height": 124,
+      "name": "shoba",
+      "x": 584
+    },
+    {
+      "width": 110,
+      "y": 891,
+      "height": 131,
+      "name": "zuoshou",
+      "x": 417
+    }
+  ]
+}

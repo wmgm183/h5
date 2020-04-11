@@ -1,0 +1,195 @@
+{
+	"file": "sheet_skill.png",
+	"frames": {
+		"skill_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 540,
+			"h": 532,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 540,
+			"sourceH": 532
+		},
+		"skill_50001": {
+			"x": 543,
+			"y": 1,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50003": {
+			"x": 543,
+			"y": 129,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50004": {
+			"x": 543,
+			"y": 257,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50005": {
+			"x": 543,
+			"y": 385,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50006": {
+			"x": 543,
+			"y": 513,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50007": {
+			"x": 1,
+			"y": 535,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50009": {
+			"x": 129,
+			"y": 535,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50008": {
+			"x": 257,
+			"y": 535,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_50002": {
+			"x": 385,
+			"y": 535,
+			"w": 126,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 126,
+			"sourceH": 126
+		},
+		"skill_name_50003": {
+			"x": 513,
+			"y": 641,
+			"w": 89,
+			"h": 31,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50001": {
+			"x": 1,
+			"y": 663,
+			"w": 88,
+			"h": 31,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50002": {
+			"x": 91,
+			"y": 663,
+			"w": 88,
+			"h": 30,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50004": {
+			"x": 181,
+			"y": 663,
+			"w": 88,
+			"h": 29,
+			"offX": 0,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50007": {
+			"x": 271,
+			"y": 663,
+			"w": 87,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50009": {
+			"x": 181,
+			"y": 694,
+			"w": 87,
+			"h": 31,
+			"offX": 1,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50005": {
+			"x": 91,
+			"y": 695,
+			"w": 87,
+			"h": 30,
+			"offX": 1,
+			"offY": 1,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50006": {
+			"x": 1,
+			"y": 696,
+			"w": 85,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		},
+		"skill_name_50008": {
+			"x": 360,
+			"y": 663,
+			"w": 84,
+			"h": 31,
+			"offX": 2,
+			"offY": 0,
+			"sourceW": 89,
+			"sourceH": 31
+		}
+	}
+}

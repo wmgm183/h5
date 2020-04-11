@@ -1,0 +1,65 @@
+{
+	"file": "sheet_princess_house.png",
+	"frames": {
+		"princess_house_icon_princess": {
+			"x": 1,
+			"y": 1,
+			"w": 213,
+			"h": 126,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 213,
+			"sourceH": 126
+		},
+		"princess_house_label_position": {
+			"x": 1,
+			"y": 129,
+			"w": 165,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 36
+		},
+		"princess_house_label_princess": {
+			"x": 1,
+			"y": 167,
+			"w": 165,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 36
+		},
+		"princess_house_label_turn": {
+			"x": 1,
+			"y": 205,
+			"w": 165,
+			"h": 36,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 165,
+			"sourceH": 36
+		},
+		"princess_house_icon_turn": {
+			"x": 1,
+			"y": 243,
+			"w": 160,
+			"h": 165,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 160,
+			"sourceH": 165
+		},
+		"princess_house_icon_position": {
+			"x": 1,
+			"y": 410,
+			"w": 155,
+			"h": 147,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 155,
+			"sourceH": 147
+		}
+	}
+}

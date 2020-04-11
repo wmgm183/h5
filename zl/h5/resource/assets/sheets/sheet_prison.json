@@ -1,0 +1,35 @@
+{
+	"file": "sheet_prison.png",
+	"frames": {
+		"prison_talk_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 370,
+			"h": 124,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 370,
+			"sourceH": 124
+		},
+		"prison_icon_whip": {
+			"x": 1,
+			"y": 127,
+			"w": 159,
+			"h": 117,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 159,
+			"sourceH": 117
+		},
+		"prison_icon_token": {
+			"x": 162,
+			"y": 127,
+			"w": 124,
+			"h": 131,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 124,
+			"sourceH": 131
+		}
+	}
+}

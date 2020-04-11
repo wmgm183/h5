@@ -1,0 +1,105 @@
+{
+	"file": "arena_cd.png",
+	"frames": {
+		"0": {
+			"x": 1,
+			"y": 61,
+			"w": 36,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 58
+		},
+		"1": {
+			"x": 120,
+			"y": 1,
+			"w": 21,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 21,
+			"sourceH": 58
+		},
+		"2": {
+			"x": 39,
+			"y": 121,
+			"w": 35,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 58
+		},
+		"3": {
+			"x": 76,
+			"y": 121,
+			"w": 35,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 58
+		},
+		"4": {
+			"x": 1,
+			"y": 1,
+			"w": 39,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 58
+		},
+		"5": {
+			"x": 42,
+			"y": 1,
+			"w": 37,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 37,
+			"sourceH": 58
+		},
+		"6": {
+			"x": 81,
+			"y": 1,
+			"w": 37,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 37,
+			"sourceH": 58
+		},
+		"7": {
+			"x": 39,
+			"y": 61,
+			"w": 36,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 58
+		},
+		"8": {
+			"x": 77,
+			"y": 61,
+			"w": 36,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 58
+		},
+		"9": {
+			"x": 1,
+			"y": 121,
+			"w": 36,
+			"h": 58,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 58
+		}
+	}
+}

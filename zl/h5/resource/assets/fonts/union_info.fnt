@@ -1,0 +1,185 @@
+{
+	"file": "union_info.png",
+	"frames": {
+		"0": {
+			"x": 1,
+			"y": 59,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"1": {
+			"x": 51,
+			"y": 88,
+			"w": 10,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 10,
+			"sourceH": 27
+		},
+		"2": {
+			"x": 35,
+			"y": 59,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"3": {
+			"x": 52,
+			"y": 59,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"4": {
+			"x": 69,
+			"y": 59,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"5": {
+			"x": 47,
+			"y": 30,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"6": {
+			"x": 64,
+			"y": 30,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"7": {
+			"x": 35,
+			"y": 88,
+			"w": 14,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 14,
+			"sourceH": 27
+		},
+		"8": {
+			"x": 18,
+			"y": 59,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"9": {
+			"x": 18,
+			"y": 88,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"成": {
+			"x": 1,
+			"y": 1,
+			"w": 28,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 28,
+			"sourceH": 27
+		},
+		"盟": {
+			"x": 31,
+			"y": 1,
+			"w": 27,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 27,
+			"sourceH": 27
+		},
+		"联": {
+			"x": 60,
+			"y": 1,
+			"w": 26,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 27
+		},
+		"员": {
+			"x": 1,
+			"y": 30,
+			"w": 25,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 25,
+			"sourceH": 27
+		},
+		"/": {
+			"x": 28,
+			"y": 30,
+			"w": 17,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 17,
+			"sourceH": 27
+		},
+		":": {
+			"x": 81,
+			"y": 30,
+			"w": 7,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 7,
+			"sourceH": 27
+		},
+		"D": {
+			"x": 1,
+			"y": 88,
+			"w": 15,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 15,
+			"sourceH": 27
+		},
+		"I": {
+			"x": 63,
+			"y": 88,
+			"w": 9,
+			"h": 27,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 9,
+			"sourceH": 27
+		}
+	}
+}

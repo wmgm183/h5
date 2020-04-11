@@ -1,0 +1,105 @@
+{
+	"file": "activity_name.png",
+	"frames": {
+		"励": {
+			"x": 1,
+			"y": 1,
+			"w": 44,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 44,
+			"sourceH": 47
+		},
+		"礼": {
+			"x": 47,
+			"y": 1,
+			"w": 44,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 44,
+			"sourceH": 47
+		},
+		"限": {
+			"x": 93,
+			"y": 1,
+			"w": 41,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 47
+		},
+		"动": {
+			"x": 1,
+			"y": 50,
+			"w": 42,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 42,
+			"sourceH": 47
+		},
+		"奖": {
+			"x": 45,
+			"y": 50,
+			"w": 41,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 41,
+			"sourceH": 47
+		},
+		"时": {
+			"x": 88,
+			"y": 50,
+			"w": 39,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 39,
+			"sourceH": 47
+		},
+		"包": {
+			"x": 1,
+			"y": 99,
+			"w": 37,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 37,
+			"sourceH": 47
+		},
+		"活": {
+			"x": 40,
+			"y": 99,
+			"w": 36,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 47
+		},
+		"专": {
+			"x": 78,
+			"y": 99,
+			"w": 36,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 36,
+			"sourceH": 47
+		},
+		"区": {
+			"x": 1,
+			"y": 148,
+			"w": 31,
+			"h": 47,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 31,
+			"sourceH": 47
+		}
+	}
+}

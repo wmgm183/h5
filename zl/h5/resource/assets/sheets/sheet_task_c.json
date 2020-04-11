@@ -1,0 +1,25 @@
+{
+	"file": "sheet_task_c.png",
+	"frames": {
+		"task_panel_bg": {
+			"x": 1,
+			"y": 1,
+			"w": 48,
+			"h": 844,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 48,
+			"sourceH": 844
+		},
+		"task_item_bg": {
+			"x": 51,
+			"y": 1,
+			"w": 32,
+			"h": 200,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 32,
+			"sourceH": 200
+		}
+	}
+}

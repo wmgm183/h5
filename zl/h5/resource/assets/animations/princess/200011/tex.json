@@ -1,0 +1,141 @@
+{
+  "SubTexture": [
+    {
+      "width": 96,
+      "y": 325,
+      "height": 322,
+      "name": "YxiuL",
+      "x": 722
+    },
+    {
+      "width": 159,
+      "y": 512,
+      "height": 457,
+      "name": "Purple2",
+      "x": 561
+    },
+    {
+      "width": 317,
+      "y": 1,
+      "height": 621,
+      "name": "Green",
+      "x": 1
+    },
+    {
+      "width": 159,
+      "y": 1,
+      "height": 509,
+      "name": "Pink2",
+      "x": 468
+    },
+    {
+      "width": 254,
+      "y": 624,
+      "height": 389,
+      "name": "Pink1",
+      "x": 305
+    },
+    {
+      "width": 302,
+      "y": 624,
+      "height": 344,
+      "name": "Purple1",
+      "x": 1
+    },
+    {
+      "width": 98,
+      "y": 649,
+      "height": 106,
+      "name": "Book",
+      "x": 722
+    },
+    {
+      "width": 29,
+      "y": 563,
+      "height": 34,
+      "name": "HandL",
+      "x": 434
+    },
+    {
+      "width": 146,
+      "y": 1,
+      "height": 560,
+      "name": "Body",
+      "x": 320
+    },
+    {
+      "width": 112,
+      "y": 563,
+      "height": 45,
+      "name": "pen",
+      "x": 320
+    },
+    {
+      "width": 103,
+      "y": 1,
+      "height": 322,
+      "name": "YxiuR",
+      "x": 629
+    },
+    {
+      "width": 167,
+      "y": 1,
+      "height": 149,
+      "name": "Purple3",
+      "x": 734
+    },
+    {
+      "width": 92,
+      "y": 152,
+      "height": 130,
+      "name": "tou",
+      "x": 734
+    },
+    {
+      "width": 12,
+      "y": 610,
+      "height": 8,
+      "name": "LD",
+      "x": 356
+    },
+    {
+      "width": 13,
+      "y": 610,
+      "height": 9,
+      "name": "LS",
+      "x": 341
+    },
+    {
+      "width": 19,
+      "y": 610,
+      "height": 9,
+      "name": "RD",
+      "x": 320
+    },
+    {
+      "width": 21,
+      "y": 599,
+      "height": 11,
+      "name": "RS",
+      "x": 434
+    },
+    {
+      "width": 25,
+      "y": 563,
+      "height": 35,
+      "name": "Flower",
+      "x": 465
+    },
+    {
+      "width": 10,
+      "y": 563,
+      "height": 34,
+      "name": "Fashi",
+      "x": 492
+    }
+  ],
+  "width": 1024,
+  "imagePath": "Waner-g_tex.png",
+  "name": "ani_princess_200011",
+  "height": 1024
+}

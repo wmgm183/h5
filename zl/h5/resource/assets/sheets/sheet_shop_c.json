@@ -1,0 +1,35 @@
+{
+	"file": "sheet_shop_c.png",
+	"frames": {
+		"shop_vip_bg_n": {
+			"x": 1,
+			"y": 1,
+			"w": 30,
+			"h": 440,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 30,
+			"sourceH": 440
+		},
+		"shop_gift_bg": {
+			"x": 33,
+			"y": 1,
+			"w": 30,
+			"h": 270,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 30,
+			"sourceH": 270
+		},
+		"shop_vip_bg_h": {
+			"x": 65,
+			"y": 1,
+			"w": 26,
+			"h": 242,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 26,
+			"sourceH": 242
+		}
+	}
+}

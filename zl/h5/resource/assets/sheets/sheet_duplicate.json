@@ -1,0 +1,135 @@
+{
+	"file": "sheet_duplicate.png",
+	"frames": {
+		"duplicate_progress_track": {
+			"x": 1,
+			"y": 1,
+			"w": 610,
+			"h": 42,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 610,
+			"sourceH": 42
+		},
+		"duplicate_fight_bg": {
+			"x": 1,
+			"y": 45,
+			"w": 210,
+			"h": 194,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 210,
+			"sourceH": 194
+		},
+		"duplicate_label_fight": {
+			"x": 213,
+			"y": 45,
+			"w": 142,
+			"h": 151,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 142,
+			"sourceH": 155
+		},
+		"duplicate_recover": {
+			"x": 357,
+			"y": 45,
+			"w": 139,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 139,
+			"sourceH": 29
+		},
+		"duplicate_type_bg": {
+			"x": 498,
+			"y": 45,
+			"w": 94,
+			"h": 86,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 94,
+			"sourceH": 86
+		},
+		"duplicate_unload": {
+			"x": 357,
+			"y": 76,
+			"w": 139,
+			"h": 29,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 139,
+			"sourceH": 29
+		},
+		"duplicate_skill_2": {
+			"x": 357,
+			"y": 107,
+			"w": 127,
+			"h": 127,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 127,
+			"sourceH": 127
+		},
+		"duplicate_btn_exit": {
+			"x": 486,
+			"y": 133,
+			"w": 115,
+			"h": 40,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 115,
+			"sourceH": 40
+		},
+		"duplicate_skill_1": {
+			"x": 213,
+			"y": 198,
+			"w": 127,
+			"h": 127,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 127,
+			"sourceH": 127
+		},
+		"duplicate_help": {
+			"x": 486,
+			"y": 175,
+			"w": 57,
+			"h": 57,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 57,
+			"sourceH": 57
+		},
+		"duplicate_add": {
+			"x": 545,
+			"y": 175,
+			"w": 52,
+			"h": 52,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 52,
+			"sourceH": 52
+		},
+		"duplicate_name_bg": {
+			"x": 545,
+			"y": 229,
+			"w": 35,
+			"h": 272,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 35,
+			"sourceH": 272
+		},
+		"duplicate_select_bg": {
+			"x": 582,
+			"y": 229,
+			"w": 24,
+			"h": 24,
+			"offX": 0,
+			"offY": 0,
+			"sourceW": 24,
+			"sourceH": 24
+		}
+	}
+}

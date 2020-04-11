@@ -1,0 +1,148 @@
+{
+  "width": 1024,
+  "imagePath": "shuanger_g_tex.png",
+  "height": 512,
+  "name": "ani_princess_200012",
+  "SubTexture": [
+    {
+      "width": 274,
+      "y": 1,
+      "height": 420,
+      "name": "Di",
+      "x": 1
+    },
+    {
+      "width": 142,
+      "y": 1,
+      "height": 399,
+      "name": "QunbaiL",
+      "x": 277
+    },
+    {
+      "width": 80,
+      "y": 227,
+      "height": 249,
+      "name": "PIaodai_",
+      "x": 713
+    },
+    {
+      "width": 107,
+      "y": 1,
+      "height": 373,
+      "name": "QunbaiR",
+      "x": 604
+    },
+    {
+      "width": 181,
+      "y": 1,
+      "height": 295,
+      "name": "Hair",
+      "x": 421
+    },
+    {
+      "width": 46,
+      "y": 298,
+      "height": 47,
+      "name": "HandR",
+      "x": 530
+    },
+    {
+      "width": 126,
+      "y": 376,
+      "height": 116,
+      "name": "ArmR",
+      "x": 530
+    },
+    {
+      "width": 114,
+      "y": 1,
+      "height": 224,
+      "name": "Body",
+      "x": 713
+    },
+    {
+      "width": 48,
+      "y": 476,
+      "height": 34,
+      "name": "HandL",
+      "x": 334
+    },
+    {
+      "width": 107,
+      "y": 298,
+      "height": 176,
+      "name": "ArmL",
+      "x": 421
+    },
+    {
+      "width": 68,
+      "y": 370,
+      "height": 120,
+      "name": "Hair2",
+      "x": 795
+    },
+    {
+      "width": 23,
+      "y": 376,
+      "height": 118,
+      "name": "Hair1",
+      "x": 658
+    },
+    {
+      "width": 101,
+      "y": 227,
+      "height": 141,
+      "name": "Face",
+      "x": 795
+    },
+    {
+      "width": 14,
+      "y": 347,
+      "height": 13,
+      "name": "EyeR",
+      "x": 530
+    },
+    {
+      "width": 22,
+      "y": 323,
+      "height": 16,
+      "name": "EyeL",
+      "x": 578
+    },
+    {
+      "width": 5,
+      "y": 341,
+      "height": 18,
+      "name": "er2",
+      "x": 594
+    },
+    {
+      "width": 4,
+      "y": 361,
+      "height": 13,
+      "name": "er1",
+      "x": 594
+    },
+    {
+      "width": 20,
+      "y": 298,
+      "height": 23,
+      "name": "butterfly2",
+      "x": 578
+    },
+    {
+      "width": 14,
+      "y": 341,
+      "height": 21,
+      "name": "butterfly1",
+      "x": 578
+    },
+    {
+      "width": 55,
+      "y": 402,
+      "height": 81,
+      "name": "Hair3",
+      "x": 277
+    }
+  ]
+}
