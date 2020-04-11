@@ -1,0 +1,21 @@
+{
+	"initial": [
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/egret/egret.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/egret/egret.web.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/eui/eui.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/res/res.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/game/game.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/socket/socket.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/dragonBones/dragonBones.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/egret-navigator/egret-navigator.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/particle/particle.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/jszip/jszip.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/base64/base64.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/tween/tween.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/libs/modules/long/long.min.js",
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/promise/bin/promise.min.js"
+	],
+	"game": [
+		"https://cdn.jsdelivr.net/gh/wmgm183/h5@master/zl/h5/main.min.js"
+	]
+}
